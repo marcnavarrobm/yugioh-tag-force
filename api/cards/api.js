@@ -24,13 +24,16 @@ app.post('/cards', async (req, res) => {
         const joinedNames = cardNames.join('|')
 
         const response = await axios.get(apiUrl, { params: { name: joinedNames } })
-        let cardsData = response
+
+        let cardsData = response.data.data
 
         // Process and merge card data
         cardsData = await mergeData(cardsData, pack)
+        console.log('cardsData:', cardsData)
 
         // Update card codes
         cardsData = await updateCodes(cardsData)
+        console.log('cardsData:', cardsData)
 
         // Import cards into the database
         await importCards(cardsData)

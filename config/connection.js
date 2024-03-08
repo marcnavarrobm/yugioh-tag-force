@@ -1,9 +1,11 @@
 import { Sequelize } from 'sequelize'
+import dotenv from 'dotenv'
 
-// Crear una nueva instancia de Sequelize
-const db = new Sequelize('yugi', 'root', 'root', {
-    host: 'localhost', // o la dirección de tu servidor de base de datos
-    dialect: 'mysql' // o el dialecto de la base de datos que estás usando (por ejemplo, 'postgres', 'sqlite', etc.)
+dotenv.config()
+
+const db = new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PASS, {
+    host: process.env.DB_HOST,
+    dialect: 'mysql'
 })
 
 export default db

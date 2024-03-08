@@ -43,4 +43,5 @@ export const importCards = async (cardsData) => {
             console.error(`Error importing card ${item.name}:`, error)
         }
     }
+    console.log('Cards imported successfully')
 }
