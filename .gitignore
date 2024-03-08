@@ -1,0 +1,45 @@
+
+# Dependencias
+node_modules/
+jspm_packages/
+bower_components/
+
+# Archivos de configuración de entorno
+.env
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# Directorios y archivos de log
+logs/
+*.log
+npm-debug.log*
+
+# Directorios de caché y archivos temporales
+.cache/
+.tmp/
+temp/
+
+# Directorios de compilación/output
+dist/
+build/
+out/
+
+# Archivos de Editor/IDE específicos
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos específicos de Angular
+src/app/**/*.js.map
+src/app/**/*.d.ts
+
+# Archivos de pruebas
+coverage/
+.nyc_output
+
+# Otros archivos y directorios comunes
+*.tar.gz
+*.zip

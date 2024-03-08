@@ -1,0 +1,290 @@
+[
+    {
+        "name": "First Monster",
+        "cost": 100,
+        "unlock": "Available from the start.",
+        "image": "/images/packs/First_Monster-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "First Spell・Trap",
+        "cost": 100,
+        "unlock": "Available from the start.",
+        "image": "/images/packs/First_Spell-Trap-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "First Fusion",
+        "cost": 100,
+        "unlock": "Available after May 7.",
+        "image": "/images/packs/First_Fusion-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "First Effect Monster",
+        "cost": 150,
+        "unlock": "Available from the start.",
+        "image": "/images/packs/First_Effect_Monster-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Step Up Spell・Trap",
+        "cost": 150,
+        "unlock": "Available from the start.",
+        "image": "/images/packs/Step_Up_Spell-Trap-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Step Up Fusion",
+        "cost": 150,
+        "unlock": "Available after May 7.",
+        "image": "/images/packs/Step_Up_Fusion-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Anti Effect",
+        "cost": 100,
+        "unlock": "Have at least 80% of the cards from First Effect Monster, Step Up Spell・Trap, and Step Up Fusion.",
+        "image": "/images/packs/Anti_Effect-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Life Breaker",
+        "cost": 100,
+        "unlock": "Have at least 80% of the cards from First Effect Monster, Step Up Spell・Trap, and Step Up Fusion.",
+        "image": "/images/packs/Life_Breaker-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Go Go Direct",
+        "cost": 100,
+        "unlock": "Have at least 80% of the cards from First Effect Monster, Step Up Spell・Trap, and Step Up Fusion.",
+        "image": "/images/packs/Go_Go_Direct-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Visitor from the Dark",
+        "cost": 100,
+        "unlock": "Available only in Part 1, during Mondays",
+        "image": "/images/packs/Visitor_from_the_Dark-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Emergent Fire",
+        "cost": 100,
+        "unlock": "Available only in Part 1, during Tuesdays",
+        "image": "/images/packs/Emergent_Fire-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Water of Life",
+        "cost": 100,
+        "unlock": "Available only in Part 1, during Wednesdays",
+        "image": "/images/packs/Water_of_Life-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Gift of Wind",
+        "cost": 100,
+        "unlock": "Available only in Part 1, during Thursdays",
+        "image": "/images/packs/Gift_of_Wind-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Platinum Light",
+        "cost": 100,
+        "unlock": "Available only in Part 1, during Fridays",
+        "image": "/images/packs/Platinum_Light-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Earth Dwellers",
+        "cost": 100,
+        "unlock": "Available only in Part 1, during Saturdays",
+        "image": "/images/packs/Earth_Dwellers-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Lucky Economy Pack",
+        "cost": 300,
+        "unlock": "Randomly available for purchase for a whole day during random days, only in Part 1",
+        "image": "/images/packs/Lucky_Economy_Pack-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Endless Thoughts",
+        "cost": 100,
+        "unlock": "Duelist Level of 5 or higher",
+        "image": "/images/packs/Endless_Thoughts-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Flip the Picture",
+        "cost": 100,
+        "unlock": "Duelist Level of 10 or higher",
+        "image": "/images/packs/Flip_the_Picture-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Equip Me",
+        "cost": 100,
+        "unlock": "Duelist Level of 15 or higher",
+        "image": "/images/packs/Equip_Me-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "More Eternal Memories",
+        "cost": 100,
+        "unlock": "Duelist Level of 20 or higher",
+        "image": "/images/packs/More_Eternal_Memories-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Speed King",
+        "cost": 100,
+        "unlock": "Duelist Level of 25 or higher",
+        "image": "/images/packs/Speed_King-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Spice of Duel",
+        "cost": 100,
+        "unlock": "Duelist Level of 30 or higher",
+        "image": "/images/packs/Spice_of_Duel-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Fairy's Sky",
+        "cost": 100,
+        "unlock": "Duelist Level of 35 or higher",
+        "image": "/images/packs/Fairys_Sky-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Dragon Drive",
+        "cost": 100,
+        "unlock": "Duelist Level of 40 or higher",
+        "image": "/images/packs/Dragon_Drive-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Fiend Night",
+        "cost": 100,
+        "unlock": "Duelist Level of 45 or higher",
+        "image": "/images/packs/Fiend_Night-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Skillful Spellcasters",
+        "cost": 100,
+        "unlock": "Clear five characters' stories",
+        "image": "/images/packs/Skillful_Spellcasters-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Cold Skin",
+        "cost": 100,
+        "unlock": "Duel Ranking percentage of 50% or higher",
+        "image": "/images/packs/Cold_Skin-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Ritual Dance",
+        "cost": 100,
+        "unlock": "20 hours of play time",
+        "image": "/images/packs/Ritual_Dance-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Symbol 50",
+        "cost": 300,
+        "unlock": "Duelist Level of 50 or higher",
+        "image": "/images/packs/Symbol_50-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Wave of the Future",
+        "cost": 300,
+        "unlock": "Streak of at least 10 victories in a row",
+        "image": "/images/packs/Wave_of_the_Future-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Good Ol' Days",
+        "cost": 300,
+        "unlock": "Streak of at least 10 losses in a row",
+        "image": "/images/packs/Good_Ol_Days-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Hero Emerges!",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Jaden Yuki; Part 2 and 3 if partnered with Jaden.",
+        "image": "/images/packs/Hero_Emerges-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "A Machine's Soul Never Sleeps",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Syrus Truesdale; Part 2 and 3 if partnered with Syrus.",
+        "image": "/images/packs/A_Machines_Soul_Never_Sleeps-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Beast Kingdom",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Chumley Huffington; Part 2 and 3 if partnered with Chumley.",
+        "image": "/images/packs/Beast_Kingdom-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Maiden's Heartbeat",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Alexis Rhodes; Part 2 and 3 if partnered with Alexis.",
+        "image": "/images/packs/Maidens_Heartbeat-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Never Give Up",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Chazz Princeton; Part 2 and 3 if partnered with Chazz.",
+        "image": "/images/packs/Never_Give_Up-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Warrior's Pyramid",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Bastion Misawa; Part 2 and 3 if partnered with Bastion.",
+        "image": "/images/packs/Warriors_Pyramid-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Technology Master",
+        "cost": 100,
+        "unlock": "Available in Part 1 with Zane Truesdale; Part 2 and 3 if partnered with Zane.",
+        "image": "/images/packs/Technology_Master-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Bit Players",
+        "cost": 100,
+        "unlock": "Available in Part 2 and 3 with a Duelist 2 partner.",
+        "image": "/images/packs/Bit_Players-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Vanilla Gloom",
+        "cost": 100,
+        "unlock": "Available in Part 2 and 3 with a Duelist 3 partner.",
+        "image": "/images/packs/Vanilla_Gloom-Booster-GX02-Japanese.webp"
+    },
+    {
+        "name": "Tag Survivor",
+        "cost": 100,
+        "unlock": "Available in Part 2 and 3.",
+        "image": "/images/packs/Tag_Survivor-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Princeton Power",
+        "cost": 50,
+        "unlock": "Finish Part 3 with the Princeton family.",
+        "image": "/images/packs/Princeton_Power-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Approach the Hotties",
+        "cost": 100,
+        "unlock": "Finish Part 3 with Mindy.",
+        "image": "/images/packs/Approach_the_Hotties-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Dorothy's Soul",
+        "cost": 50,
+        "unlock": "Finish Part 3 with Dorothy; buy when Dorothy is at the counter.",
+        "image": "/images/packs/Dorothys_Soul-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Sadie's Soul",
+        "cost": 50,
+        "unlock": "Finish Part 3 with Sadie; buy when Sadie is at the counter.",
+        "image": "/images/packs/Sadies_Soul-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Midday Constellation (Noon Star)",
+        "cost": 5730,
+        "unlock": "Enter the Konami Code while browsing packs.",
+        "image": "/images/packs/Midday_Constellation_Noon_Star-Booster-GX02-Japanese.webp"
+    },
+    {
+        "name": "Double Triple Destiny Draw",
+        "cost": 100,
+        "unlock": "Obtain the Golden Egg Sandwich once.",
+        "image": "/images/packs/Double_Triple_Destiny_Draw-Booster-GX02-Localized.webp"
+    },
+    {
+        "name": "Checkered Flag",
+        "cost": 300,
+        "unlock": "Obtain 90% of all cards.",
+        "image": "/images/packs/Checkered_Flag-Booster-GX02-Localized.webp"
+    }    
+]

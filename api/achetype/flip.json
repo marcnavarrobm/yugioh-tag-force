@@ -1,0 +1,3566 @@
+{
+    "data": [
+    {
+    "id": 83994646,
+    "name": "4-Starred Ladybug of Doom",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Destroy all Level 4 monsters your opponent controls.",
+    "atk": 800,
+    "def": 1200,
+    "level": 3,
+    "race": "Insect",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/4-starred-ladybug-of-doom-7045",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 1",
+    "set_code": "DB1-EN198",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-088",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.28"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-E088",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-EN088",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Retro Pack 2",
+    "set_code": "RP02-EN022",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Starter Deck: Yugi Reloaded",
+    "set_code": "YSYR-EN010",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.38"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 83994646,
+    "image_url": "https://images.ygoprodeck.com/images/cards/83994646.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83994646.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83994646.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.13",
+    "tcgplayer_price": "0.11",
+    "ebay_price": "0.99",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 24140059,
+    "name": "A Cat of Ill Omen",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if \"Necrovalley\" is on the field, you can add that Trap to your hand instead.",
+    "atk": 500,
+    "def": 300,
+    "level": 2,
+    "race": "Beast",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/a-cat-of-ill-omen-2087",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN018",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-070",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.22"
+    },
+    {
+    "set_name": "Speed Duel Starter Decks: Destiny Masters",
+    "set_code": "SS01-ENB11",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.51"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 24140059,
+    "image_url": "https://images.ygoprodeck.com/images/cards/24140059.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24140059.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24140059.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "1.00",
+    "tcgplayer_price": "1.93",
+    "ebay_price": "3.99",
+    "amazon_price": "4.49",
+    "coolstuffinc_price": "0.99"
+    }
+    ]
+    },
+    {
+    "id": 62437709,
+    "name": "Alien Grey",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field. (If a monster with an A-Counter battles an \"Alien\" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.",
+    "atk": 300,
+    "def": 800,
+    "level": 2,
+    "race": "Reptile",
+    "attribute": "LIGHT",
+    "archetype": "Alien",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/alien-grey-5280",
+    "card_sets": [
+    {
+    "set_name": "Power of the Duelist",
+    "set_code": "POTD-EN024",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 62437709,
+    "image_url": "https://images.ygoprodeck.com/images/cards/62437709.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62437709.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62437709.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.07",
+    "tcgplayer_price": "0.23",
+    "ebay_price": "1.36",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 23927567,
+    "name": "An Owl of Luck",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected Field Spell Card to your hand instead.",
+    "atk": 300,
+    "def": 500,
+    "level": 2,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/an-owl-of-luck-2063",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN021",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-073",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.4"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 23927567,
+    "image_url": "https://images.ygoprodeck.com/images/cards/23927567.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23927567.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23927567.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.35",
+    "tcgplayer_price": "0.50",
+    "ebay_price": "3.95",
+    "amazon_price": "1.64",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 85489096,
+    "name": "Arsenal Summoner",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Add 1 \"Guardian\" card from your Deck to your hand, except \"Celtic Guardian\", \"Winged Dragon, Guardian of the Fortress #1\", \"Winged Dragon, Guardian of the Fortress #2\", \"Guardian of the Labyrinth\", or \"The Reliable Guardian\".",
+    "atk": 1600,
+    "def": 1600,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "WIND",
+    "archetype": "Guardian",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/arsenal-summoner-7164",
+    "card_sets": [
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-004",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.53"
+    },
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-EN004",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN166",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+    "set_code": "LCYW-EN247",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.08"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 85489096,
+    "image_url": "https://images.ygoprodeck.com/images/cards/85489096.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/85489096.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/85489096.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.24",
+    "tcgplayer_price": "0.21",
+    "ebay_price": "1.00",
+    "amazon_price": "1.98",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 37970940,
+    "name": "Aussa the Earth Charmer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.",
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "EARTH",
+    "archetype": "Charmer",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/aussa-the-earth-charmer-3213",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN206",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 5a",
+    "set_code": "DT05-EN010",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Spirit Charmers",
+    "set_code": "SDCH-EN001",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.59"
+    },
+    {
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN026",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 37970940,
+    "image_url": "https://images.ygoprodeck.com/images/cards/37970940.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37970940.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37970940.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.07",
+    "tcgplayer_price": "0.12",
+    "ebay_price": "1.28",
+    "amazon_price": "1.13",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 50122883,
+    "name": "Bite Shoes",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Change the battle position of 1 face-up monster on the field.",
+    "atk": 500,
+    "def": 300,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bite-shoes-4269",
+    "card_sets": [
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-080",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.02"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-E080",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "7.65"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-EN080",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 50122883,
+    "image_url": "https://images.ygoprodeck.com/images/cards/50122883.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/50122883.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/50122883.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.09",
+    "tcgplayer_price": "0.05",
+    "ebay_price": "0.01",
+    "amazon_price": "0.20",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 57409948,
+    "name": "Bombardment Beetle",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent's side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.",
+    "atk": 400,
+    "def": 900,
+    "level": 2,
+    "race": "Insect",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bombardment-beetle-4891",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 1",
+    "set_code": "DB1-EN197",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-087",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.34"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-E087",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "2.4"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-EN087",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-EN087",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 57409948,
+    "image_url": "https://images.ygoprodeck.com/images/cards/57409948.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57409948.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57409948.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.10",
+    "tcgplayer_price": "0.05",
+    "ebay_price": "1.00",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 40267580,
+    "name": "Brain Jacker",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.",
+    "atk": 200,
+    "def": 900,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/brain-jacker-3422",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN154",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Flaming Eternity",
+    "set_code": "FET-EN034",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Flaming Eternity",
+    "set_code": "FET-EN034",
+    "set_rarity": "Ultimate Rare",
+    "set_rarity_code": "(UtR)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 40267580,
+    "image_url": "https://images.ygoprodeck.com/images/cards/40267580.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40267580.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40267580.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "1.60",
+    "tcgplayer_price": "0.73",
+    "ebay_price": "7.99",
+    "amazon_price": "9.99",
+    "coolstuffinc_price": "3.99"
+    }
+    ]
+    },
+    {
+    "id": 6104968,
+    "name": "Bubonic Vermin",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
+    "atk": 900,
+    "def": 600,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/bubonic-vermin-534",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 1",
+    "set_code": "DB1-EN176",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-057",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.6"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-E057",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "10.14"
+    },
+    {
+    "set_name": "Pharaoh's Servant",
+    "set_code": "PSV-EN057",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 6104968,
+    "image_url": "https://images.ygoprodeck.com/images/cards/6104968.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6104968.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6104968.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.22",
+    "tcgplayer_price": "0.09",
+    "ebay_price": "0.99",
+    "amazon_price": "1.01",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 86801871,
+    "name": "Cobra Jar",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Special Summon 1 \"Poisonous Snake Token\" (Reptile-Type/EARTH/3 Stars/ATK 1200/DEF 1200). When the \"Poisonous Snake Token\" is destroyed as a result of battle, inflict 500 points of damage to your opponent's Life Points.",
+    "atk": 600,
+    "def": 300,
+    "level": 2,
+    "race": "Reptile",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/cobra-jar-7264",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN023",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-075",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.53"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 86801871,
+    "image_url": "https://images.ygoprodeck.com/images/cards/86801871.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86801871.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86801871.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.47",
+    "tcgplayer_price": "0.46",
+    "ebay_price": "8.99",
+    "amazon_price": "1.71",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 14618326,
+    "name": "Crimson Ninja",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 Trap Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Trap Card. Otherwise, return it to its original position.)",
+    "atk": 300,
+    "def": 300,
+    "level": 1,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "archetype": "Ninja",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/crimson-ninja-1251",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN006",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duelist League 13 participation cards",
+    "set_code": "DL13-EN004",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "5"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-006",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.66"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-EN006",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 14618326,
+    "image_url": "https://images.ygoprodeck.com/images/cards/14618326.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14618326.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14618326.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.19",
+    "tcgplayer_price": "0.07",
+    "ebay_price": "4.50",
+    "amazon_price": "0.29",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 8634636,
+    "name": "Dark Cat with White Tail",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands.",
+    "atk": 800,
+    "def": 500,
+    "level": 2,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-cat-with-white-tail-731",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN138",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Magician's Force",
+    "set_code": "MFC-083",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.09"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 8634636,
+    "image_url": "https://images.ygoprodeck.com/images/cards/8634636.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8634636.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8634636.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.27",
+    "tcgplayer_price": "0.21",
+    "ebay_price": "0.99",
+    "amazon_price": "0.20",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 74713516,
+    "name": "Dark Mimic LV1",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+    "atk": 100,
+    "def": 1000,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv1-6285",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Gold Series: Haunted Mine",
+    "set_code": "GLD5-EN017",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Soul of the Duelist",
+    "set_code": "SOD-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+    "set_code": "SS05-ENA18",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.08"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 74713516,
+    "image_url": "https://images.ygoprodeck.com/images/cards/74713516.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74713516.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.16",
+    "tcgplayer_price": "0.45",
+    "ebay_price": "1.49",
+    "amazon_price": "2.47",
+    "coolstuffinc_price": "0.79"
+    }
+    ]
+    },
+    {
+    "id": 87621407,
+    "name": "Dekoichi the Battlechanted Locomotive",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Draw 1 card, then draw 1 additional card for each face-up \"Bokoichi the Freightening Car\" you control.",
+    "atk": 1400,
+    "def": 1000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dekoichi-the-battlechanted-locomotive-7335",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN189",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN189",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN092",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Hobby League 5 participation card D",
+    "set_code": "HL05-EN004",
+    "set_rarity": "Ultra Parallel Rare",
+    "set_rarity_code": "(UPR)",
+    "set_price": "19.5"
+    },
+    {
+    "set_name": "Rise of Destiny",
+    "set_code": "RDS-EN032",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Rise of Destiny",
+    "set_code": "RDS-EN032",
+    "set_rarity": "Ultimate Rare",
+    "set_rarity_code": "(UtR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel GX: Duel Academy Box",
+    "set_code": "SGX1-END05",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel GX: Duel Academy Box",
+    "set_code": "SGX1-END05",
+    "set_rarity": "Secret Rare",
+    "set_rarity_code": "(ScR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel: Scars of Battle",
+    "set_code": "SBSC-EN032",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "5.6"
+    },
+    {
+    "set_name": "Starter Deck: Syrus Truesdale",
+    "set_code": "YSDS-EN011",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "7.33"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 87621407,
+    "image_url": "https://images.ygoprodeck.com/images/cards/87621407.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87621407.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87621407.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "1.71",
+    "tcgplayer_price": "0.46",
+    "ebay_price": "2.94",
+    "amazon_price": "2.58",
+    "coolstuffinc_price": "1.99"
+    }
+    ]
+    },
+    {
+    "id": 81985784,
+    "name": "Des Feral Imp",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
+    "atk": 1600,
+    "def": 1800,
+    "level": 4,
+    "race": "Reptile",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/des-feral-imp-6886",
+    "card_sets": [
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-014",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "3.4"
+    },
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-EN014",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN176",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Starter Deck: Kaiba Reloaded",
+    "set_code": "YSKR-EN015",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.28"
+    },
+    {
+    "set_name": "Structure Deck: Seto Kaiba",
+    "set_code": "SDKS-EN014",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.14"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 81985784,
+    "image_url": "https://images.ygoprodeck.com/images/cards/81985784.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81985784.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81985784.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.09",
+    "tcgplayer_price": "0.17",
+    "ebay_price": "1.95",
+    "amazon_price": "1.18",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 69579761,
+    "name": "Des Koala",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Inflict 400 damage to your opponent for each card in their hand.",
+    "atk": 1100,
+    "def": 1800,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "DARK",
+    "archetype": "Koala",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/des-koala-5852",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN132",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Demo Pack",
+    "set_code": "DEM1-EN010",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Magician's Force",
+    "set_code": "MFC-077",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "4.25"
+    },
+    {
+    "set_name": "Speed Duel GX: Midterm Paradox",
+    "set_code": "SGX2-ENE01",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
+    "set_code": "5DS2-EN011",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 69579761,
+    "image_url": "https://images.ygoprodeck.com/images/cards/69579761.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69579761.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69579761.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.36",
+    "tcgplayer_price": "0.24",
+    "ebay_price": "2.50",
+    "amazon_price": "0.78",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 13409151,
+    "name": "Desertapir",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
+    "atk": 900,
+    "def": 300,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/desertapir-1150",
+    "card_sets": [
+    {
+    "set_name": "Ancient Sanctuary",
+    "set_code": "AST-068",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.49"
+    },
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN181",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 13409151,
+    "image_url": "https://images.ygoprodeck.com/images/cards/13409151.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13409151.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13409151.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.24",
+    "tcgplayer_price": "0.21",
+    "ebay_price": "0.99",
+    "amazon_price": "0.95",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 3549275,
+    "name": "Dice Jar",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+    "atk": 200,
+    "def": 300,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "LIGHT",
+    "archetype": "Dice",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dice-jar-314",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN226",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.85"
+    },
+    {
+    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+    "set_code": "LCJW-EN262",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-027",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "4.53"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 3549275,
+    "image_url": "https://images.ygoprodeck.com/images/cards/3549275.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3549275.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3549275.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "2.53",
+    "tcgplayer_price": "2.50",
+    "ebay_price": "3.94",
+    "amazon_price": "4.48",
+    "coolstuffinc_price": "2.99"
+    }
+    ]
+    },
+    {
+    "id": 73414375,
+    "name": "Dimension Jar",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
+    "atk": 200,
+    "def": 200,
+    "level": 2,
+    "race": "Machine",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dimension-jar-6163",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN078",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Magician's Force",
+    "set_code": "MFC-023",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.6"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 73414375,
+    "image_url": "https://images.ygoprodeck.com/images/cards/73414375.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73414375.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73414375.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.36",
+    "tcgplayer_price": "0.26",
+    "ebay_price": "1.44",
+    "amazon_price": "1.30",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 63018132,
+    "name": "Dragon Manipulator",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Take control of 1 face-up Dragon-Type monster on your opponent's side of the field until the end of the End Phase.",
+    "atk": 700,
+    "def": 800,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragon-manipulator-5323",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN145",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.15"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-026",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.62"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN026",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.9"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 63018132,
+    "image_url": "https://images.ygoprodeck.com/images/cards/63018132.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/63018132.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/63018132.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.16",
+    "tcgplayer_price": "0.16",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 13532663,
+    "name": "Dummy Golem",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.",
+    "atk": 800,
+    "def": 800,
+    "level": 2,
+    "race": "Rock",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dummy-golem-1163",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN196",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 13532663,
+    "image_url": "https://images.ygoprodeck.com/images/cards/13532663.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/13532663.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/13532663.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.24",
+    "tcgplayer_price": "0.17",
+    "ebay_price": "0.99",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 7914843,
+    "name": "Electromagnetic Bagworm",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 Machine-Type monster your opponent controls; take control of that target until your next End Phase.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+    "atk": 200,
+    "def": 1400,
+    "level": 3,
+    "race": "Insect",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/electromagnetic-bagworm-676",
+    "card_sets": [
+    {
+    "set_name": "Abyss Rising",
+    "set_code": "ABYR-EN090",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN100",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN100",
+    "set_rarity": "Shatterfoil Rare",
+    "set_rarity_code": "(SHR)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 7914843,
+    "image_url": "https://images.ygoprodeck.com/images/cards/7914843.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7914843.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7914843.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.12",
+    "tcgplayer_price": "0.04",
+    "ebay_price": "2.00",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 74364659,
+    "name": "Eria the Water Charmer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 face-up WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "WATER",
+    "archetype": "Charmer",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/eria-the-water-charmer-6249",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN207",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 6a",
+    "set_code": "DT06-EN011",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Spirit Charmers",
+    "set_code": "SDCH-EN002",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.61"
+    },
+    {
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN027",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 74364659,
+    "image_url": "https://images.ygoprodeck.com/images/cards/74364659.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74364659.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74364659.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.08",
+    "tcgplayer_price": "0.09",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 78706415,
+    "name": "Fiber Jar",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiber-jar-6613",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB-EN95",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN166",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "8.74"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-056",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "22.03"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN056",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "8"
+    },
+    {
+    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+    "set_code": "LCJW-EN033",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "banlist_info": {
+    "ban_tcg": "Banned",
+    "ban_ocg": "Banned",
+    "ban_goat": "Banned"
+    },
+    "card_images": [
+    {
+    "id": 78706415,
+    "image_url": "https://images.ygoprodeck.com/images/cards/78706415.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78706415.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78706415.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "4.45",
+    "tcgplayer_price": "4.28",
+    "ebay_price": "3.95",
+    "amazon_price": "11.99",
+    "coolstuffinc_price": "5.99"
+    }
+    ]
+    },
+    {
+    "id": 27132350,
+    "name": "Fire Sorcerer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Randomly select 2 cards from your hand and remove them from play to inflict 800 points of damage to your opponent's Life Points.",
+    "atk": 1000,
+    "def": 1500,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fire-sorcerer-2321",
+    "card_sets": [
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-036",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.58"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-E036",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-EN036",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 27132350,
+    "image_url": "https://images.ygoprodeck.com/images/cards/27132350.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/27132350.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/27132350.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.20",
+    "tcgplayer_price": "0.20",
+    "ebay_price": "5.00",
+    "amazon_price": "0.20",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 77491079,
+    "name": "Gale Lizard",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
+    "atk": 1400,
+    "def": 700,
+    "level": 4,
+    "race": "Reptile",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gale-lizard-6515",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN007",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN007",
+    "set_rarity": "Shatterfoil Rare",
+    "set_rarity_code": "(SHR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN008",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-008",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.4"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-EN008",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel Starter Decks: Ultimate Predators",
+    "set_code": "SS03-ENA11",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.05"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 77491079,
+    "image_url": "https://images.ygoprodeck.com/images/cards/77491079.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77491079.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77491079.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.09",
+    "tcgplayer_price": "0.07",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 37101832,
+    "name": "Gravekeeper's Guard",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 monster your opponent controls; return that target to the hand.",
+    "atk": 1000,
+    "def": 1900,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "archetype": "Gravekeeper's",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravekeeper-s-guard-3137",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+    "set_code": "LCYW-EN184",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-061",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.93"
+    },
+    {
+    "set_name": "Structure Deck: Marik (TCG)",
+    "set_code": "SDMA-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.86"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 37101832,
+    "image_url": "https://images.ygoprodeck.com/images/cards/37101832.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37101832.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37101832.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.29",
+    "tcgplayer_price": "0.50",
+    "ebay_price": "5.49",
+    "amazon_price": "0.78",
+    "coolstuffinc_price": "1.49"
+    }
+    ]
+    },
+    {
+    "id": 24317029,
+    "name": "Gravekeeper's Spy",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
+    "atk": 1200,
+    "def": 2000,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "archetype": "Gravekeeper's",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gravekeeper-s-spy-2101",
+    "card_sets": [
+    {
+    "set_name": "Champion Pack: Game Three",
+    "set_code": "CP03-EN003",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN007",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 6b",
+    "set_code": "DT06-EN061",
+    "set_rarity": "Duel Terminal Rare Parallel Rare",
+    "set_rarity_code": "(DRPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duelist League 2 participation cards",
+    "set_code": "DL11-EN009",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "13.83"
+    },
+    {
+    "set_name": "Gold Series 4: Pyramids Edition",
+    "set_code": "GLD4-EN010",
+    "set_rarity": "Gold Rare",
+    "set_rarity_code": "(GUR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "King's Court",
+    "set_code": "KICO-EN031",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0.94"
+    },
+    {
+    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+    "set_code": "LCYW-EN183",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+    "set_code": "LCJW-EN255",
+    "set_rarity": "Secret Rare",
+    "set_rarity_code": "(ScR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-059",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.31"
+    },
+    {
+    "set_name": "Premium Gold",
+    "set_code": "PGLD-EN082",
+    "set_rarity": "Gold Rare",
+    "set_rarity_code": "(GUR)",
+    "set_price": "3.52"
+    },
+    {
+    "set_name": "Retro Pack 2",
+    "set_code": "RP02-EN075",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Marik (TCG)",
+    "set_code": "SDMA-EN007",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.51"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 24317029,
+    "image_url": "https://images.ygoprodeck.com/images/cards/24317029.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24317029.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24317029.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.25",
+    "tcgplayer_price": "0.23",
+    "ebay_price": "6.95",
+    "amazon_price": "1.92",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 57346400,
+    "name": "Guard Dog",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Your opponent cannot Special Summon for the rest of this turn.",
+    "atk": 1500,
+    "def": 500,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/guard-dog-4886",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 4",
+    "set_code": "DR04-EN204",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "7.51"
+    },
+    {
+    "set_name": "Enemy of Justice",
+    "set_code": "EOJ-EN024",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 57346400,
+    "image_url": "https://images.ygoprodeck.com/images/cards/57346400.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57346400.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57346400.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.22",
+    "tcgplayer_price": "0.52",
+    "ebay_price": "4.95",
+    "amazon_price": "1.48",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 28357177,
+    "name": "Hade-Hane",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: You can return up to 3 monsters on the field to the owner's hand.",
+    "atk": 900,
+    "def": 1000,
+    "level": 5,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hade-hane-2414",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN032",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Soul of the Duelist",
+    "set_code": "SOD-EN032",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 28357177,
+    "image_url": "https://images.ygoprodeck.com/images/cards/28357177.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28357177.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28357177.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.13",
+    "tcgplayer_price": "0.11",
+    "ebay_price": "2.50",
+    "amazon_price": "1.36",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 759393,
+    "name": "Hiita the Fire Charmer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "FIRE",
+    "archetype": "Charmer",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hiita-the-fire-charmer-71",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN208",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 6b",
+    "set_code": "DT06-EN063",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Spirit Charmers",
+    "set_code": "SDCH-EN003",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.56"
+    },
+    {
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN028",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 759393,
+    "image_url": "https://images.ygoprodeck.com/images/cards/759393.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/759393.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/759393.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.08",
+    "tcgplayer_price": "0.12",
+    "ebay_price": "0.99",
+    "amazon_price": "5.48",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 73431236,
+    "name": "Iron Blacksmith Kotetsu",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Add 1 Equip Spell from your Deck to your hand.",
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": "Beast-Warrior",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/iron-blacksmith-kotetsu-6166",
+    "card_sets": [
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-064",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.27"
+    },
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-EN064",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN226",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duelist League 3 participation cards",
+    "set_code": "DL12-EN006",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "10.22"
+    },
+    {
+    "set_name": "Speed Duel: Scars of Battle",
+    "set_code": "SBSC-EN034",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.26"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 73431236,
+    "image_url": "https://images.ygoprodeck.com/images/cards/73431236.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73431236.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73431236.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.18",
+    "tcgplayer_price": "0.18",
+    "ebay_price": "1.00",
+    "amazon_price": "1.40",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 5257687,
+    "name": "Jowls of Dark Demise",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Take control of 1 monster on your opponent's side of the field until the end of the turn that this card's effect is activated. When the controlled monster attacks, it can attack your opponent's Life Points directly.",
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/jowls-of-dark-demise-463",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN212",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.66"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-009",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "2.96"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 5257687,
+    "image_url": "https://images.ygoprodeck.com/images/cards/5257687.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5257687.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5257687.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.48",
+    "tcgplayer_price": "0.48",
+    "ebay_price": "2.49",
+    "amazon_price": "2.25",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 90147755,
+    "name": "Lady Assailant of Flames",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Banish the top 3 cards of your Deck; inflict 800 damage to your opponent.",
+    "atk": 1500,
+    "def": 1000,
+    "level": 4,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lady-assailant-of-flames-7529",
+    "card_sets": [
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-035",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.68"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-E035",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "7.16"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-EN035",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.45"
+    },
+    {
+    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+    "set_code": "SS05-ENB15",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.09"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 90147755,
+    "image_url": "https://images.ygoprodeck.com/images/cards/90147755.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90147755.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90147755.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.12",
+    "tcgplayer_price": "0.15",
+    "ebay_price": "0.10",
+    "amazon_price": "1.18",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 96384007,
+    "name": "Machina Defender",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Add 1 \"Commander Covington\" from your Deck to your hand.",
+    "atk": 1200,
+    "def": 1800,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH",
+    "archetype": "Machina",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/machina-defender-8021",
+    "card_sets": [
+    {
+    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+    "set_code": "LCYW-EN170",
+    "set_rarity": "Secret Rare",
+    "set_rarity_code": "(ScR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Machina Mayhem Structure Deck",
+    "set_code": "SDMM-EN008",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.12"
+    },
+    {
+    "set_name": "Structure Deck: Mechanized Madness",
+    "set_code": "SR10-EN012",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 96384007,
+    "image_url": "https://images.ygoprodeck.com/images/cards/96384007.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96384007.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96384007.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.11",
+    "tcgplayer_price": "0.09",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 32362575,
+    "name": "Magical Merchant",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
+    "atk": 200,
+    "def": 700,
+    "level": 1,
+    "race": "Insect",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magical-merchant-2751",
+    "card_sets": [
+    {
+    "set_name": "Astral Pack Four",
+    "set_code": "AP04-EN016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Champion Pack: Game Five",
+    "set_code": "CP05-EN003",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN134",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Magician's Force",
+    "set_code": "MFC-079",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.17"
+    },
+    {
+    "set_name": "Star Pack 2014",
+    "set_code": "SP14-EN040",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Star Pack 2014",
+    "set_code": "SP14-EN040",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Powercode Link",
+    "set_code": "SDPL-EN018",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 32362575,
+    "image_url": "https://images.ygoprodeck.com/images/cards/32362575.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32362575.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32362575.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.29",
+    "tcgplayer_price": "0.56",
+    "ebay_price": "0.99",
+    "amazon_price": "1.04",
+    "coolstuffinc_price": "0.79"
+    }
+    ]
+    },
+    {
+    "id": 7802006,
+    "name": "Magical Plant Mandragola",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
+    "atk": 500,
+    "def": 200,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/magical-plant-mandragola-664",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN127",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Magician's Force",
+    "set_code": "MFC-072",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.42"
+    },
+    {
+    "set_name": "Speed Duel: Scars of Battle",
+    "set_code": "SBSC-EN001",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.04"
+    },
+    {
+    "set_name": "Spellcaster's Command Structure Deck",
+    "set_code": "SDSC-EN012",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.07"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 7802006,
+    "image_url": "https://images.ygoprodeck.com/images/cards/7802006.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7802006.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7802006.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.05",
+    "tcgplayer_price": "0.06",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 1347977,
+    "name": "Mysterious Guard",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 face-up monster on the field, and if you control a face-up Warrior-Type monster, you can target 1 additional face-up monster on the field; return the first target to the top of the Deck, then return the additional target (if any) to the hand if you still control a face-up Warrior-Type monster.",
+    "atk": 800,
+    "def": 1200,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mysterious-guard-114",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN058",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN058",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Champion Pack: Game One",
+    "set_code": "CP01-EN013",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN141",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.15"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-021",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.09"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN021",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.95"
+    },
+    {
+    "set_name": "Speed Duel Tournament Pack 6",
+    "set_code": "STP6-EN018",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel: Battle City Box",
+    "set_code": "SBCB-EN150",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.08"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 1347977,
+    "image_url": "https://images.ygoprodeck.com/images/cards/1347977.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1347977.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1347977.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.09",
+    "tcgplayer_price": "0.05",
+    "ebay_price": "0.99",
+    "amazon_price": "0.98",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 16226786,
+    "name": "Night Assailant",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.\nWhen this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.",
+    "atk": 200,
+    "def": 500,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/night-assailant-1395",
+    "card_sets": [
+    {
+    "set_name": "Ancient Sanctuary",
+    "set_code": "AST-080",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "3.13"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN187",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN187",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Champion Pack: Game One",
+    "set_code": "CP01-EN005",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN193",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 3",
+    "set_code": "DT03-EN056",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Hidden Arsenal: Chapter 1",
+    "set_code": "HAC1-EN009",
+    "set_rarity": "Duel Terminal Ultra Parallel Rare",
+    "set_rarity_code": "(DUPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "OTS Tournament Pack 19",
+    "set_code": "OP19-EN016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.18"
+    },
+    {
+    "set_name": "OTS Tournament Pack 19 (POR)",
+    "set_code": "OP19-PT016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel Tournament Pack 6",
+    "set_code": "STP6-EN021",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel: Battle City Box",
+    "set_code": "SBCB-EN114",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.86"
+    }
+    ],
+    "banlist_info": {
+    "ban_goat": "Semi-Limited"
+    },
+    "card_images": [
+    {
+    "id": 16226786,
+    "image_url": "https://images.ygoprodeck.com/images/cards/16226786.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16226786.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16226786.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.18",
+    "tcgplayer_price": "0.32",
+    "ebay_price": "1.99",
+    "amazon_price": "7.54",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 65878864,
+    "name": "Nobleman-Eater Bug",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Destroy 2 monsters on the field.",
+    "atk": 900,
+    "def": 1200,
+    "level": 5,
+    "race": "Insect",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/nobleman-eater-bug-5546",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN030",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Soul of the Duelist",
+    "set_code": "SOD-EN030",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 65878864,
+    "image_url": "https://images.ygoprodeck.com/images/cards/65878864.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65878864.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65878864.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.11",
+    "tcgplayer_price": "0.53",
+    "ebay_price": "1.29",
+    "amazon_price": "1.77",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 45141844,
+    "name": "Old Vindictive Magician",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+    "atk": 450,
+    "def": 600,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/old-vindictive-magician-3849",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN060",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN060",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Champion Pack: Game Six",
+    "set_code": "CP06-EN003",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN122",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Demo Deck 2016",
+    "set_code": "DEM3-EN007",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Gold Series",
+    "set_code": "GLD1-EN013",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Magician's Force",
+    "set_code": "MFC-067",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.79"
+    },
+    {
+    "set_name": "Speed Duel Starter Decks: Match of the Millennium",
+    "set_code": "SS04-ENA12",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.17"
+    },
+    {
+    "set_name": "Speed Duel Tournament Pack 4",
+    "set_code": "STP4-EN002",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Speed Duel: Streets of Battle City",
+    "set_code": "SBC1-ENA11",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Spellcaster's Command Structure Deck",
+    "set_code": "SDSC-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.31"
+    },
+    {
+    "set_name": "Starter Deck: Yugi Reloaded",
+    "set_code": "YSYR-EN014",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.63"
+    },
+    {
+    "set_name": "Super Starter: V for Victory",
+    "set_code": "YS13-EN020",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 45141844,
+    "image_url": "https://images.ygoprodeck.com/images/cards/45141844.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45141844.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45141844.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.11",
+    "tcgplayer_price": "0.22",
+    "ebay_price": "1.25",
+    "amazon_price": "1.49",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 43716289,
+    "name": "Poison Mummy",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Inflict 500 damage to your opponent.",
+    "atk": 1000,
+    "def": 1800,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/poison-mummy-3733",
+    "card_sets": [
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.4"
+    },
+    {
+    "set_name": "Starter Deck: Jaden Yuki",
+    "set_code": "YSDJ-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.36"
+    },
+    {
+    "set_name": "Starter Deck: Syrus Truesdale",
+    "set_code": "YSDS-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.44"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 43716289,
+    "image_url": "https://images.ygoprodeck.com/images/cards/43716289.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43716289.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43716289.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.11",
+    "tcgplayer_price": "0.16",
+    "ebay_price": "2.99",
+    "amazon_price": "1.52",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 31440542,
+    "name": "Rafflesia Seduction",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.",
+    "atk": 300,
+    "def": 900,
+    "level": 2,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rafflesia-seduction-2664",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN020",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Soul of the Duelist",
+    "set_code": "SOD-EN020",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Soul of the Duelist",
+    "set_code": "SOD-EN020",
+    "set_rarity": "Ultimate Rare",
+    "set_rarity_code": "(UtR)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 31440542,
+    "image_url": "https://images.ygoprodeck.com/images/cards/31440542.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31440542.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31440542.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.46",
+    "tcgplayer_price": "0.20",
+    "ebay_price": "2.00",
+    "amazon_price": "0.20",
+    "coolstuffinc_price": "0.79"
+    }
+    ]
+    },
+    {
+    "id": 39180960,
+    "name": "Rigorous Reaver",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Each player discards 1 card.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+    "atk": 1600,
+    "def": 100,
+    "level": 3,
+    "race": "Plant",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rigorous-reaver-3322",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN045",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN045",
+    "set_rarity": "Shatterfoil Rare",
+    "set_rarity_code": "(SHR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Champion Pack: Game Six",
+    "set_code": "CP06-EN001",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "26.88"
+    },
+    {
+    "set_name": "Duel Terminal 4",
+    "set_code": "DT04-EN008",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Gold Series 2009",
+    "set_code": "GLD2-EN005",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 39180960,
+    "image_url": "https://images.ygoprodeck.com/images/cards/39180960.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39180960.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39180960.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.13",
+    "tcgplayer_price": "0.17",
+    "ebay_price": "0.99",
+    "amazon_price": "44.99",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 67646312,
+    "name": "Searchlightman",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Your opponent cannot Set (or flip face-down) any cards for the rest of this turn.",
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": "Machine",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/searchlightman-5684",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 4",
+    "set_code": "DR04-EN190",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.14"
+    },
+    {
+    "set_name": "Enemy of Justice",
+    "set_code": "EOJ-EN010",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 67646312,
+    "image_url": "https://images.ygoprodeck.com/images/cards/67646312.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67646312.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67646312.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.21",
+    "tcgplayer_price": "0.14",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 37620434,
+    "name": "Shadow Tamer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "(This card is always treated as an \"Archfiend\" card.)\nFLIP: Target 1 Fiend-Type monster your opponent controls; take control of that target until the End Phase.",
+    "atk": 800,
+    "def": 700,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "archetype": "Archfiend",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/shadow-tamer-3182",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN144",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.16"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-025",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "2.61"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN025",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+    "set_code": "LCJW-EN239",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 37620434,
+    "image_url": "https://images.ygoprodeck.com/images/cards/37620434.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37620434.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37620434.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.24",
+    "tcgplayer_price": "0.20",
+    "ebay_price": "15.00",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 78636495,
+    "name": "Slate Warrior",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: This card gains 500 ATK and DEF.\nIf this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+    "atk": 1900,
+    "def": 400,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/slate-warrior-6606",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack 2: War of the Giants",
+    "set_code": "BP02-EN027",
+    "set_rarity": "Mosaic Rare",
+    "set_rarity_code": "(MSR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 2: War of the Giants",
+    "set_code": "BP02-EN027",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN013",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack 3: Monster League",
+    "set_code": "BP03-EN013",
+    "set_rarity": "Shatterfoil Rare",
+    "set_rarity_code": "(SHR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN121",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN121",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 5a",
+    "set_code": "DT05-EN011",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Lord of the Storm",
+    "set_code": "SD8-EN005",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.04"
+    },
+    {
+    "set_name": "Tournament Pack 8",
+    "set_code": "TP8-EN003",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Yu-Gi-Oh! The Falsebound Kingdom promotional cards",
+    "set_code": "TFK-EN003",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "57.94"
+    },
+    {
+    "set_name": "Yu-Gi-Oh! World Championship Tournament 2004 promotional cards",
+    "set_code": "WC4-003",
+    "set_rarity": "Prismatic Secret Rare",
+    "set_rarity_code": "(PScR)",
+    "set_price": "10.45"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 78636495,
+    "image_url": "https://images.ygoprodeck.com/images/cards/78636495.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/78636495.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/78636495.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.16",
+    "tcgplayer_price": "0.21",
+    "ebay_price": "2.99",
+    "amazon_price": "1.27",
+    "coolstuffinc_price": "0.49"
+    }
+    ]
+    },
+    {
+    "id": 84550200,
+    "name": "Sonic Jammer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.",
+    "atk": 350,
+    "def": 650,
+    "level": 2,
+    "race": "Machine",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sonic-jammer-7092",
+    "card_sets": [
+    {
+    "set_name": "Ancient Sanctuary",
+    "set_code": "AST-021",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.06"
+    },
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN133",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 84550200,
+    "image_url": "https://images.ygoprodeck.com/images/cards/84550200.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84550200.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84550200.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.11",
+    "tcgplayer_price": "0.19",
+    "ebay_price": "0.99",
+    "amazon_price": "1.02",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 48659020,
+    "name": "Spirit Caller",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: You can Special Summon 1 Level 3 or lower Normal Monster from your Graveyard to your side of the field.",
+    "atk": 1000,
+    "def": 1000,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/spirit-caller-4155",
+    "card_sets": [
+    {
+    "set_name": "Ancient Sanctuary",
+    "set_code": "AST-075",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.07"
+    },
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN188",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Starter Deck 2006",
+    "set_code": "YSD-EN016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 48659020,
+    "image_url": "https://images.ygoprodeck.com/images/cards/48659020.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48659020.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48659020.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.02",
+    "tcgplayer_price": "0.13",
+    "ebay_price": "1.50",
+    "amazon_price": "2.28",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 14644902,
+    "name": "Summoner of Illusions",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.",
+    "atk": 800,
+    "def": 900,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/summoner-of-illusions-1253",
+    "card_sets": [
+    {
+    "set_name": "Fusion Enforcers",
+    "set_code": "FUEN-EN038",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "1.72"
+    },
+    {
+    "set_name": "Gold Series",
+    "set_code": "GLD1-EN004",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-063",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.33"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-E063",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-EN063",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+    "set_code": "LCYW-EN243",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.86"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 14644902,
+    "image_url": "https://images.ygoprodeck.com/images/cards/14644902.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14644902.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14644902.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.15",
+    "tcgplayer_price": "0.21",
+    "ebay_price": "1.24",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 44072894,
+    "name": "Supply",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand.",
+    "atk": 1300,
+    "def": 800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/supply-3761",
+    "card_sets": [
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-075",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.22"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-E075",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "3.37"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-EN075",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-EN075",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 44072894,
+    "image_url": "https://images.ygoprodeck.com/images/cards/44072894.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44072894.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44072894.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.11",
+    "tcgplayer_price": "0.20",
+    "ebay_price": "0.99",
+    "amazon_price": "0.90",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 71283180,
+    "name": "Tornado Bird",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
+    "atk": 1100,
+    "def": 1000,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tornado-bird-5988",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN009",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-072",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "1.74"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-E072",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "4.39"
+    },
+    {
+    "set_name": "Labyrinth of Nightmare",
+    "set_code": "LON-EN072",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "8.8"
+    },
+    {
+    "set_name": "Tournament Pack 5",
+    "set_code": "TP5-EN012",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 71283180,
+    "image_url": "https://images.ygoprodeck.com/images/cards/71283180.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71283180.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71283180.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.52",
+    "tcgplayer_price": "0.20",
+    "ebay_price": "0.99",
+    "amazon_price": "1.42",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 93730409,
+    "name": "Whirlwind Weasel",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Your opponent cannot activate any Spell or Trap Cards for the rest of this turn.",
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/whirlwind-weasel-7801",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 4",
+    "set_code": "DR04-EN205",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.37"
+    },
+    {
+    "set_name": "Enemy of Justice",
+    "set_code": "EOJ-EN025",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 93730409,
+    "image_url": "https://images.ygoprodeck.com/images/cards/93730409.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/93730409.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/93730409.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.19",
+    "tcgplayer_price": "0.33",
+    "ebay_price": "1.49",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.79"
+    }
+    ]
+    },
+    {
+    "id": 1571945,
+    "name": "White Ninja",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+    "atk": 1500,
+    "def": 800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "LIGHT",
+    "archetype": "Ninja",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/white-ninja-138",
+    "card_sets": [
+    {
+    "set_name": "2-Player Starter Set",
+    "set_code": "STAX-EN011",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN205",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duelist League 13 participation cards",
+    "set_code": "DL13-EN009",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "2.95"
+    },
+    {
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN025",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 1571945,
+    "image_url": "https://images.ygoprodeck.com/images/cards/1571945.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1571945.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1571945.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.08",
+    "tcgplayer_price": "0.22",
+    "ebay_price": "0.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 75946257,
+    "name": "Witch Doctor of Chaos",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play.",
+    "atk": 500,
+    "def": 500,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "archetype": "Chaos",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/witch-doctor-of-chaos-6393",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 2",
+    "set_code": "DR2-EN016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-016",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.08"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-EN016",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Invasion of Chaos",
+    "set_code": "IOC-EN016",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 75946257,
+    "image_url": "https://images.ygoprodeck.com/images/cards/75946257.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75946257.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75946257.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.18",
+    "tcgplayer_price": "0.07",
+    "ebay_price": "0.99",
+    "amazon_price": "1.45",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 37744402,
+    "name": "Wynn the Wind Charmer",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.",
+    "atk": 500,
+    "def": 1500,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "WIND",
+    "archetype": "Charmer",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wynn-the-wind-charmer-3193",
+    "card_sets": [
+    {
+    "set_name": "Dark Revelation Volume 3",
+    "set_code": "DR3-EN209",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duel Terminal 5b",
+    "set_code": "DT05-EN057",
+    "set_rarity": "Duel Terminal Normal Parallel Rare",
+    "set_rarity_code": "(DNPR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Structure Deck: Spirit Charmers",
+    "set_code": "SDCH-EN004",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.61"
+    },
+    {
+    "set_name": "The Lost Millennium",
+    "set_code": "TLM-EN029",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 37744402,
+    "image_url": "https://images.ygoprodeck.com/images/cards/37744402.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37744402.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37744402.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.05",
+    "tcgplayer_price": "0.12",
+    "ebay_price": "0.99",
+    "amazon_price": "1.77",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    }
+    ]
+    }
