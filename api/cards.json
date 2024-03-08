@@ -1,0 +1,162 @@
+{
+  "data": [    
+    {
+      "id": 70781052,
+      "name": "Summoned Skull",
+      "type": "Normal Monster",
+      "frameType": "normal",
+      "desc": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
+      "atk": 2500,
+      "def": 1200,
+      "level": 6,
+      "race": "Fiend",
+      "attribute": "DARK",
+      "archetype": "Archfiend",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/summoned-skull-5941",
+      "card_images": [
+        {
+          "id": 70781052,
+          "image_url": "https://images.ygoprodeck.com/images/cards/70781052.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70781052.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70781052.jpg"
+        },
+        {
+          "id": 70781053,
+          "image_url": "https://images.ygoprodeck.com/images/cards/70781053.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70781053.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70781053.jpg"
+        },
+        {
+          "id": 70781054,
+          "image_url": "https://images.ygoprodeck.com/images/cards/70781054.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70781054.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70781054.jpg"
+        },
+        {
+          "id": 70781055,
+          "image_url": "https://images.ygoprodeck.com/images/cards/70781055.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70781055.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70781055.jpg"
+        }
+      ]
+    },
+    {
+      "id": 30208479,
+      "name": "Magician of Black Chaos",
+      "type": "Ritual Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+      "atk": 2800,
+      "def": 2600,
+      "level": 8,
+      "race": "Spellcaster",
+      "attribute": "DARK",
+      "archetype": "Dark Magician",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magician-of-black-chaos-2559",
+      "card_images": [
+        {
+          "id": 30208479,
+          "image_url": "https://images.ygoprodeck.com/images/cards/30208479.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30208479.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30208479.jpg"
+        }
+      ]
+    },
+    {
+      "id": 94905343,
+      "name": "Rabid Horseman",
+      "type": "Fusion Monster",
+      "frameType": "fusion",
+      "desc": "\"Battle Ox\" + \"Mystic Horseman\"",
+      "atk": 2000,
+      "def": 1700,
+      "level": 6,
+      "race": "Beast-Warrior",
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/rabid-horseman-7898",
+      "card_images": [
+        {
+          "id": 94905343,
+          "image_url": "https://images.ygoprodeck.com/images/cards/94905343.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94905343.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94905343.jpg"
+        }
+      ]
+    },
+    {
+      "id": 77585513,
+      "name": "Jinzo",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+      "atk": 2400,
+      "def": 1500,
+      "level": 6,
+      "race": "Machine",
+      "attribute": "DARK",
+      "archetype": "Jinzo",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/jinzo-6528",
+      "banlist_info": {
+        "ban_goat": "Limited"
+      },
+      "card_images": [
+        {
+          "id": 77585513,
+          "image_url": "https://images.ygoprodeck.com/images/cards/77585513.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77585513.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77585513.jpg"
+        },
+        {
+          "id": 77585514,
+          "image_url": "https://images.ygoprodeck.com/images/cards/77585514.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77585514.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77585514.jpg"
+        }
+      ]
+    },
+    {
+      "id": 35809262,
+      "name": "Elemental HERO Flame Wingman",
+      "type": "Fusion Monster",
+      "frameType": "fusion",
+      "desc": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.",
+      "atk": 2100,
+      "def": 1200,
+      "level": 6,
+      "race": "Warrior",
+      "attribute": "WIND",
+      "archetype": "Elemental HERO",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/elemental-hero-flame-wingman-3033",
+      "card_images": [
+        {
+          "id": 35809262,
+          "image_url": "https://images.ygoprodeck.com/images/cards/35809262.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35809262.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35809262.jpg"
+        }
+      ]
+    },
+    {
+      "id": 64631466,
+      "name": "Relinquished",
+      "type": "Ritual Effect Monster",
+      "frameType": "ritual",
+      "desc": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "race": "Spellcaster",
+      "attribute": "DARK",
+      "archetype": "Eyes Restrict",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/relinquished-5455",
+      "card_images": [
+        {
+          "id": 64631466,
+          "image_url": "https://images.ygoprodeck.com/images/cards/64631466.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/64631466.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/64631466.jpg"
+        }
+      ]
+    }
+  ]
+}

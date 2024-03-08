@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "name": "Elemental HERO",
+      "count": 50
+    },
+    {
+      "name": "Archfiend",
+      "count": 23
+    },
+    {
+      "name": "Roid",
+      "count": 19
+    },
+    {
+      "name": "Guardian",
+      "count": 19
+    },
+    {
+      "name": "Destiny HERO",
+      "count": 19
+    },
+    {
+      "name": "Harpie",
+      "count": 15
+    },
+    {
+      "name": "Dark Magician",
+      "count": 15
+    },
+    {
+      "name": "Umi",
+      "count": 14
+    },
+    {
+      "name": "Ancient Gear",
+      "count": 14
+    },
+    {
+      "name": "Dark World",
+      "count": 14
+    },
+    {
+      "name": "Gravekeeper's",
+      "count": 14
+    },
+    {
+      "name": "Alien",
+      "count": 13
+    },
+    {
+      "name": "Toon",
+      "count": 13
+    },
+    {
+      "name": "D.D.",
+      "count": 12
+    },
+    {
+      "name": "Mask",
+      "count": 11
+    },
+    {
+      "name": "ABC",
+      "count": 11
+    },
+    {
+      "name": "Amazoness",
+      "count": 10
+    },
+    {
+      "name": "Ninja",
+      "count": 10
+    },
+    {
+      "name": "Greed",
+      "count": 9
+    },
+    {
+      "name": "Hole",
+      "count": 8
+    },
+    {
+      "name": "Sphinx",
+      "count": 8
+    },
+    {
+      "name": "Charmer",
+      "count": 8
+    },
+    {
+      "name": "Dark Scorpion",
+      "count": 8
+    },
+    {
+      "name": "Ojama",
+      "count": 8
+    },
+    {
+      "name": "Frog",
+      "count": 7
+    },
+    {
+      "name": "Blue-Eyes",
+      "count": 7
+    },
+    {
+      "name": "Chaos",
+      "count": 7
+    },
+    {
+      "name": "Exodia",
+      "count": 7
+    },
+    {
+      "name": "Gadget",
+      "count": 6
+    },
+    {
+      "name": "B.E.S.",
+      "count": 5
+    },
+    {
+      "name": "Batteryman",
+      "count": 5
+    },
+    {
+      "name": "Red-Eyes",
+      "count": 5
+    },
+    {
+      "name": "Gaia The Fierce Knight",
+      "count": 5
+    },
+    {
+      "name": "Spirit Message",
+      "count": 5
+    },
+    {
+      "name": "Worm",
+      "count": 5
+    },
+    {
+      "name": "Slime",
+      "count": 5
+    },
+    {
+      "name": "Kuriboh",
+      "count": 5
+    },
+    {
+      "name": "The Agent",
+      "count": 5
+    },
+    {
+      "name": "Allure Queen",
+      "count": 4
+    },
+    {
+      "name": "Magnet Warrior",
+      "count": 4
+    },
+    {
+      "name": "Anti",
+      "count": 4
+    },
+    {
+      "name": "Armed Dragon",
+      "count": 4
+    },
+    {
+      "name": "Cyber Dragon",
+      "count": 4
+    },
+    {
+      "name": "Eyes Restrict",
+      "count": 4
+    },
+    {
+      "name": "Black Luster Soldier",
+      "count": 4
+    },
+    {
+      "name": "Bonding",
+      "count": 4
+    },
+    {
+      "name": "Book of",
+      "count": 4
+    },
+    {
+      "name": "Neo-Spacian",
+      "count": 4
+    },
+    {
+      "name": "Cyberdark",
+      "count": 4
+    },
+    {
+      "name": "Penguin",
+      "count": 4
+    },
+    {
+      "name": "Monarch",
+      "count": 4
+    },
+    {
+      "name": "Horus the Black Flame Dragon",
+      "count": 4
+    },
+    {
+      "name": "Vampire",
+      "count": 4
+    },
+    {
+      "name": "Magician",
+      "count": 3
+    },
+    {
+      "name": "Koala",
+      "count": 3
+    },
+    {
+      "name": "Demise",
+      "count": 3
+    },
+    {
+      "name": "Parasite",
+      "count": 3
+    },
+    {
+      "name": "Skull Servant",
+      "count": 3
+    },
+    {
+      "name": "Maju",
+      "count": 3
+    },
+    {
+      "name": "Sacred Beast",
+      "count": 3
+    },
+    {
+      "name": "Knight",
+      "count": 3
+    },
+    {
+      "name": "Majestic",
+      "count": 3
+    },
+    {
+      "name": "Silent Swordsman",
+      "count": 3
+    },
+    {
+      "name": "Madoor",
+      "count": 2
+    },
+    {
+      "name": "Celtic Guard",
+      "count": 2
+    },
+    {
+      "name": "Chrysalis",
+      "count": 2
+    },
+    {
+      "name": "Shark",
+      "count": 2
+    },
+    {
+      "name": "Dice",
+      "count": 2
+    },
+    {
+      "name": "Fairy",
+      "count": 2
+    },
+    {
+      "name": "Doriado",
+      "count": 2
+    },
+    {
+      "name": "Nephthys",
+      "count": 2
+    },
+    {
+      "name": "Herald",
+      "count": 2
+    },
+    {
+      "name": "Spellbook",
+      "count": 2
+    },
+    {
+      "name": "Jinzo",
+      "count": 2
+    },
+    {
+      "name": "Battleguard",
+      "count": 2
+    },
+    {
+      "name": "Silent Magician",
+      "count": 2
+    },
+    {
+      "name": "Solemn",
+      "count": 2
+    },
+    {
+      "name": "Thunder Dragon",
+      "count": 2
+    },
+    {
+      "name": "Parshath",
+      "count": 1
+    },
+    {
+      "name": "Cipher",
+      "count": 1
+    },
+    {
+      "name": "Photon",
+      "count": 1
+    },
+    {
+      "name": "Darklord",
+      "count": 1
+    },
+    {
+      "name": "Earthbound",
+      "count": 1
+    },
+    {
+      "name": "Gate Guardian",
+      "count": 1
+    },
+    {
+      "name": "Nimble",
+      "count": 1
+    },
+    {
+      "name": "Simorgh",
+      "count": 1
+    },
+    {
+      "name": "Alligator",
+      "count": 1
+    },
+    {
+      "name": "Volcanic",
+      "count": 1
+    },
+    {
+      "name": "Grepher",
+      "count": 1
+    },
+    {
+      "name": "Watt",
+      "count": 1
+    }
+  ]
+}

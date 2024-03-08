@@ -1,0 +1,999 @@
+{
+  "data": [
+    {
+      "id": 31557782,
+      "name": "Ancient Gear",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If you control an \"Ancient Gear\", you can Special Summon this card (from your hand) in face-up Attack Position.",
+      "atk": 100,
+      "def": 800,
+      "level": 2,
+      "race": "Machine",
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-2682",
+      "card_images": [
+        {
+          "id": 31557782,
+          "image_url": "https://images.ygoprodeck.com/images/cards/31557782.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31557782.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31557782.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10509340,
+      "name": "Ancient Gear Beast",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard).",
+      "atk": 2000,
+      "def": 2000,
+      "level": 6,
+      "race": "Machine",
+      "attribute": "EARTH",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-beast-910",
+      "card_images": [
+        {
+          "id": 10509340,
+          "image_url": "https://images.ygoprodeck.com/images/cards/10509340.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10509340.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10509340.jpg"
+        }
+      ]
+    },
+    {
+      "id": 80045583,
+      "name": "Ancient Gear Cannon",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can Tribute this card; inflict 500 damage to your opponent, and if you do, neither player can activate Trap Cards during the Battle Phase of this turn.",
+      "atk": 500,
+      "def": 500,
+      "level": 2,
+      "race": "Machine",
+      "attribute": "EARTH",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-cannon-6712",
+      "card_images": [
+        {
+          "id": 80045583,
+          "image_url": "https://images.ygoprodeck.com/images/cards/80045583.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80045583.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80045583.jpg"
+        }
+      ]
+    },
+    {
+      "id": 92001300,
+      "name": "Ancient Gear Castle",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s).",
+      "race": "Continuous",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-castle-7674",
+      "card_images": [
+        {
+          "id": 92001300,
+          "image_url": "https://images.ygoprodeck.com/images/cards/92001300.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92001300.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92001300.jpg"
+        }
+      ]
+    },
+    {
+      "id": 67829249,
+      "name": "Ancient Gear Drill",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "If you control an \"Ancient Gear\" monster: Discard 1 card; Set 1 Spell Card directly from your Deck. This turn, that Spell Card cannot be activated.",
+      "race": "Normal",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-drill-5698",
+      "card_images": [
+        {
+          "id": 67829249,
+          "image_url": "https://images.ygoprodeck.com/images/cards/67829249.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67829249.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67829249.jpg"
+        }
+      ]
+    },
+    {
+      "id": 30435145,
+      "name": "Ancient Gear Factory",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Reveal 1 Level 5 or higher \"Ancient Gear\" monster from your hand, then banish a number of \"Ancient Gear\" monsters from your Graveyard, whose combined Levels are double the revealed monster's, and if you do, if you Normal Summon the revealed monster this turn, you must Normal Smmon it without Tributing.",
+      "race": "Normal",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-factory-2579",
+      "card_images": [
+        {
+          "id": 30435145,
+          "image_url": "https://images.ygoprodeck.com/images/cards/30435145.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30435145.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30435145.jpg"
+        }
+      ]
+    },
+    {
+      "id": 83104731,
+      "name": "Ancient Gear Golem",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+      "atk": 3000,
+      "def": 3000,
+      "level": 8,
+      "race": "Machine",
+      "attribute": "EARTH",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-golem-6977",
+      "card_images": [
+        {
+          "id": 83104731,
+          "image_url": "https://images.ygoprodeck.com/images/cards/83104731.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83104731.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83104731.jpg"
+        }
+      ]
+    },
+    {
+      "id": 56094445,
+      "name": "Ancient Gear Soldier",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+      "atk": 1300,
+      "def": 1300,
+      "level": 4,
+      "race": "Machine",
+      "attribute": "EARTH",
+      "archetype": "Ancient Gear",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ancient-gear-soldier-4778",
+      "card_images": [
+        {
+          "id": 56094445,
+          "image_url": "https://images.ygoprodeck.com/images/cards/56094445.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56094445.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56094445.jpg"
+        }
+      ]
+    },
+    {
+      "id": 59464593,
+      "name": "Armed Dragon LV10",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
+      "atk": 3000,
+      "def": 2000,
+      "level": 10,
+      "race": "Dragon",
+      "attribute": "WIND",
+      "archetype": "Armed Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv10-5054",
+      "card_images": [
+        {
+          "id": 59464593,
+          "image_url": "https://images.ygoprodeck.com/images/cards/59464593.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59464593.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59464593.jpg"
+        }
+      ]
+    },
+    {
+      "id": 980973,
+      "name": "Armed Dragon LV3",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+      "atk": 1200,
+      "def": 900,
+      "level": 3,
+      "race": "Dragon",
+      "attribute": "WIND",
+      "archetype": "Armed Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv3-84",
+      "card_images": [
+        {
+          "id": 980973,
+          "image_url": "https://images.ygoprodeck.com/images/cards/980973.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/980973.jpg"
+        }
+      ]
+    },
+    {
+      "id": 46384672,
+      "name": "Armed Dragon LV5",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+      "atk": 2400,
+      "def": 1700,
+      "level": 5,
+      "race": "Dragon",
+      "attribute": "WIND",
+      "archetype": "Armed Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv5-3956",
+      "card_images": [
+        {
+          "id": 46384672,
+          "image_url": "https://images.ygoprodeck.com/images/cards/46384672.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46384672.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46384672.jpg"
+        }
+      ]
+    },
+    {
+      "id": 73879377,
+      "name": "Armed Dragon LV7",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
+      "atk": 2800,
+      "def": 1000,
+      "level": 7,
+      "race": "Dragon",
+      "attribute": "WIND",
+      "archetype": "Armed Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv7-6205",
+      "card_images": [
+        {
+          "id": 73879377,
+          "image_url": "https://images.ygoprodeck.com/images/cards/73879377.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73879377.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73879377.jpg"
+        }
+      ]
+    },
+    {
+      "id": 87910978,
+      "name": "Brain Control",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/brain-control-7353",
+      "card_images": [
+        {
+          "id": 87910978,
+          "image_url": "https://images.ygoprodeck.com/images/cards/87910978.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87910978.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87910978.jpg"
+        }
+      ]
+    },
+    {
+      "id": 74458486,
+      "name": "Covering Fire",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "During the Damage Step, while an opponent's monster is attacking a monster you control: Target 1 other face-up monster you control; your attacked monster gains ATK equal to that target's ATK during the Damage Step only.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/covering-fire-6260",
+      "card_images": [
+        {
+          "id": 74458486,
+          "image_url": "https://images.ygoprodeck.com/images/cards/74458486.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74458486.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74458486.jpg"
+        }
+      ]
+    },
+    {
+      "id": 31036355,
+      "name": "Creature Swap",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/creature-swap-2631",
+      "banlist_info": {
+        "ban_goat": "Semi-Limited"
+      },
+      "card_images": [
+        {
+          "id": 31036355,
+          "image_url": "https://images.ygoprodeck.com/images/cards/31036355.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/31036355.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/31036355.jpg"
+        }
+      ]
+    },
+    {
+      "id": 69015963,
+      "name": "Cyber-Stein",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
+      "atk": 700,
+      "def": 500,
+      "level": 2,
+      "race": "Machine",
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/cyber-stein-5797",
+      "banlist_info": {
+        "ban_tcg": "Banned",
+        "ban_ocg": "Banned"
+      },
+      "card_images": [
+        {
+          "id": 69015963,
+          "image_url": "https://images.ygoprodeck.com/images/cards/69015963.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69015963.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69015963.jpg"
+        }
+      ]
+    },
+    {
+      "id": 28378427,
+      "name": "Damage Condenser",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "When you take battle damage: Discard 1 card; Special Summon 1 monster from your Deck with ATK less than or equal to the battle damage you took, in face-up Attack Position.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/damage-condenser-2417",
+      "card_images": [
+        {
+          "id": 28378427,
+          "image_url": "https://images.ygoprodeck.com/images/cards/28378427.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28378427.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28378427.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1804528,
+      "name": "Dark Coffin",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "When this face-down card is destroyed and sent to the Graveyard, your opponent selects and executes 1 of the following effects:\n● Discard 1 random card in their hand.\n● Select 1 monster on their side of the field and destroy it.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-coffin-160",
+      "card_images": [
+        {
+          "id": 1804528,
+          "image_url": "https://images.ygoprodeck.com/images/cards/1804528.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1804528.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1804528.jpg"
+        }
+      ]
+    },
+    {
+      "id": 74713516,
+      "name": "Dark Mimic LV1",
+      "type": "Flip Effect Monster",
+      "frameType": "effect",
+      "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+      "atk": 100,
+      "def": 1000,
+      "level": 1,
+      "race": "Fiend",
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv1-6285",
+      "card_images": [
+        {
+          "id": 74713516,
+          "image_url": "https://images.ygoprodeck.com/images/cards/74713516.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74713516.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1102515,
+      "name": "Dark Mimic LV3",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+      "atk": 1000,
+      "def": 1000,
+      "level": 3,
+      "race": "Fiend",
+      "attribute": "DARK",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv3-100",
+      "card_images": [
+        {
+          "id": 1102515,
+          "image_url": "https://images.ygoprodeck.com/images/cards/1102515.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1102515.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1102515.jpg"
+        }
+      ]
+    },
+    {
+      "id": 34187685,
+      "name": "Double Attack",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Discard 1 Monster Card from your hand to the Graveyard. Select 1 monster on your side of the field with a lower Level than the discarded monster. The selected monster can attack twice this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/double-attack-2904",
+      "card_images": [
+        {
+          "id": 34187685,
+          "image_url": "https://images.ygoprodeck.com/images/cards/34187685.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34187685.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34187685.jpg"
+        }
+      ]
+    },
+    {
+      "id": 98045062,
+      "name": "Enemy Controller",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Activate 1 of these effects.\n● Target 1 face-up monster your opponent controls; change that target's battle position.\n● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/enemy-controller-8146",
+      "card_images": [
+        {
+          "id": 98045062,
+          "image_url": "https://images.ygoprodeck.com/images/cards/98045062.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98045062.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98045062.jpg"
+        }
+      ]
+    },
+    {
+      "id": 17484499,
+      "name": "Exchange of the Spirit",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "If both players have 15 or more cards in their Graveyards: Pay 1000 LP; each player swaps the cards in their Graveyard with the cards in their Deck, then shuffles their Deck. You can only activate 1 \"Exchange of the Spirit\" per Duel.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/exchange-of-the-spirit-1516",
+      "card_images": [
+        {
+          "id": 17484499,
+          "image_url": "https://images.ygoprodeck.com/images/cards/17484499.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17484499.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17484499.jpg"
+        }
+      ]
+    },
+    {
+      "id": 95308449,
+      "name": "Final Countdown",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Pay 2000 Life Points. After 20 turns have passed (counting the turn you activate this card as the 1st turn), you win the Duel.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/final-countdown-7936",
+      "banlist_info": {
+        "ban_tcg": "Limited"
+      },
+      "card_images": [
+        {
+          "id": 95308449,
+          "image_url": "https://images.ygoprodeck.com/images/cards/95308449.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95308449.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95308449.jpg"
+        }
+      ]
+    },
+    {
+      "id": 98792570,
+      "name": "Gift of the Martyr",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Send 1 monster on your side of the field to the Graveyard. Select 1 monster on your side of the field. The selected monster gains ATK equal to the ATK of the sent monster until the end of this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/gift-of-the-martyr-8205",
+      "card_images": [
+        {
+          "id": 98792570,
+          "image_url": "https://images.ygoprodeck.com/images/cards/98792570.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98792570.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98792570.jpg"
+        }
+      ]
+    },
+    {
+      "id": 75830094,
+      "name": "Horus the Black Flame Dragon LV4",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
+      "atk": 1600,
+      "def": 1000,
+      "level": 4,
+      "race": "Dragon",
+      "attribute": "FIRE",
+      "archetype": "Horus the Black Flame Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv4-6381",
+      "card_images": [
+        {
+          "id": 75830094,
+          "image_url": "https://images.ygoprodeck.com/images/cards/75830094.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75830094.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75830094.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11224103,
+      "name": "Horus the Black Flame Dragon LV6",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV8\" from your hand or Deck.",
+      "atk": 2300,
+      "def": 1600,
+      "level": 6,
+      "race": "Dragon",
+      "attribute": "FIRE",
+      "archetype": "Horus the Black Flame Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv6-968",
+      "card_images": [
+        {
+          "id": 11224103,
+          "image_url": "https://images.ygoprodeck.com/images/cards/11224103.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11224103.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11224103.jpg"
+        }
+      ]
+    },
+    {
+      "id": 48229808,
+      "name": "Horus the Black Flame Dragon LV8",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
+      "atk": 3000,
+      "def": 1800,
+      "level": 8,
+      "race": "Dragon",
+      "attribute": "FIRE",
+      "archetype": "Horus the Black Flame Dragon",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv8-4119",
+      "card_images": [
+        {
+          "id": 48229808,
+          "image_url": "https://images.ygoprodeck.com/images/cards/48229808.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48229808.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48229808.jpg"
+        }
+      ]
+    },
+    {
+      "id": 79575620,
+      "name": "Injection Fairy Lily",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.",
+      "atk": 400,
+      "def": 1500,
+      "level": 3,
+      "race": "Spellcaster",
+      "attribute": "EARTH",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/injection-fairy-lily-6674",
+      "banlist_info": {
+        "ban_goat": "Limited"
+      },
+      "card_images": [
+        {
+          "id": 79575620,
+          "image_url": "https://images.ygoprodeck.com/images/cards/79575620.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/79575620.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/79575620.jpg"
+        }
+      ]
+    },
+    {
+      "id": 61850482,
+      "name": "Level Modulation",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Your opponent draws 2 cards. Special Summon 1 \"LV\" monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/level-modulation-5236",
+      "card_images": [
+        {
+          "id": 61850482,
+          "image_url": "https://images.ygoprodeck.com/images/cards/61850482.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/61850482.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/61850482.jpg"
+        }
+      ]
+    },
+    {
+      "id": 25290459,
+      "name": "Level Up!",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Send 1 face-up \"LV\" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is listed in the sent monster's text, ignoring its Summoning conditions.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/level-up-2174",
+      "card_images": [
+        {
+          "id": 25290459,
+          "image_url": "https://images.ygoprodeck.com/images/cards/25290459.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/25290459.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/25290459.jpg"
+        }
+      ]
+    },
+    {
+      "id": 83746708,
+      "name": "Mage Power",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mage-power-7025",
+      "banlist_info": {
+        "ban_goat": "Limited"
+      },
+      "card_images": [
+        {
+          "id": 83746708,
+          "image_url": "https://images.ygoprodeck.com/images/cards/83746708.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83746708.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83746708.jpg"
+        }
+      ]
+    },
+    {
+      "id": 96008713,
+      "name": "Magical Arm Shield",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "When your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magical-arm-shield-7994",
+      "card_images": [
+        {
+          "id": 96008713,
+          "image_url": "https://images.ygoprodeck.com/images/cards/96008713.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96008713.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96008713.jpg"
+        }
+      ]
+    },
+    {
+      "id": 94940436,
+      "name": "Magnet Circle LV2",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Special Summon 1 Level 2 or lower Machine-Type monster from your hand.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-circle-lv2-7902",
+      "card_images": [
+        {
+          "id": 94940436,
+          "image_url": "https://images.ygoprodeck.com/images/cards/94940436.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94940436.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94940436.jpg"
+        }
+      ]
+    },
+    {
+      "id": 37520316,
+      "name": "Mind Control",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/mind-control-3177",
+      "card_images": [
+        {
+          "id": 37520316,
+          "image_url": "https://images.ygoprodeck.com/images/cards/37520316.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37520316.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37520316.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9720537,
+      "name": "Owner's Seal",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Return control of all monsters on the field to their original owners.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/owner-s-seal-820",
+      "card_images": [
+        {
+          "id": 9720537,
+          "image_url": "https://images.ygoprodeck.com/images/cards/9720537.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9720537.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9720537.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4178474,
+      "name": "Raigeki Break",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "Discard 1 card, then target 1 card on the field; destroy it.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/raigeki-break-375",
+      "card_images": [
+        {
+          "id": 4178474,
+          "image_url": "https://images.ygoprodeck.com/images/cards/4178474.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/4178474.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/4178474.jpg"
+        }
+      ]
+    },
+    {
+      "id": 73665146,
+      "name": "Silent Magician LV4",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+      "atk": 1000,
+      "def": 1000,
+      "level": 4,
+      "race": "Spellcaster",
+      "attribute": "LIGHT",
+      "archetype": "Silent Magician",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/silent-magician-lv4-6187",
+      "card_images": [
+        {
+          "id": 73665146,
+          "image_url": "https://images.ygoprodeck.com/images/cards/73665146.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73665146.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73665146.jpg"
+        }
+      ]
+    },
+    {
+      "id": 72443568,
+      "name": "Silent Magician LV8",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
+      "atk": 3500,
+      "def": 1000,
+      "level": 8,
+      "race": "Spellcaster",
+      "attribute": "LIGHT",
+      "archetype": "Silent Magician",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/silent-magician-lv8-6082",
+      "card_images": [
+        {
+          "id": 72443568,
+          "image_url": "https://images.ygoprodeck.com/images/cards/72443568.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72443568.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72443568.jpg"
+        }
+      ]
+    },
+    {
+      "id": 45986603,
+      "name": "Snatch Steal",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/snatch-steal-3918",
+      "banlist_info": {
+        "ban_tcg": "Limited",
+        "ban_ocg": "Banned",
+        "ban_goat": "Limited"
+      },
+      "card_images": [
+        {
+          "id": 45986603,
+          "image_url": "https://images.ygoprodeck.com/images/cards/45986603.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45986603.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45986603.jpg"
+        }
+      ]
+    },
+    {
+      "id": 68005187,
+      "name": "Soul Exchange",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/soul-exchange-5715",
+      "card_images": [
+        {
+          "id": 68005187,
+          "image_url": "https://images.ygoprodeck.com/images/cards/68005187.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68005187.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68005187.jpg"
+        }
+      ]
+    },
+    {
+      "id": 65810489,
+      "name": "Statue of the Wicked",
+      "type": "Trap Card",
+      "frameType": "trap",
+      "desc": "When this face-down card is destroyed and sent to the Graveyard, Special Summon 1 \"Wicked Token\" (Fiend-Type/DARK/Level 4/ATK 1000/DEF 1000) on your side of the field.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/statue-of-the-wicked-5539",
+      "card_images": [
+        {
+          "id": 65810489,
+          "image_url": "https://images.ygoprodeck.com/images/cards/65810489.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/65810489.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/65810489.jpg"
+        }
+      ]
+    },
+    {
+      "id": 88089103,
+      "name": "The Graveyard in the Fourth Dimension",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Add 2 \"LV\" monsters from your Graveyard to your Deck and shuffle it.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/the-graveyard-in-the-fourth-dimension-7366",
+      "card_images": [
+        {
+          "id": 88089103,
+          "image_url": "https://images.ygoprodeck.com/images/cards/88089103.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/88089103.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/88089103.jpg"
+        }
+      ]
+    },
+    {
+      "id": 49441499,
+      "name": "Ultimate Insect LV1",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "While this card is on the field, it is unaffected by the effects of Spell Cards. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV3\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+      "atk": 0,
+      "def": 0,
+      "level": 1,
+      "race": "Insect",
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv1-4214",
+      "card_images": [
+        {
+          "id": 49441499,
+          "image_url": "https://images.ygoprodeck.com/images/cards/49441499.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49441499.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49441499.jpg"
+        }
+      ]
+    },
+    {
+      "id": 34088136,
+      "name": "Ultimate Insect LV3",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV1\", while it remains on the field all of your opponent's monsters lose 300 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV5\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+      "atk": 1400,
+      "def": 900,
+      "level": 3,
+      "race": "Insect",
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv3-2895",
+      "card_images": [
+        {
+          "id": 34088136,
+          "image_url": "https://images.ygoprodeck.com/images/cards/34088136.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34088136.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34088136.jpg"
+        }
+      ]
+    },
+    {
+      "id": 34830502,
+      "name": "Ultimate Insect LV5",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV3\", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV7\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+      "atk": 2300,
+      "def": 900,
+      "level": 5,
+      "race": "Insect",
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv5-2959",
+      "card_images": [
+        {
+          "id": 34830502,
+          "image_url": "https://images.ygoprodeck.com/images/cards/34830502.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34830502.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34830502.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19877898,
+      "name": "Ultimate Insect LV7",
+      "type": "Effect Monster",
+      "frameType": "effect",
+      "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+      "atk": 2600,
+      "def": 1200,
+      "level": 7,
+      "race": "Insect",
+      "attribute": "WIND",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv7-1710",
+      "card_images": [
+        {
+          "id": 19877898,
+          "image_url": "https://images.ygoprodeck.com/images/cards/19877898.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19877898.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19877898.jpg"
+        }
+      ]
+    },
+    {
+      "id": 60399954,
+      "name": "Union Attack",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Target 1 face-up monster you control; add up the total ATK of all other face-up Attack Position monsters you currently control, then during the Battle Phase of this turn only, the monster gains that much ATK, but cannot inflict battle damage to your opponent, also other face-up Attack Position monsters cannot attack.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/union-attack-5122",
+      "card_images": [
+        {
+          "id": 60399954,
+          "image_url": "https://images.ygoprodeck.com/images/cards/60399954.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60399954.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60399954.jpg"
+        }
+      ]
+    },
+    {
+      "id": 56747793,
+      "name": "United We Stand",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "The equipped monster gains 800 ATK/DEF for each face-up monster you control.",
+      "race": "Equip",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/united-we-stand-4834",
+      "banlist_info": {
+        "ban_goat": "Limited"
+      },
+      "card_images": [
+        {
+          "id": 56747793,
+          "image_url": "https://images.ygoprodeck.com/images/cards/56747793.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56747793.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56747793.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14731897,
+      "name": "Unity",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Select 1 monster on your side of the field. The DEF of the selected monster becomes equal to the combined original DEF of all face-up monsters on your side of the field, until the end of this turn.",
+      "race": "Quick-Play",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/unity-1259",
+      "card_images": [
+        {
+          "id": 14731897,
+          "image_url": "https://images.ygoprodeck.com/images/cards/14731897.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14731897.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14731897.jpg"
+        }
+      ]
+    },
+    {
+      "id": 81332143,
+      "name": "Yu-Jo Friendship",
+      "type": "Spell Card",
+      "frameType": "spell",
+      "desc": "Offer your opponent a handshake. If they accept your handshake, each player's Life Points become half the combined Life Points of both players. If you have \"Unity\" in your hand and show it to your opponent, they must accept the handshake.",
+      "race": "Normal",
+      "ygoprodeck_url": "https://ygoprodeck.com/card/yu-jo-friendship-6828",
+      "card_images": [
+        {
+          "id": 81332143,
+          "image_url": "https://images.ygoprodeck.com/images/cards/81332143.jpg",
+          "image_url_small": "https://images.ygoprodeck.com/images/cards_small/81332143.jpg",
+          "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/81332143.jpg"
+        }
+      ]
+    }
+  ]
+}

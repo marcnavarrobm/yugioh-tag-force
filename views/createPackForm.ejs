@@ -1,0 +1,28 @@
+<!-- createPackForm.ejs -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Pack</title>
+</head>
+<body>
+    <h1>Crear Nuevo Pack</h1>
+    <form action="/pack" method="post">
+        <label for="name">Nombre del Pack:</label><br>
+        <input type="text" id="name" name="name" required><br>
+        
+        <label for="cost">Costo:</label><br>
+        <input type="number" id="cost" name="cost" required><br>
+        
+        <label for="unlock">Desbloqueo:</label><br>
+        <input type="text" id="unlock" name="unlock" required><br>
+        
+        <label for="image">Imagen:</label><br>
+        <input type="text" id="image" name="image"><br>
+        
+        <button type="submit">Crear Pack</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,242 @@
+[
+    {
+        "name": "First Monster",
+        "cost": 100,
+        "unlock_condition": "Available from the start"
+    },
+    {
+        "name": "First Spell・Trap",
+        "cost": 100,
+        "unlock_condition": "Available from the start"
+    },
+    {
+        "name": "First Fusion",
+        "cost": 100,
+        "unlock_condition": "Available after May 7"
+    },
+    {
+        "name": "First Effect Monster",
+        "cost": 150,
+        "unlock_condition": "Available from the start"
+    },
+    {
+        "name": "Step Up Spell・Trap",
+        "cost": 150,
+        "unlock_condition": "Available from the start"
+    },
+    {
+        "name": "Step Up Fusion",
+        "cost": 150,
+        "unlock_condition": "Available after May 7"
+    },
+    {
+        "name": "Anti Effect",
+        "cost": 100,
+        "unlock_condition": "Have at least 80% of the cards from First Effect Monster, Step Up Spell・Trap, and Step Up Fusion"
+    },
+    {
+        "name": "Life Breaker",
+        "cost": 100,
+        "unlock_condition": "Have at least 80% of the cards from First Effect Monster, Step Up Spell・Trap, and Step Up Fusion"
+    },
+    {
+        "name": "Go Go Direct",
+        "cost": 100,
+        "unlock_condition": "Have at least 80% of the cards from First Effect Monster, Step Up Spell・Trap, and Step Up Fusion"
+    },
+    {
+        "name": "Visitor from the Dark",
+        "cost": 100,
+        "unlock_condition": "First stage Monday"
+    },
+    {
+        "name": "Emergent Fire",
+        "cost": 100,
+        "unlock_condition": "First stage Tuesday"
+    },
+    {
+        "name": "Water of Life",
+        "cost": 100,
+        "unlock_condition": "First stage Wednesday"
+    },
+    {
+        "name": "Gift of Wind",
+        "cost": 100,
+        "unlock_condition": "First stage Thursday"
+    },
+    {
+        "name": "Platinum Light",
+        "cost": 100,
+        "unlock_condition": "First stage Friday"
+    },
+    {
+        "name": "Earth Dwellers",
+        "cost": 100,
+        "unlock_condition": "First stage Saturday"
+    },
+    {
+        "name": "Lucky Economy Pack",
+        "cost": 300,
+        "unlock_condition": "First stage Sunday"
+    },
+    {
+        "name": "Endless Thoughts",
+        "cost": 100,
+        "unlock_condition": "Player over level 5"
+    },
+    {
+        "name": "Flip the Picture",
+        "cost": 100,
+        "unlock_condition": "Player over level 10"
+    },
+    {
+        "name": "Equip Me",
+        "cost": 100,
+        "unlock_condition": "Player over level 15"
+    },
+    {
+        "name": "More Eternal Memories",
+        "cost": 100,
+        "unlock_condition": "Player over level 20"
+    },
+    {
+        "name": "Speed King",
+        "cost": 100,
+        "unlock_condition": "Player over level 25"
+    },
+    {
+        "name": "Spice of Duel",
+        "cost": 100,
+        "unlock_condition": "Player over level 30"
+    },
+    {
+        "name": "Fairy's Sky",
+        "cost": 100,
+        "unlock_condition": "Player over level 35"
+    },
+    {
+        "name": "Dragon Drive",
+        "cost": 100,
+        "unlock_condition": "Player over level 40"
+    },
+    {
+        "name": "Fiend Night",
+        "cost": 100,
+        "unlock_condition": "Player over level 45"
+    },
+    {
+        "name": "Skillful Spellcasters",
+        "cost": 100,
+        "unlock_condition": "At least five characters cleared all three stages"
+    },
+    {
+        "name": "Cold Skin",
+        "cost": 100,
+        "unlock_condition": "50% collected at the Duel Ranking"
+    },
+    {
+        "name": "Ritual Dance",
+        "cost": 100,
+        "unlock_condition": "Player play time more than 20 hours"
+    },
+    {
+        "name": "Symbol 50",
+        "cost": 300,
+        "unlock_condition": "Player over level 50"
+    },
+    {
+        "name": "Wave of the Future",
+        "cost": 300,
+        "unlock_condition": "Ten consecutive wins"
+    },
+    {
+        "name": "Good Ol' Days",
+        "cost": 300,
+        "unlock_condition": "Ten consecutive losses"
+    },
+    {
+        "name": "Hero Emerges!",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Jaden Yuki"
+    },
+    {
+        "name": "A Machine's Soul Never Sleeps",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Syrus Truesdale"
+    },
+    {
+        "name": "Beast Kingdom",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Chumley Huffington"
+    },
+    {
+        "name": "Maiden's Heartbeat",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Alexis Rhodes"
+    },
+    {
+        "name": "Never Give Up",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Chazz Princeton"
+    },
+    {
+        "name": "Warrior's Pyramid",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Bastion Misawa"
+    },
+    {
+        "name": "Technology Master",
+        "cost": 100,
+        "unlock_condition": "Have the best relation with Zane Truesdale"
+    },
+    {
+        "name": "Bit Players",
+        "cost": 100,
+        "unlock_condition": "Use the characters in page two to finish stages 2 and 3"
+    },
+    {
+        "name": "Vanilla Gloom",
+        "cost": 100,
+        "unlock_condition": "Use the characters in page three to finish stages 2 and 3"
+    },
+    {
+        "name": "Tag Survivor",
+        "cost": 100,
+        "unlock_condition": "Enter stage 2"
+    },
+    {
+        "name": "Princeton Power",
+        "cost": 50,
+        "unlock_condition": "Clear stages 2 and 3 with all three of the Princeton Brothers"
+    },
+    {
+        "name": "Approach the Hotties",
+        "cost": 100,
+        "unlock_condition": "Clear stages 2 and 3 with Mindy"
+    },
+    {
+        "name": "Dorothy's Soul",
+        "cost": 50,
+        "unlock_condition": "Clear stages 2 and 3 with Ms. Dorothy"
+    },
+    {
+        "name": "Sadie's Soul",
+        "cost": 50,
+        "unlock_condition": "Clear stages 2 and 3 with Sadie"
+    },
+    {
+        "name": "Midday Constellation (Noon Star)",
+        "cost": 5730,
+        "unlock_condition": "Enter the Konami Code; ↑↑↓↓←→←→×○, while browsing packs in the shop"
+    },
+    {
+        "name": "Double Triple Destiny Draw",
+        "cost": 100,
+        "unlock_condition": "Acquire the Golden Egg Sandwich"
+    },
+    {
+        "name": "Checkered Flag",
+        "cost": 300,
+        "unlock_condition": "Have over 90% cards collected"
+    }
+]

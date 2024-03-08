@@ -1,0 +1,824 @@
+{
+    "data": [
+    {
+    "id": 2134346,
+    "name": "Asura Priest",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. This card can attack all monsters your opponent controls once each.",
+    "atk": 1700,
+    "def": 1200,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/asura-priest-192",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN125",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN125",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN183",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "4.5"
+    },
+    {
+    "set_name": "Hobby League 4 participation card C",
+    "set_code": "HL04-EN003",
+    "set_rarity": "Ultra Parallel Rare",
+    "set_rarity_code": "(UPR)",
+    "set_price": "15.3"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-071",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "11.22"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN071",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Retro Pack 2",
+    "set_code": "RP02-EN061",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 2134346,
+    "image_url": "https://images.ygoprodeck.com/images/cards/2134346.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2134346.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2134346.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "2.21",
+    "tcgplayer_price": "1.88",
+    "ebay_price": "8.00",
+    "amazon_price": "4.96",
+    "coolstuffinc_price": "2.99"
+    }
+    ]
+    },
+    {
+    "id": 89111398,
+    "name": "Dark Dust Spirit",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all other face-up monsters on the field.",
+    "atk": 2200,
+    "def": 1800,
+    "level": 6,
+    "race": "Zombie",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-dust-spirit-7441",
+    "card_sets": [
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN005",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Battle Pack: Epic Dawn",
+    "set_code": "BP01-EN005",
+    "set_rarity": "Starfoil Rare",
+    "set_rarity_code": "(SFR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN217",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.32"
+    },
+    {
+    "set_name": "Hobby League 7 participation card C",
+    "set_code": "HL07-EN003",
+    "set_rarity": "Ultra Parallel Rare",
+    "set_rarity_code": "(UPR)",
+    "set_price": "12.6"
+    },
+    {
+    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+    "set_code": "LCJW-EN188",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Pharaonic Guardian",
+    "set_code": "PGD-017",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.72"
+    },
+    {
+    "set_name": "Structure Deck: Zombie Madness",
+    "set_code": "SD2-EN004",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.3"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 89111398,
+    "image_url": "https://images.ygoprodeck.com/images/cards/89111398.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/89111398.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/89111398.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.21",
+    "tcgplayer_price": "0.45",
+    "ebay_price": "3.29",
+    "amazon_price": "1.75",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 38538445,
+    "name": "Fushi No Tori",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent's Life Points, increase your Life Points by an amount equal to the Battle Damage.",
+    "atk": 1200,
+    "def": 0,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fushi-no-tori-3268",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN184",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.28"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-072",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.12"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN072",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 38538445,
+    "image_url": "https://images.ygoprodeck.com/images/cards/38538445.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38538445.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38538445.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.63",
+    "tcgplayer_price": "0.51",
+    "ebay_price": "2.49",
+    "amazon_price": "0.86",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 2356994,
+    "name": "Great Long Nose",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent's Life Points, your opponent skips their next Battle Phase.",
+    "atk": 1900,
+    "def": 1700,
+    "level": 5,
+    "race": "Beast-Warrior",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/great-long-nose-210",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN180",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.79"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-068",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.36"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN068",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN068",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 2356994,
+    "image_url": "https://images.ygoprodeck.com/images/cards/2356994.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2356994.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2356994.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.81",
+    "tcgplayer_price": "0.46",
+    "ebay_price": "0.99",
+    "amazon_price": "0.55",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 75745607,
+    "name": "Hino-Kagu-Tsuchi",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent, they discard all cards in their hand during the next Draw Phase, before they draw.",
+    "atk": 2800,
+    "def": 2900,
+    "level": 8,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hino-kagu-tsuchi-6376",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN182",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "12.49"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-070",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "11.65"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN070",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Retro Pack 2",
+    "set_code": "RP02-EN060",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 75745607,
+    "image_url": "https://images.ygoprodeck.com/images/cards/75745607.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75745607.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75745607.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "9.06",
+    "tcgplayer_price": "2.49",
+    "ebay_price": "5.25",
+    "amazon_price": "10.18",
+    "coolstuffinc_price": "5.99"
+    }
+    ]
+    },
+    {
+    "id": 77084837,
+    "name": "Inaba White Rabbit",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. This monster attacks your opponent's Life Points directly.",
+    "atk": 700,
+    "def": 500,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/inaba-white-rabbit-6486",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN176",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "2.92"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-065",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "2.84"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN065",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN065",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "0.00"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 77084837,
+    "image_url": "https://images.ygoprodeck.com/images/cards/77084837.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/77084837.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/77084837.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.60",
+    "tcgplayer_price": "0.92",
+    "ebay_price": "2.95",
+    "amazon_price": "1.38",
+    "coolstuffinc_price": "1.49"
+    }
+    ]
+    },
+    {
+    "id": 40695128,
+    "name": "Maharaghi",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. If this card is Normal Summoned or flipped face-up, look at 1 card on the top of your Deck during your next Draw Phase (before you draw), and return the card to the top or the bottom of your Deck.",
+    "atk": 1200,
+    "def": 1700,
+    "level": 4,
+    "race": "Rock",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/maharaghi-3462",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN175",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.17"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-064",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "1.4"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN064",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN064",
+    "set_rarity": "Short Print",
+    "set_rarity_code": "(SP)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Structure Deck: Invincible Fortress",
+    "set_code": "SD7-EN004",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.13"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 40695128,
+    "image_url": "https://images.ygoprodeck.com/images/cards/40695128.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40695128.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40695128.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.13",
+    "tcgplayer_price": "0.20",
+    "ebay_price": "1.29",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 39751094,
+    "name": "Otohime",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 face-up monster your opponent controls; change that target's battle position.",
+    "atk": 0,
+    "def": 100,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/otohime-3368",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN181",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.26"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-069",
+    "set_rarity": "Super Short Print",
+    "set_rarity_code": "(SSP)",
+    "set_price": "1.94"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN069",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN069",
+    "set_rarity": "Super Short Print",
+    "set_rarity_code": "(SSP)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "War of the Giants Reinforcements",
+    "set_code": "WGRT-EN005",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "4.15"
+    },
+    {
+    "set_name": "War of the Giants: Round 2",
+    "set_code": "BPW2-EN005",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "1.55"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 39751094,
+    "image_url": "https://images.ygoprodeck.com/images/cards/39751094.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39751094.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39751094.jpg"
+    },
+    {
+    "id": 39751093,
+    "image_url": "https://images.ygoprodeck.com/images/cards/39751093.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/39751093.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/39751093.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.16",
+    "tcgplayer_price": "0.31",
+    "ebay_price": "1.99",
+    "amazon_price": "0.25",
+    "coolstuffinc_price": "0.25"
+    }
+    ]
+    },
+    {
+    "id": 40473581,
+    "name": "Susa Soldier",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. The Battle Damage this card inflicts to your opponent's Life Points is halved.",
+    "atk": 2000,
+    "def": 1600,
+    "level": 4,
+    "race": "Thunder",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/susa-soldier-3443",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN178",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "7.25"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-066",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "3.06"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN066",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Tournament Pack 6",
+    "set_code": "TP6-EN008",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 40473581,
+    "image_url": "https://images.ygoprodeck.com/images/cards/40473581.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40473581.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40473581.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "1.26",
+    "tcgplayer_price": "0.39",
+    "ebay_price": "2.99",
+    "amazon_price": "0.99",
+    "coolstuffinc_price": "0.39"
+    }
+    ]
+    },
+    {
+    "id": 34853266,
+    "name": "Tsukuyomi",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "Cannot be Special Summoned. If this card is Normal Summoned or flipped face-up: Target 1 face-up monster on the field; change that target to face-down Defense Position. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+    "atk": 1100,
+    "def": 1400,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tsukuyomi-2962",
+    "card_sets": [
+    {
+    "set_name": "Astral Pack One",
+    "set_code": "AP01-EN001",
+    "set_rarity": "Ultimate Rare",
+    "set_rarity_code": "(UtR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-075",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "5.56"
+    },
+    {
+    "set_name": "Dark Crisis",
+    "set_code": "DCR-EN075",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Dark Revelation Volume 1",
+    "set_code": "DR1-EN237",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Duelist Saga",
+    "set_code": "DUSA-EN052",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "6.71"
+    },
+    {
+    "set_name": "Structure Deck: Spellcaster's Judgment",
+    "set_code": "SD6-EN011",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "3.98"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 34853266,
+    "image_url": "https://images.ygoprodeck.com/images/cards/34853266.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34853266.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34853266.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "1.08",
+    "tcgplayer_price": "1.61",
+    "ebay_price": "4.10",
+    "amazon_price": "4.51",
+    "coolstuffinc_price": "2.99"
+    }
+    ]
+    },
+    {
+    "id": 76862289,
+    "name": "Yamata Dragon",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, draw cards until you have 5 cards in your hand.",
+    "atk": 2600,
+    "def": 3100,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yamata-dragon-6466",
+    "card_sets": [
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN179",
+    "set_rarity": "Super Rare",
+    "set_rarity_code": "(SR)",
+    "set_price": "6.8"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-067",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "26"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN067",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "0.00"
+    },
+    {
+    "set_name": "Retro Pack 2",
+    "set_code": "RP02-EN059",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Tournament Pack 6",
+    "set_code": "TP6-EN009",
+    "set_rarity": "Rare",
+    "set_rarity_code": "(R)",
+    "set_price": "0"
+    }
+    ],
+    "card_images": [
+    {
+    "id": 76862289,
+    "image_url": "https://images.ygoprodeck.com/images/cards/76862289.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/76862289.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/76862289.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "3.56",
+    "tcgplayer_price": "5.24",
+    "ebay_price": "7.64",
+    "amazon_price": "10.18",
+    "coolstuffinc_price": "2.99"
+    }
+    ]
+    },
+    {
+    "id": 3078576,
+    "name": "Yata-Garasu",
+    "type": "Spirit Monster",
+    "frameType": "effect",
+    "desc": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, they skip their next Draw Phase.",
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/yata-garasu-279",
+    "card_sets": [
+    {
+    "set_name": "Battles of Legend: Crystal Revenge",
+    "set_code": "BLCR-EN098",
+    "set_rarity": "Starlight Rare",
+    "set_rarity_code": "(StR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Dark Beginning 2",
+    "set_code": "DB2-EN177",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "7.81"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-000",
+    "set_rarity": "Secret Rare",
+    "set_rarity_code": "(ScR)",
+    "set_price": "54.93"
+    },
+    {
+    "set_name": "Legacy of Darkness",
+    "set_code": "LOD-EN000",
+    "set_rarity": "Secret Rare",
+    "set_rarity_code": "(ScR)",
+    "set_price": "79.99"
+    },
+    {
+    "set_name": "Magnificent Mavens",
+    "set_code": "MAMA-EN046",
+    "set_rarity": "Ultra Rare",
+    "set_rarity_code": "(UR)",
+    "set_price": "0"
+    },
+    {
+    "set_name": "Retro Pack 2",
+    "set_code": "RP02-EN051",
+    "set_rarity": "Common",
+    "set_rarity_code": "(C)",
+    "set_price": "0"
+    }
+    ],
+    "banlist_info": {
+    "ban_goat": "Banned"
+    },
+    "card_images": [
+    {
+    "id": 3078576,
+    "image_url": "https://images.ygoprodeck.com/images/cards/3078576.jpg",
+    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3078576.jpg",
+    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3078576.jpg"
+    }
+    ],
+    "card_prices": [
+    {
+    "cardmarket_price": "0.39",
+    "tcgplayer_price": "0.39",
+    "ebay_price": "3.99",
+    "amazon_price": "11.49",
+    "coolstuffinc_price": "1.99"
+    }
+    ]
+    }
+    ]
+    }

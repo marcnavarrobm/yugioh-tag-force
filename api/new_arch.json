@@ -1,0 +1,2228 @@
+{
+  "data": [
+    {
+      "name": "A Deal with Dark Ruler",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "A Legendary Ocean",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Acid Trap Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "Adhesion Trap Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "Airknight Parshath",
+      "archetype": "Parshath"
+    },
+    {
+      "name": "Alien Grey",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Alien Hunter",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Alien Infiltrator",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Alien Mars",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Alien Mother",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Alien Skull",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Alien Warrior",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Allure Queen LV3",
+      "archetype": "Allure Queen"
+    },
+    {
+      "name": "Allure Queen LV5",
+      "archetype": "Allure Queen"
+    },
+    {
+      "name": "Allure Queen LV7",
+      "archetype": "Allure Queen"
+    },
+    {
+      "name": "Alpha The Magnet Warrior",
+      "archetype": "Magnet Warrior"
+    },
+    {
+      "name": "Amazoness Archer",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Archers",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Blowpiper",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Chain Master",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Fighter",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Paladin",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Spellcaster",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Swords Woman",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Amazoness Tiger",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Ambulance Rescueroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Ambulanceroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Amphibious Bugroth MK-3",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Ancient Gear Beast",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Cannon",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Castle",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Drill",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Engineer",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Explosive",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Factory",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Fist",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Gadjiltron Chimera",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Gadjiltron Dragon",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Golem",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Soldier",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Tank",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Ancient Gear Workshop",
+      "archetype": "Ancient Gear"
+    },
+    {
+      "name": "Andro Sphinx",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Anti Raigeki",
+      "archetype": "Anti"
+    },
+    {
+      "name": "Anti-Aircraft Flower",
+      "archetype": "Anti"
+    },
+    {
+      "name": "Anti-Spell",
+      "archetype": "Anti"
+    },
+    {
+      "name": "Anti-Spell Fragrance",
+      "archetype": "Anti"
+    },
+    {
+      "name": "Apprentice Magician",
+      "archetype": "Magician"
+    },
+    {
+      "name": "Aqua Madoor",
+      "archetype": "Madoor"
+    },
+    {
+      "name": "Archfiend of Gilfer",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Archfiend Soldier",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Archfiend's Oath",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Archfiend's Roar",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Armed Dragon LV10",
+      "archetype": "Armed Dragon"
+    },
+    {
+      "name": "Armed Dragon LV3",
+      "archetype": "Armed Dragon"
+    },
+    {
+      "name": "Armed Dragon LV5",
+      "archetype": "Armed Dragon"
+    },
+    {
+      "name": "Armed Dragon LV7",
+      "archetype": "Armed Dragon"
+    },
+    {
+      "name": "Armed Ninja",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Arsenal Summoner",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Attack Reflector Unit",
+      "archetype": "Cyber Dragon"
+    },
+    {
+      "name": "Aussa the Earth Charmer",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Avatar of The Pot",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Axe of Despair",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "B.E.S. Big Core",
+      "archetype": "B.E.S."
+    },
+    {
+      "name": "B.E.S. Covered Core",
+      "archetype": "B.E.S."
+    },
+    {
+      "name": "B.E.S. Crystal Core",
+      "archetype": "B.E.S."
+    },
+    {
+      "name": "B.E.S. Tetran",
+      "archetype": "B.E.S."
+    },
+    {
+      "name": "Battery Charger",
+      "archetype": "Batteryman"
+    },
+    {
+      "name": "Batteryman AA",
+      "archetype": "Batteryman"
+    },
+    {
+      "name": "Batteryman C",
+      "archetype": "Batteryman"
+    },
+    {
+      "name": "Batteryman D",
+      "archetype": "Batteryman"
+    },
+    {
+      "name": "Battle-Scarred",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Beast of Talwar",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Beelze Frog",
+      "archetype": "Frog"
+    },
+    {
+      "name": "Beiige, Vanguard of Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Beta The Magnet Warrior",
+      "archetype": "Magnet Warrior"
+    },
+    {
+      "name": "Big Koala",
+      "archetype": "Koala"
+    },
+    {
+      "name": "Birdface",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Black Dragon's Chick",
+      "archetype": "Red-Eyes"
+    },
+    {
+      "name": "Black Illusion Ritual",
+      "archetype": "Eyes Restrict"
+    },
+    {
+      "name": "Black Luster Ritual",
+      "archetype": "Black Luster Soldier"
+    },
+    {
+      "name": "Black Luster Soldier",
+      "archetype": "Black Luster Soldier"
+    },
+    {
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "archetype": "Black Luster Soldier"
+    },
+    {
+      "name": "Black Skull Dragon",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Blue-Eyes Shining Dragon",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "Blue-Eyes Toon Dragon",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Blue-Eyes Ultimate Dragon",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "Blue-Eyes White Dragon",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "Bonding - H2O",
+      "archetype": "Bonding"
+    },
+    {
+      "name": "Book of Life",
+      "archetype": "Book of"
+    },
+    {
+      "name": "Book of Moon",
+      "archetype": "Book of"
+    },
+    {
+      "name": "Book of Secret Arts",
+      "archetype": "Book of"
+    },
+    {
+      "name": "Book of Taiyou",
+      "archetype": "Book of"
+    },
+    {
+      "name": "Boot-Up Soldier - Dread Dynamo",
+      "archetype": "Gadget"
+    },
+    {
+      "name": "Boss Rush",
+      "archetype": "B.E.S."
+    },
+    {
+      "name": "Bottomless Trap Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "Brainwashing Beam",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Broww, Huntsman of Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Brron, Mad King of Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Bubble Blaster",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Bubble Illusion",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Bubble Shuffle",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Burst Return",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Burst Stream of Destruction",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "Butterfly Dagger - Elma",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Cannonball Spear Shellfish",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Celtic Guardian",
+      "archetype": "Celtic Guard"
+    },
+    {
+      "name": "Chaos Command Magician",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Chaos Emperor Dragon - Envoy of the End",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Chaos End",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Chaos Greed",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Chaos Necromancer",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Chaos Sorcerer",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Chaosrider Gustaph",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Charm of Shabti",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Checkmate",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Chrysalis Dolphin",
+      "archetype": "Chrysalis"
+    },
+    {
+      "name": "Cipher Soldier",
+      "archetype": "Cipher"
+    },
+    {
+      "name": "Clay Charge",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Clock Tower Prison",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Common Soul",
+      "archetype": "Neo-Spacian"
+    },
+    {
+      "name": "Contact",
+      "archetype": "Chrysalis"
+    },
+    {
+      "name": "Contract with Exodia",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Corroding Shark",
+      "archetype": "Shark"
+    },
+    {
+      "name": "Corruption Cell \"A\"",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Cosmic Horror Gangi'el",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Crimson Ninja",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Criosphinx",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Crop Circles",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Curse of Dragon",
+      "archetype": "Gaia The Fierce Knight"
+    },
+    {
+      "name": "Curse of the Masked Beast",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Cyber Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Cyber Dragon",
+      "archetype": "Cyber Dragon"
+    },
+    {
+      "name": "Cyber Harpie Lady",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Cyber Laser Dragon",
+      "archetype": "Photon"
+    },
+    {
+      "name": "Cyberdark Dragon",
+      "archetype": "Cyberdark"
+    },
+    {
+      "name": "Cyberdark Edge",
+      "archetype": "Cyberdark"
+    },
+    {
+      "name": "Cyberdark Horn",
+      "archetype": "Cyberdark"
+    },
+    {
+      "name": "Cyberdark Keel",
+      "archetype": "Cyberdark"
+    },
+    {
+      "name": "Cyclone Blade",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Cyclone Boomerang",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Cycroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "D - Chain",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "D - Shield",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "D - Spirit",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "D - Time",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "D.3.S. Frog",
+      "archetype": "Frog"
+    },
+    {
+      "name": "D.D. Assailant",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Borderline",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Crazy Beast",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Designator",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Dynamite",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Guide",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Scout Plane",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Survivor",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Trainer",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Trap Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "D.D. Warrior",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D. Warrior Lady",
+      "archetype": "D.D."
+    },
+    {
+      "name": "D.D.M. - Different Dimension Master",
+      "archetype": "D.D."
+    },
+    {
+      "name": "Dark Blade",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Dark City",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Dark Eradicator Warlock",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Flare Knight",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "Dark Jeroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Dark Magic Attack",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Magician",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Magician Girl",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Magician Knight",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Magician of Chaos",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Paladin",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Sage",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Dark Scorpion - Chick the Yellow",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Dark Scorpion - Cliff the Trap Remover",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Dark Scorpion - Gorg the Strong",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Dark Scorpion - Meanae the Thorn",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Dark Scorpion Burglars",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Dark Scorpion Combination",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Dark World Lightning",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Darkbishop Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Darklord Marie",
+      "archetype": "Darklord"
+    },
+    {
+      "name": "Decoyroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Dedication through Light and Darkness",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Deepsea Warrior",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Demise, King of Armageddon",
+      "archetype": "Demise"
+    },
+    {
+      "name": "Des Croaking",
+      "archetype": "Frog"
+    },
+    {
+      "name": "Des Frog",
+      "archetype": "Frog"
+    },
+    {
+      "name": "Des Koala",
+      "archetype": "Koala"
+    },
+    {
+      "name": "Desrook Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Destiny Board",
+      "archetype": "Spirit Message"
+    },
+    {
+      "name": "Destiny HERO - Blade Master",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Captain Tenacious",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Dasher",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Defender",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Diamond Dude",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Dogma",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Doom Lord",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Double Dude",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Dreadmaster",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny HERO - Fear Monger",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny Mirage",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Destiny Signal",
+      "archetype": "Destiny HERO"
+    },
+    {
+      "name": "Dice Jar",
+      "archetype": "Dice"
+    },
+    {
+      "name": "Dice Re-Roll",
+      "archetype": "Dice"
+    },
+    {
+      "name": "Dimensionhole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "Doma The Angel of Silence",
+      "archetype": "Fairy"
+    },
+    {
+      "name": "Don Zaloog",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Doriado's Blessing",
+      "archetype": "Doriado"
+    },
+    {
+      "name": "Dragon Master Knight",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "Dramatic Rescue",
+      "archetype": "Amazoness"
+    },
+    {
+      "name": "Drill Bug",
+      "archetype": "Parasite"
+    },
+    {
+      "name": "Drillroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Dungeon Worm",
+      "archetype": "Worm"
+    },
+    {
+      "name": "E - Emergency Call",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Earthbound Spirit",
+      "archetype": "Earthbound"
+    },
+    {
+      "name": "Elegant Egotist",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Elemental HERO Aqua Neos",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Avian",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Bladedge",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Bubbleman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Burstinatrix",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Clayman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Dark Neos",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Electrum",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Flame Wingman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Flare Neos",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Mariner",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Mudballman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Necroid Shaman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Necroshade",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Neo Bubbleman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Neos",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Phoenix Enforcer",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Rampart Blaster",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Shining Flare Wingman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Shining Phoenix Enforcer",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Sparkman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Steam Healer",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Tempest",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Thunder Giant",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Wild Wingman",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Wildedge",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental HERO Wildheart",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Elemental Mistress Doriado",
+      "archetype": "Doriado"
+    },
+    {
+      "name": "Elemental Recharge",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "End of the World",
+      "archetype": "Demise"
+    },
+    {
+      "name": "Eria the Water Charmer",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Exodia Necross",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Exodia the Forbidden One",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Exxod, Master of The Guard",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Fairy Guardian",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Fake Hero",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Falling Down",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Familiar-Possessed - Aussa",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Familiar-Possessed - Eria",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Familiar-Possessed - Hiita",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Familiar-Possessed - Wynn",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Feather Shot",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Feather Wind",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Flame Ghost",
+      "archetype": "Skull Servant"
+    },
+    {
+      "name": "Flying Penguin",
+      "archetype": "Penguin"
+    },
+    {
+      "name": "Flying Saucer Muusik'i",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Fortress Whale",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Fortress Whale's Oath",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Fuhma Shuriken",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Future Fusion",
+      "archetype": "Magician"
+    },
+    {
+      "name": "Gadget Soldier",
+      "archetype": "Gadget"
+    },
+    {
+      "name": "Gaia the Dragon Champion",
+      "archetype": "Gaia The Fierce Knight"
+    },
+    {
+      "name": "Gaia The Fierce Knight",
+      "archetype": "Gaia The Fierce Knight"
+    },
+    {
+      "name": "Gamma the Magnet Warrior",
+      "archetype": "Magnet Warrior"
+    },
+    {
+      "name": "Gate Guardian",
+      "archetype": "Gate Guardian"
+    },
+    {
+      "name": "Gateway to Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Goblin of Greed",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Goldd, Wu-Lord of Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Grand Tiki Elder",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Granmarg the Rock Monarch",
+      "archetype": "Monarch"
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Cannonholder",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Chief",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Curse",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Guard",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Servant",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Spear Soldier",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Vassal",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravekeeper's Watcher",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Gravity Axe - Grarl",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Great Maju Garzett",
+      "archetype": "Maju"
+    },
+    {
+      "name": "Great White",
+      "archetype": "Shark"
+    },
+    {
+      "name": "Green Gadget",
+      "archetype": "Gadget"
+    },
+    {
+      "name": "Gren Maju Da Eiza",
+      "archetype": "Maju"
+    },
+    {
+      "name": "Gryphon Wing",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Guardian Angel Joan",
+      "archetype": "Fairy"
+    },
+    {
+      "name": "Guardian Baou",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian Ceal",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian Elma",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian Grarl",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian Kay'est",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian of the Throne Room",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian Sphinx",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Guardian Statue",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Guardian Tryce",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Gyroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Hamon, Lord of Striking Thunder",
+      "archetype": "Sacred Beast"
+    },
+    {
+      "name": "Hand of Nephthys",
+      "archetype": "Nephthys"
+    },
+    {
+      "name": "Harpie Girl",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie Lady",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie Lady 1",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie Lady 2",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie Lady 3",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie Lady Sisters",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie's Feather Duster",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpie's Pet Dragon",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Harpies' Hunting Ground",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Herald of Green Light",
+      "archetype": "Herald"
+    },
+    {
+      "name": "Herald of Purple Light",
+      "archetype": "Herald"
+    },
+    {
+      "name": "Hero Barrier",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Hero Flash!!",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Hero Heart",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Hero Signal",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Hero Spirit",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Hidden Spellbook",
+      "archetype": "Spellbook"
+    },
+    {
+      "name": "Hieracosphinx",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Hiita the Fire Charmer",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV4",
+      "archetype": "Horus the Black Flame Dragon"
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV6",
+      "archetype": "Horus the Black Flame Dragon"
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV8",
+      "archetype": "Horus the Black Flame Dragon"
+    },
+    {
+      "name": "Horus' Servant",
+      "archetype": "Horus the Black Flame Dragon"
+    },
+    {
+      "name": "Humanoid Slime",
+      "archetype": "Slime"
+    },
+    {
+      "name": "Humanoid Worm Drake",
+      "archetype": "Slime"
+    },
+    {
+      "name": "Hydrogeddon",
+      "archetype": "Bonding"
+    },
+    {
+      "name": "Hysteric Party",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Infernalqueen Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Inferno Fire Blast",
+      "archetype": "Red-Eyes"
+    },
+    {
+      "name": "Jack's Knight",
+      "archetype": "Knight"
+    },
+    {
+      "name": "Jam Breeding Machine",
+      "archetype": "Slime"
+    },
+    {
+      "name": "Jam Defender",
+      "archetype": "Slime"
+    },
+    {
+      "name": "Jar of Greed",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Jetroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Jinzo",
+      "archetype": "Jinzo"
+    },
+    {
+      "name": "Jinzo #7",
+      "archetype": "Jinzo"
+    },
+    {
+      "name": "Kaibaman",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "King of the Skull Servants",
+      "archetype": "Skull Servant"
+    },
+    {
+      "name": "King's Knight",
+      "archetype": "Knight"
+    },
+    {
+      "name": "Knight's Title",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Kozaky",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Kuriboh",
+      "archetype": "Kuriboh"
+    },
+    {
+      "name": "Lady Ninja Yae",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Lava Battleguard",
+      "archetype": "Battleguard"
+    },
+    {
+      "name": "Left Arm of the Forbidden One",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Left Leg of the Forbidden One",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Lesser Fiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Levia-Dragon - Daedalus",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Lost Guardian",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Mad Lobster",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Maiden of the Aqua",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Majestic Mech - Goryu",
+      "archetype": "Majestic"
+    },
+    {
+      "name": "Majestic Mech - Ohka",
+      "archetype": "Majestic"
+    },
+    {
+      "name": "Majestic Mech - Senku",
+      "archetype": "Majestic"
+    },
+    {
+      "name": "Maju Garzett",
+      "archetype": "Maju"
+    },
+    {
+      "name": "Manga Ryu-Ran",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Mask of Brutality",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Mask of Darkness",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Mask of Dispel",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Mask of Restrict",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Mask of the Accursed",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Mask of Weakness",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Master of Oz",
+      "archetype": "Koala"
+    },
+    {
+      "name": "Medusa Worm",
+      "archetype": "Worm"
+    },
+    {
+      "name": "Melchid the Four-Face Beast",
+      "archetype": "Mask"
+    },
+    {
+      "name": "Mermaid Knight",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Metal Guardian",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Metallizing Parasite - Lunatite",
+      "archetype": "Parasite"
+    },
+    {
+      "name": "Miracle Fusion",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Miracle Restoring",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "archetype": "Monarch"
+    },
+    {
+      "name": "Mustering of the Dark Scorpions",
+      "archetype": "Dark Scorpion"
+    },
+    {
+      "name": "Necrovalley",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Needle Worm",
+      "archetype": "Worm"
+    },
+    {
+      "name": "Neo Aqua Madoor",
+      "archetype": "Madoor"
+    },
+    {
+      "name": "Neo Space",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Neo-Spacian Aqua Dolphin",
+      "archetype": "Neo-Spacian"
+    },
+    {
+      "name": "Neo-Spacian Dark Panther",
+      "archetype": "Neo-Spacian"
+    },
+    {
+      "name": "Neo-Spacian Flare Scarab",
+      "archetype": "Neo-Spacian"
+    },
+    {
+      "name": "Nightmare Penguin",
+      "archetype": "Penguin"
+    },
+    {
+      "name": "Nimble Momonga",
+      "archetype": "Nimble"
+    },
+    {
+      "name": "Nin-Ken Dog",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Ninja Grandmaster Sasuke",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Ninjitsu Art of Decoy",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Ninjitsu Art of Transformation",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Nuvia the Wicked",
+      "archetype": "Mask"
+    },
+    {
+      "name": "O - Oversoul",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Obnoxious Celtic Guard",
+      "archetype": "Celtic Guard"
+    },
+    {
+      "name": "Ocean Dragon Lord - Neo-Daedalus",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Ojama Black",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojama Delta Hurricane!!",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojama Green",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojama King",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojama Trio",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojama Yellow",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojamagic",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Ojamuscle",
+      "archetype": "Ojama"
+    },
+    {
+      "name": "Orbital Bombardment",
+      "archetype": "Alien"
+    },
+    {
+      "name": "Oxygeddon",
+      "archetype": "Bonding"
+    },
+    {
+      "name": "Paladin of White Dragon",
+      "archetype": "Blue-Eyes"
+    },
+    {
+      "name": "Pandemonium",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Parasite Paracide",
+      "archetype": "Parasite"
+    },
+    {
+      "name": "Parrot Dragon",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Patroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Penguin Knight",
+      "archetype": "Penguin"
+    },
+    {
+      "name": "Penguin Soldier",
+      "archetype": "Penguin"
+    },
+    {
+      "name": "Photon Generator Unit",
+      "archetype": "Cyber Dragon"
+    },
+    {
+      "name": "Poison Draw Frog",
+      "archetype": "Frog"
+    },
+    {
+      "name": "Pot of Avarice",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Pot of Generosity",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Pot of Greed",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Primal Seed",
+      "archetype": "Black Luster Soldier"
+    },
+    {
+      "name": "Proto-Cyber Dragon",
+      "archetype": "Cyber Dragon"
+    },
+    {
+      "name": "Pyramid of Light",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Queen's Bodyguard",
+      "archetype": "Allure Queen"
+    },
+    {
+      "name": "Queen's Knight",
+      "archetype": "Knight"
+    },
+    {
+      "name": "R - Righteous Justice",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Raviel, Lord of Phantasms",
+      "archetype": "Sacred Beast"
+    },
+    {
+      "name": "Reckless Greed",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Red Gadget",
+      "archetype": "Gadget"
+    },
+    {
+      "name": "Red-Eyes Black Dragon",
+      "archetype": "Red-Eyes"
+    },
+    {
+      "name": "Red-Eyes Black Metal Dragon",
+      "archetype": "Red-Eyes"
+    },
+    {
+      "name": "Red-Eyes Darkness Dragon",
+      "archetype": "Red-Eyes"
+    },
+    {
+      "name": "Relinquished",
+      "archetype": "Eyes Restrict"
+    },
+    {
+      "name": "Rescueroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Revival Jam",
+      "archetype": "Slime"
+    },
+    {
+      "name": "Right Arm of the Forbidden One",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Right Leg of the Forbidden One",
+      "archetype": "Exodia"
+    },
+    {
+      "name": "Rite of Spirit",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Rod of Silence - Kay'est",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Royal Tribute",
+      "archetype": "Gravekeeper's"
+    },
+    {
+      "name": "Ruin, Queen of Oblivion",
+      "archetype": "Demise"
+    },
+    {
+      "name": "Sacred Phoenix of Nephthys",
+      "archetype": "Nephthys"
+    },
+    {
+      "name": "Sage's Stone",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Scarr, Scout of Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Shadow Tamer",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Shadowknight Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Shooting Star Bow - Ceal",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Silent Magician LV4",
+      "archetype": "Silent Magician"
+    },
+    {
+      "name": "Silent Magician LV8",
+      "archetype": "Silent Magician"
+    },
+    {
+      "name": "Silent Swordsman LV3",
+      "archetype": "Silent Swordsman"
+    },
+    {
+      "name": "Silent Swordsman LV5",
+      "archetype": "Silent Swordsman"
+    },
+    {
+      "name": "Silent Swordsman LV7",
+      "archetype": "Silent Swordsman"
+    },
+    {
+      "name": "Sillva, Warlord of Dark World",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Simorgh, Bird of Divinity",
+      "archetype": "Simorgh"
+    },
+    {
+      "name": "Skilled Dark Magician",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Skull Archfiend of Lightning",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Skull Guardian",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Skull Servant",
+      "archetype": "Skull Servant"
+    },
+    {
+      "name": "Skyscraper",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Slime Toad",
+      "archetype": "Frog"
+    },
+    {
+      "name": "Solemn Judgment",
+      "archetype": "Solemn"
+    },
+    {
+      "name": "Solemn Wishes",
+      "archetype": "Solemn"
+    },
+    {
+      "name": "Spark Blaster",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Spellbook Organization",
+      "archetype": "Spellbook"
+    },
+    {
+      "name": "Sphinx Teleia",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Spiral Spear Strike",
+      "archetype": "Gaia The Fierce Knight"
+    },
+    {
+      "name": "Spirit Message \"A\"",
+      "archetype": "Spirit Message"
+    },
+    {
+      "name": "Spirit Message \"I\"",
+      "archetype": "Spirit Message"
+    },
+    {
+      "name": "Spirit Message \"L\"",
+      "archetype": "Spirit Message"
+    },
+    {
+      "name": "Spirit Message \"N\"",
+      "archetype": "Spirit Message"
+    },
+    {
+      "name": "Spirit of the Pot of Greed",
+      "archetype": "Greed"
+    },
+    {
+      "name": "Steam Gyroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Steamroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Strike Ninja",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Stronghold the Moving Fortress",
+      "archetype": "Gadget"
+    },
+    {
+      "name": "Submarineroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Super Vehicroid Jumbo Drill",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Super-Electromagnetic Voltech Dragon",
+      "archetype": "Batteryman"
+    },
+    {
+      "name": "Supercharge",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Swamp Battleguard",
+      "archetype": "Battleguard"
+    },
+    {
+      "name": "Swift Gaia the Fierce Knight",
+      "archetype": "Gaia The Fierce Knight"
+    },
+    {
+      "name": "Terrorking Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "The Agent of Creation - Venus",
+      "archetype": "The Agent"
+    },
+    {
+      "name": "The Agent of Force - Mars",
+      "archetype": "The Agent"
+    },
+    {
+      "name": "The Agent of Judgment - Saturn",
+      "archetype": "The Agent"
+    },
+    {
+      "name": "The Agent of Wisdom - Mercury",
+      "archetype": "The Agent"
+    },
+    {
+      "name": "The Flute of Summoning Kuriboh",
+      "archetype": "Kuriboh"
+    },
+    {
+      "name": "The Forces of Darkness",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "The Legendary Fisherman",
+      "archetype": "Umi"
+    },
+    {
+      "name": "The Masked Beast",
+      "archetype": "Mask"
+    },
+    {
+      "name": "The Sanctuary in the Sky",
+      "archetype": "The Agent"
+    },
+    {
+      "name": "The Wicked Worm Beast",
+      "archetype": "Worm"
+    },
+    {
+      "name": "Theinen the Great Sphinx",
+      "archetype": "Sphinx"
+    },
+    {
+      "name": "Thestalos the Firestorm Monarch",
+      "archetype": "Monarch"
+    },
+    {
+      "name": "Thousand Knives",
+      "archetype": "Dark Magician"
+    },
+    {
+      "name": "Thousand-Eyes Idol",
+      "archetype": "Eyes Restrict"
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "archetype": "Eyes Restrict"
+    },
+    {
+      "name": "Thunder Dragon",
+      "archetype": "Thunder Dragon"
+    },
+    {
+      "name": "Time Wizard",
+      "archetype": "Magician"
+    },
+    {
+      "name": "Toon Alligator",
+      "archetype": "Alligator"
+    },
+    {
+      "name": "Toon Cannon Soldier",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Dark Magician Girl",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Defense",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Gemini Elf",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Goblin Attack Force",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Masked Sorcerer",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Mermaid",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Summoned Skull",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon Table of Contents",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Toon World",
+      "archetype": "Toon"
+    },
+    {
+      "name": "Tornado Wall",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Torpedo Fish",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Transcendent Wings",
+      "archetype": "Kuriboh"
+    },
+    {
+      "name": "Trap Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "Treeborn Frog",
+      "archetype": "Frog"
+    },
+    {
+      "name": "Triangle Ecstasy Spark",
+      "archetype": "Harpie"
+    },
+    {
+      "name": "Twin Swords of Flashing Light - Tryce",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Twin-Headed Thunder Dragon",
+      "archetype": "Thunder Dragon"
+    },
+    {
+      "name": "UFOroid",
+      "archetype": "Roid"
+    },
+    {
+      "name": "UFOroid Fighter",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Umi",
+      "archetype": "Umi"
+    },
+    {
+      "name": "Uria, Lord of Searing Flames",
+      "archetype": "Sacred Beast"
+    },
+    {
+      "name": "V-Tiger Jet",
+      "archetype": "ABC"
+    },
+    {
+      "name": "Valkyrion the Magna Warrior",
+      "archetype": "Magnet Warrior"
+    },
+    {
+      "name": "Vampire Baby",
+      "archetype": "Vampire"
+    },
+    {
+      "name": "Vampire Genesis",
+      "archetype": "Vampire"
+    },
+    {
+      "name": "Vampire Lady",
+      "archetype": "Vampire"
+    },
+    {
+      "name": "Vampire Lord",
+      "archetype": "Vampire"
+    },
+    {
+      "name": "Vehicroid Connection Zone",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Vilepawn Archfiend",
+      "archetype": "Archfiend"
+    },
+    {
+      "name": "Volcanic Eruption",
+      "archetype": "Volcanic"
+    },
+    {
+      "name": "VW-Tiger Catapult",
+      "archetype": "ABC"
+    },
+    {
+      "name": "VWXYZ-Dragon Catapult Cannon",
+      "archetype": "ABC"
+    },
+    {
+      "name": "W-Wing Catapult",
+      "archetype": "ABC"
+    },
+    {
+      "name": "Warrior Dai Grepher",
+      "archetype": "Grepher"
+    },
+    {
+      "name": "Water Dragon",
+      "archetype": "Bonding"
+    },
+    {
+      "name": "Wattkid",
+      "archetype": "Watt"
+    },
+    {
+      "name": "White Hole",
+      "archetype": "Hole"
+    },
+    {
+      "name": "White Ninja",
+      "archetype": "Ninja"
+    },
+    {
+      "name": "Wicked-Breaking Flamberge - Baou",
+      "archetype": "Guardian"
+    },
+    {
+      "name": "Winged Kuriboh",
+      "archetype": "Kuriboh"
+    },
+    {
+      "name": "Winged Kuriboh LV10",
+      "archetype": "Kuriboh"
+    },
+    {
+      "name": "Witch Doctor of Chaos",
+      "archetype": "Chaos"
+    },
+    {
+      "name": "Wonder Garage",
+      "archetype": "Roid"
+    },
+    {
+      "name": "Woodborg Inpachi",
+      "archetype": "Dark World"
+    },
+    {
+      "name": "Worm Drake",
+      "archetype": "Worm"
+    },
+    {
+      "name": "Wroughtweiler",
+      "archetype": "Elemental HERO"
+    },
+    {
+      "name": "Wynn the Wind Charmer",
+      "archetype": "Charmer"
+    },
+    {
+      "name": "X-Head Cannon",
+      "archetype": "ABC"
+    },
+    {
+      "name": "XY-Dragon Cannon",
+      "archetype": "ABC"
+    },
+    {
+      "name": "XYZ-Dragon Cannon",
+      "archetype": "ABC"
+    },
+    {
+      "name": "XZ-Tank Cannon",
+      "archetype": "ABC"
+    },
+    {
+      "name": "Y-Dragon Head",
+      "archetype": "ABC"
+    },
+    {
+      "name": "Yellow Gadget",
+      "archetype": "Gadget"
+    },
+    {
+      "name": "YZ-Tank Dragon",
+      "archetype": "ABC"
+    },
+    {
+      "name": "Z-Metal Tank",
+      "archetype": "ABC"
+    },
+    {
+      "name": "Zaborg the Thunder Monarch",
+      "archetype": "Monarch"
+    },
+    {
+      "name": "Zure, Knight of Dark World",
+      "archetype": "Dark World"
+    }
+  ]
+}

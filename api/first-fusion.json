@@ -1,0 +1,1344 @@
+[
+  {
+    "id": 40173854,
+    "name": "Amphibious Bugroth",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Ground Attacker Bugroth\" + \"Defender of the Sea\"",
+    "atk": 1850,
+    "def": 1300,
+    "level": 5,
+    "race": "Aqua",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/amphibious-bugroth-3412",
+    "card_images": {
+      "id": 40173854,
+      "image_url": "https://images.ygoprodeck.com/images/cards/40173854.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/40173854.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/40173854.jpg"
+    }
+  },
+  {
+    "id": 53153481,
+    "name": "Armaill",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A strange warrior who manipulates three deadly blades with both hands and his tail.",
+    "atk": 700,
+    "def": 1300,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/armaill-4528",
+    "card_images": {
+      "id": 53153481,
+      "image_url": "https://images.ygoprodeck.com/images/cards/53153481.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53153481.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53153481.jpg"
+    }
+  },
+  {
+    "id": 6840573,
+    "name": "Barox",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
+    "atk": 1380,
+    "def": 1530,
+    "level": 5,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/barox-589",
+    "card_images": {
+      "id": 6840573,
+      "image_url": "https://images.ygoprodeck.com/images/cards/6840573.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/6840573.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/6840573.jpg"
+    }
+  },
+  {
+    "id": 16899564,
+    "name": "Beautiful Headhuntress",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A vicious creature that has decapitated numerous enemy monsters.",
+    "atk": 1600,
+    "def": 800,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/beautiful-headhuntress-1453",
+    "card_images": {
+      "id": 16899564,
+      "image_url": "https://images.ygoprodeck.com/images/cards/16899564.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/16899564.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/16899564.jpg"
+    }
+  },
+  {
+    "id": 94022093,
+    "name": "Behegon",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.",
+    "atk": 1350,
+    "def": 1000,
+    "level": 4,
+    "race": "Aqua",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/behegon-7823",
+    "card_images": {
+      "id": 94022093,
+      "image_url": "https://images.ygoprodeck.com/images/cards/94022093.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94022093.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94022093.jpg"
+    }
+  },
+  {
+    "id": 41396436,
+    "name": "Blue-Winged Crown",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",
+    "atk": 1600,
+    "def": 1200,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/blue-winged-crown-3534",
+    "card_images": {
+      "id": 41396436,
+      "image_url": "https://images.ygoprodeck.com/images/cards/41396436.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41396436.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41396436.jpg"
+    }
+  },
+  {
+    "id": 37421579,
+    "name": "Charubin the Fire Knight",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Monster Egg\" + \"Hinotama Soul\"",
+    "atk": 1100,
+    "def": 800,
+    "level": 3,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/charubin-the-fire-knight-3170",
+    "card_images": {
+      "id": 37421579,
+      "image_url": "https://images.ygoprodeck.com/images/cards/37421579.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37421579.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37421579.jpg"
+    }
+  },
+  {
+    "id": 17881964,
+    "name": "Darkfire Dragon",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Firegrass\" + \"Petit Dragon\"",
+    "atk": 1500,
+    "def": 1250,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkfire-dragon-1553",
+    "card_images": {
+      "id": 17881964,
+      "image_url": "https://images.ygoprodeck.com/images/cards/17881964.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/17881964.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/17881964.jpg"
+    }
+  },
+  {
+    "id": 43500484,
+    "name": "Darkworld Thorns",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A thorny plant found in the darklands that wraps itself around any unwary traveler.",
+    "atk": 1200,
+    "def": 900,
+    "level": 3,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/darkworld-thorns-3711",
+    "card_images": {
+      "id": 43500484,
+      "image_url": "https://images.ygoprodeck.com/images/cards/43500484.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/43500484.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/43500484.jpg"
+    }
+  },
+  {
+    "id": 28593363,
+    "name": "Deepsea Shark",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Bottom Dweller\" + \"Tongyo\"",
+    "atk": 1900,
+    "def": 1600,
+    "level": 5,
+    "race": "Fish",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/deepsea-shark-2434",
+    "card_images": {
+      "id": 28593363,
+      "image_url": "https://images.ygoprodeck.com/images/cards/28593363.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28593363.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28593363.jpg"
+    }
+  },
+  {
+    "id": 70681994,
+    "name": "Dragoness the Wicked Knight",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+    "atk": 1200,
+    "def": 900,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/dragoness-the-wicked-knight-5939",
+    "card_images": {
+      "id": 70681994,
+      "image_url": "https://images.ygoprodeck.com/images/cards/70681994.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70681994.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70681994.jpg"
+    }
+  },
+  {
+    "id": 75376965,
+    "name": "Enchanting Mermaid",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A beautiful mermaid that lures voyagers to a watery grave.",
+    "atk": 1200,
+    "def": 900,
+    "level": 3,
+    "race": "Fish",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/enchanting-mermaid-6343",
+    "card_images": {
+      "id": 75376965,
+      "image_url": "https://images.ygoprodeck.com/images/cards/75376965.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75376965.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75376965.jpg"
+    }
+  },
+  {
+    "id": 41392891,
+    "name": "Feral Imp",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.",
+    "atk": 1300,
+    "def": 1400,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/feral-imp-3533",
+    "card_images": {
+      "id": 41392891,
+      "image_url": "https://images.ygoprodeck.com/images/cards/41392891.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/41392891.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/41392891.jpg"
+    }
+  },
+  {
+    "id": 26566878,
+    "name": "Fiend Scorpion",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+    "atk": 900,
+    "def": 200,
+    "level": 2,
+    "race": "Insect",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fiend-scorpion-2279",
+    "card_images": {
+      "id": 26566878,
+      "image_url": "https://images.ygoprodeck.com/images/cards/26566878.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26566878.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26566878.jpg"
+    }
+  },
+  {
+    "id": 53293545,
+    "name": "Firegrass",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A fire-breathing plant found growing near volcanoes.",
+    "atk": 700,
+    "def": 600,
+    "level": 2,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/firegrass-4542",
+    "card_images": {
+      "id": 53293545,
+      "image_url": "https://images.ygoprodeck.com/images/cards/53293545.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53293545.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53293545.jpg"
+    }
+  },
+  {
+    "id": 71407486,
+    "name": "Fireyarou",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A malevolent creature wrapped in flames that attacks enemies with intense fire.",
+    "atk": 1300,
+    "def": 1000,
+    "level": 4,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fireyarou-5994",
+    "card_images": {
+      "id": 71407486,
+      "image_url": "https://images.ygoprodeck.com/images/cards/71407486.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/71407486.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/71407486.jpg"
+    }
+  },
+  {
+    "id": 34460851,
+    "name": "Flame Manipulator",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+    "atk": 900,
+    "def": 1000,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flame-manipulator-2926",
+    "card_images": {
+      "id": 34460851,
+      "image_url": "https://images.ygoprodeck.com/images/cards/34460851.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34460851.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34460851.jpg"
+    }
+  },
+  {
+    "id": 45231177,
+    "name": "Flame Swordsman",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Flame Manipulator\" + \"Masaki the Legendary Swordsman\"",
+    "atk": 1800,
+    "def": 1600,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flame-swordsman-3857",
+    "card_images": {
+      "id": 45231177,
+      "image_url": "https://images.ygoprodeck.com/images/cards/45231177.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/45231177.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/45231177.jpg"
+    }
+  },
+  {
+    "id": 2830619,
+    "name": "Flame Viper",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A fire-breathing snake whose speed makes it a difficult target.",
+    "atk": 400,
+    "def": 450,
+    "level": 2,
+    "race": "Pyro",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flame-viper-252",
+    "card_images": {
+      "id": 2830619,
+      "image_url": "https://images.ygoprodeck.com/images/cards/2830619.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/2830619.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/2830619.jpg"
+    }
+  },
+  {
+    "id": 95952802,
+    "name": "Flower Wolf",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Silver Fang\" + \"Darkworld Thorns\"",
+    "atk": 1800,
+    "def": 1400,
+    "level": 5,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/flower-wolf-7989",
+    "card_images": {
+      "id": 95952802,
+      "image_url": "https://images.ygoprodeck.com/images/cards/95952802.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95952802.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95952802.jpg"
+    }
+  },
+  {
+    "id": 26902560,
+    "name": "Fusion Sage",
+    "type": "Spell Card",
+    "frameType": "spell",
+    "desc": "Add 1 \"Polymerization\" from your Deck to your hand.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fusion-sage-2302",
+    "card_images": {
+      "id": 26902560,
+      "image_url": "https://images.ygoprodeck.com/images/cards/26902560.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/26902560.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/26902560.jpg"
+    }
+  },
+  {
+    "id": 1641882,
+    "name": "Fusionist",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Petit Angel\" + \"Mystical Sheep #2\"",
+    "atk": 900,
+    "def": 700,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/fusionist-145",
+    "card_images": {
+      "id": 1641882,
+      "image_url": "https://images.ygoprodeck.com/images/cards/1641882.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1641882.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1641882.jpg"
+    }
+  },
+  {
+    "id": 53776525,
+    "name": "Gigobyte",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil....",
+    "atk": 350,
+    "def": 300,
+    "level": 1,
+    "race": "Reptile",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/gigobyte-4579",
+    "card_images": {
+      "id": 53776525,
+      "image_url": "https://images.ygoprodeck.com/images/cards/53776525.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/53776525.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/53776525.jpg"
+    }
+  },
+  {
+    "id": 51828629,
+    "name": "Giltia the D. Knight",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Guardian of the Labyrinth\" + \"Protector of the Throne\"",
+    "atk": 1850,
+    "def": 1500,
+    "level": 5,
+    "race": "Warrior",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/giltia-the-d-knight-4410",
+    "card_images": {
+      "id": 51828629,
+      "image_url": "https://images.ygoprodeck.com/images/cards/51828629.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51828629.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51828629.jpg"
+    }
+  },
+  {
+    "id": 12057781,
+    "name": "Goblin Calligrapher",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A Goblin who devotes himself to mastering perfect calligraphy of the word \"False\". He gives his all to each stroke.",
+    "atk": 400,
+    "def": 400,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/goblin-calligrapher-1038",
+    "card_images": {
+      "id": 12057781,
+      "image_url": "https://images.ygoprodeck.com/images/cards/12057781.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/12057781.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/12057781.jpg"
+    }
+  },
+  {
+    "id": 58314394,
+    "name": "Ground Attacker Bugroth",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A surface battle robot that was once used for sea warfare.",
+    "atk": 1500,
+    "def": 1000,
+    "level": 4,
+    "race": "Machine",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ground-attacker-bugroth-4960",
+    "card_images": {
+      "id": 58314394,
+      "image_url": "https://images.ygoprodeck.com/images/cards/58314394.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/58314394.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/58314394.jpg"
+    }
+  },
+  {
+    "id": 5434080,
+    "name": "Headless Knight",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+    "atk": 1450,
+    "def": 1700,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/headless-knight-480",
+    "card_images": {
+      "id": 5434080,
+      "image_url": "https://images.ygoprodeck.com/images/cards/5434080.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5434080.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5434080.jpg"
+    }
+  },
+  {
+    "id": 52584282,
+    "name": "Hercules Beetle",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A massive beetle with a tough carapace and a dangerous horn.",
+    "atk": 1500,
+    "def": 2000,
+    "level": 5,
+    "race": "Insect",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hercules-beetle-4478",
+    "card_images": {
+      "id": 52584282,
+      "image_url": "https://images.ygoprodeck.com/images/cards/52584282.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/52584282.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/52584282.jpg"
+    }
+  },
+  {
+    "id": 96851799,
+    "name": "Hinotama Soul",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "An intensely hot flame creature that rams anything standing in its way.",
+    "atk": 600,
+    "def": 500,
+    "level": 2,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/hinotama-soul-8054",
+    "card_images": {
+      "id": 96851799,
+      "image_url": "https://images.ygoprodeck.com/images/cards/96851799.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96851799.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96851799.jpg"
+    }
+  },
+  {
+    "id": 9653271,
+    "name": "Kaminari Attack",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Ocubeam\" + \"Mega Thunderball\"",
+    "atk": 1900,
+    "def": 1400,
+    "level": 5,
+    "race": "Thunder",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kaminari-attack-816",
+    "card_images": {
+      "id": 9653271,
+      "image_url": "https://images.ygoprodeck.com/images/cards/9653271.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9653271.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9653271.jpg"
+    }
+  },
+  {
+    "id": 54541900,
+    "name": "Karbonala Warrior",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"M-Warrior #1\" + \"M-Warrior #2\"",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/karbonala-warrior-4647",
+    "card_images": {
+      "id": 54541900,
+      "image_url": "https://images.ygoprodeck.com/images/cards/54541900.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/54541900.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/54541900.jpg"
+    }
+  },
+  {
+    "id": 60802233,
+    "name": "Kuwagata α",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A very vicious stag beetle that goes for the head.",
+    "atk": 1250,
+    "def": 1000,
+    "level": 4,
+    "race": "Insect",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kuwagata-5161",
+    "card_images": {
+      "id": 60802233,
+      "image_url": "https://images.ygoprodeck.com/images/cards/60802233.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60802233.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60802233.jpg"
+    }
+  },
+  {
+    "id": 95144193,
+    "name": "Kwagar Hercules",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Kuwagata α\" + \"Hercules Beetle\"",
+    "atk": 1900,
+    "def": 1700,
+    "level": 6,
+    "race": "Insect",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/kwagar-hercules-7919",
+    "card_images": {
+      "id": 95144193,
+      "image_url": "https://images.ygoprodeck.com/images/cards/95144193.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/95144193.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/95144193.jpg"
+    }
+  },
+  {
+    "id": 55444629,
+    "name": "Lesser Dragon",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A minor dragon incapable of breathing fire.",
+    "atk": 1200,
+    "def": 1000,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/lesser-dragon-4721",
+    "card_images": {
+      "id": 55444629,
+      "image_url": "https://images.ygoprodeck.com/images/cards/55444629.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/55444629.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/55444629.jpg"
+    }
+  },
+  {
+    "id": 56342351,
+    "name": "M-Warrior #1",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
+    "atk": 1000,
+    "def": 500,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/m-warrior-1-4796",
+    "card_images": {
+      "id": 56342351,
+      "image_url": "https://images.ygoprodeck.com/images/cards/56342351.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56342351.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56342351.jpg"
+    }
+  },
+  {
+    "id": 49127943,
+    "name": "Man-Eating Plant",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A meat-eating plant that is attractive to the eye but dangerous when approached.",
+    "atk": 800,
+    "def": 600,
+    "level": 2,
+    "race": "Plant",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/man-eating-plant-4191",
+    "card_images": {
+      "id": 49127943,
+      "image_url": "https://images.ygoprodeck.com/images/cards/49127943.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49127943.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49127943.jpg"
+    }
+  },
+  {
+    "id": 29929832,
+    "name": "Marine Beast",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Water Magician\" + \"Behegon\"",
+    "atk": 1700,
+    "def": 1600,
+    "level": 5,
+    "race": "Fish",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/marine-beast-2535",
+    "card_images": {
+      "id": 29929832,
+      "image_url": "https://images.ygoprodeck.com/images/cards/29929832.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29929832.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29929832.jpg"
+    }
+  },
+  {
+    "id": 59036972,
+    "name": "Mavelus",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+    "atk": 1300,
+    "def": 900,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mavelus-5022",
+    "card_images": {
+      "id": 59036972,
+      "image_url": "https://images.ygoprodeck.com/images/cards/59036972.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59036972.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59036972.jpg"
+    }
+  },
+  {
+    "id": 21817254,
+    "name": "Mega Thunderball",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Rolls along the ground releasing bolts of electricity to attack its enemies.",
+    "atk": 750,
+    "def": 600,
+    "level": 2,
+    "race": "Thunder",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mega-thunderball-1877",
+    "card_images": {
+      "id": 21817254,
+      "image_url": "https://images.ygoprodeck.com/images/cards/21817254.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/21817254.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/21817254.jpg"
+    }
+  },
+  {
+    "id": 9293977,
+    "name": "Metal Dragon",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+    "atk": 1850,
+    "def": 1700,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/metal-dragon-788",
+    "card_images": {
+      "id": 9293977,
+      "image_url": "https://images.ygoprodeck.com/images/cards/9293977.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9293977.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9293977.jpg"
+    }
+  },
+  {
+    "id": 84133008,
+    "name": "Monster Eye",
+    "type": "Effect Monster",
+    "frameType": "effect",
+    "desc": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+    "atk": 250,
+    "def": 350,
+    "level": 1,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/monster-eye-7056",
+    "card_images": {
+      "id": 84133008,
+      "image_url": "https://images.ygoprodeck.com/images/cards/84133008.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84133008.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84133008.jpg"
+    }
+  },
+  {
+    "id": 68516705,
+    "name": "Mystic Horseman",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Half man and half horse, this monster is known for its extreme speed.",
+    "atk": 1300,
+    "def": 1550,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-horseman-5759",
+    "card_images": {
+      "id": 68516705,
+      "image_url": "https://images.ygoprodeck.com/images/cards/68516705.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68516705.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68516705.jpg"
+    }
+  },
+  {
+    "id": 83464209,
+    "name": "Mystical Sheep #2",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A monstrous sheep with a long tail for hypnotizing enemies.",
+    "atk": 800,
+    "def": 1000,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/mystical-sheep-2-7006",
+    "card_images": {
+      "id": 83464209,
+      "image_url": "https://images.ygoprodeck.com/images/cards/83464209.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83464209.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/83464209.jpg"
+    }
+  },
+  {
+    "id": 7805359,
+    "name": "Niwatori",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Swallows enemies whole and uses their essence as energy.",
+    "atk": 900,
+    "def": 800,
+    "level": 3,
+    "race": "Winged Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/niwatori-665",
+    "card_images": {
+      "id": 7805359,
+      "image_url": "https://images.ygoprodeck.com/images/cards/7805359.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/7805359.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/7805359.jpg"
+    }
+  },
+  {
+    "id": 86088138,
+    "name": "Ocubeam",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.",
+    "atk": 1550,
+    "def": 1650,
+    "level": 5,
+    "race": "Fairy",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ocubeam-7210",
+    "card_images": {
+      "id": 86088138,
+      "image_url": "https://images.ygoprodeck.com/images/cards/86088138.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/86088138.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/86088138.jpg"
+    }
+  },
+  {
+    "id": 33064647,
+    "name": "One-Eyed Shield Dragon",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+    "atk": 700,
+    "def": 1300,
+    "level": 3,
+    "race": "Dragon",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/one-eyed-shield-dragon-2810",
+    "card_images": {
+      "id": 33064647,
+      "image_url": "https://images.ygoprodeck.com/images/cards/33064647.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33064647.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33064647.jpg"
+    }
+  },
+  {
+    "id": 38142739,
+    "name": "Petit Angel",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A quick-moving and tiny fairy that's very difficult to hit.",
+    "atk": 600,
+    "def": 900,
+    "level": 3,
+    "race": "Fairy",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/petit-angel-3234",
+    "card_images": {
+      "id": 38142739,
+      "image_url": "https://images.ygoprodeck.com/images/cards/38142739.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38142739.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38142739.jpg"
+    }
+  },
+  {
+    "id": 75356564,
+    "name": "Petit Dragon",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A very small dragon known for its vicious attacks.",
+    "atk": 600,
+    "def": 700,
+    "level": 2,
+    "race": "Dragon",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/petit-dragon-6337",
+    "card_images": {
+      "id": 75356564,
+      "image_url": "https://images.ygoprodeck.com/images/cards/75356564.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75356564.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75356564.jpg"
+    }
+  },
+  {
+    "id": 24094653,
+    "name": "Polymerization",
+    "type": "Spell Card",
+    "frameType": "spell",
+    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+    "race": "Normal",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/polymerization-2077",
+    "card_images": {
+      "id": 24094653,
+      "image_url": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24094653.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24094653.jpg"
+    }
+  },
+  {
+    "id": 33691040,
+    "name": "Pragtical",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Trakodon\" + \"Flame Viper\"",
+    "atk": 1900,
+    "def": 1500,
+    "level": 5,
+    "race": "Dinosaur",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/pragtical-2856",
+    "card_images": {
+      "id": 33691040,
+      "image_url": "https://images.ygoprodeck.com/images/cards/33691040.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33691040.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33691040.jpg"
+    }
+  },
+  {
+    "id": 10071456,
+    "name": "Protector of the Throne",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "While the king is away, this queen protects his throne with a mighty defense.",
+    "atk": 800,
+    "def": 1500,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/protector-of-the-throne-873",
+    "card_images": {
+      "id": 10071456,
+      "image_url": "https://images.ygoprodeck.com/images/cards/10071456.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/10071456.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/10071456.jpg"
+    }
+  },
+  {
+    "id": 74703140,
+    "name": "Punished Eagle",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Blue-Winged Crown\" + \"Niwatori\"",
+    "atk": 2100,
+    "def": 1800,
+    "level": 6,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/punished-eagle-6283",
+    "card_images": {
+      "id": 74703140,
+      "image_url": "https://images.ygoprodeck.com/images/cards/74703140.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74703140.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74703140.jpg"
+    }
+  },
+  {
+    "id": 94905343,
+    "name": "Rabid Horseman",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Battle Ox\" + \"Mystic Horseman\"",
+    "atk": 2000,
+    "def": 1700,
+    "level": 6,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rabid-horseman-7898",
+    "card_images": {
+      "id": 94905343,
+      "image_url": "https://images.ygoprodeck.com/images/cards/94905343.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94905343.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94905343.jpg"
+    }
+  },
+  {
+    "id": 80516007,
+    "name": "Rare Fish",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Fusionist\" + \"Enchanting Mermaid\"",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": "Fish",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rare-fish-6750",
+    "card_images": {
+      "id": 80516007,
+      "image_url": "https://images.ygoprodeck.com/images/cards/80516007.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/80516007.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/80516007.jpg"
+    }
+  },
+  {
+    "id": 62403074,
+    "name": "Rhaimundos of the Red Sword",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.",
+    "atk": 1200,
+    "def": 1300,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rhaimundos-of-the-red-sword-5276",
+    "card_images": {
+      "id": 62403074,
+      "image_url": "https://images.ygoprodeck.com/images/cards/62403074.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/62403074.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/62403074.jpg"
+    }
+  },
+  {
+    "id": 32485271,
+    "name": "Rose Spectre of Dunn",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Feral Imp\" + \"Snakeyashi\"",
+    "atk": 2000,
+    "def": 1800,
+    "level": 6,
+    "race": "Plant",
+    "attribute": "DARK",
+    "archetype": "Rose Dragon",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/rose-spectre-of-dunn-2762",
+    "card_images": {
+      "id": 32485271,
+      "image_url": "https://images.ygoprodeck.com/images/cards/32485271.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32485271.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32485271.jpg"
+    }
+  },
+  {
+    "id": 15303296,
+    "name": "Ryu-Kishin",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A very elusive creature that looks like a harmless statue until it attacks.",
+    "atk": 1000,
+    "def": 500,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/ryu-kishin-1313",
+    "card_images": {
+      "id": 15303296,
+      "image_url": "https://images.ygoprodeck.com/images/cards/15303296.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/15303296.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/15303296.jpg"
+    }
+  },
+  {
+    "id": 90357090,
+    "name": "Silver Fang",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
+    "atk": 1200,
+    "def": 800,
+    "level": 3,
+    "race": "Beast",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/silver-fang-7545",
+    "card_images": {
+      "id": 90357090,
+      "image_url": "https://images.ygoprodeck.com/images/cards/90357090.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/90357090.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/90357090.jpg"
+    }
+  },
+  {
+    "id": 8327462,
+    "name": "Skullbird",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Takuhee\" + \"Temple of Skulls\"",
+    "atk": 1900,
+    "def": 1700,
+    "level": 6,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/skullbird-708",
+    "card_images": {
+      "id": 8327462,
+      "image_url": "https://images.ygoprodeck.com/images/cards/8327462.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/8327462.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/8327462.jpg"
+    }
+  },
+  {
+    "id": 38942059,
+    "name": "Sonic Maid",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.",
+    "atk": 1200,
+    "def": 900,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/sonic-maid-3298",
+    "card_images": {
+      "id": 38942059,
+      "image_url": "https://images.ygoprodeck.com/images/cards/38942059.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38942059.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38942059.jpg"
+    }
+  },
+  {
+    "id": 29172562,
+    "name": "Steel Ogre Grotto #1",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A steel idol worshipped in the Land of Machines.",
+    "atk": 1400,
+    "def": 1800,
+    "level": 5,
+    "race": "Machine",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/steel-ogre-grotto-1-2475",
+    "card_images": {
+      "id": 29172562,
+      "image_url": "https://images.ygoprodeck.com/images/cards/29172562.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/29172562.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/29172562.jpg"
+    }
+  },
+  {
+    "id": 14644902,
+    "name": "Summoner of Illusions",
+    "type": "Flip Effect Monster",
+    "frameType": "effect",
+    "desc": "FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.",
+    "atk": 800,
+    "def": 900,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "LIGHT",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/summoner-of-illusions-1253",
+    "card_images": {
+      "id": 14644902,
+      "image_url": "https://images.ygoprodeck.com/images/cards/14644902.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14644902.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14644902.jpg"
+    }
+  },
+  {
+    "id": 3170832,
+    "name": "Takuhee",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This bird is known far and wide as a harbinger of doom.",
+    "atk": 1450,
+    "def": 1000,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/takuhee-290",
+    "card_images": {
+      "id": 3170832,
+      "image_url": "https://images.ygoprodeck.com/images/cards/3170832.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/3170832.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/3170832.jpg"
+    }
+  },
+  {
+    "id": 732302,
+    "name": "Temple of Skulls",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+    "atk": 900,
+    "def": 1300,
+    "level": 4,
+    "race": "Zombie",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/temple-of-skulls-68",
+    "card_images": {
+      "id": 732302,
+      "image_url": "https://images.ygoprodeck.com/images/cards/732302.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/732302.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/732302.jpg"
+    }
+  },
+  {
+    "id": 66989694,
+    "name": "The Earl of Demise",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This gentlemanly creature is extremely wicked, feared by man and fiend alike.",
+    "atk": 2000,
+    "def": 700,
+    "level": 5,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-earl-of-demise-5628",
+    "card_images": {
+      "id": 66989694,
+      "image_url": "https://images.ygoprodeck.com/images/cards/66989694.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/66989694.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/66989694.jpg"
+    }
+  },
+  {
+    "id": 68049471,
+    "name": "The Gross Ghost of Fled Dreams",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+    "atk": 1300,
+    "def": 1800,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/the-gross-ghost-of-fled-dreams-5718",
+    "card_images": {
+      "id": 68049471,
+      "image_url": "https://images.ygoprodeck.com/images/cards/68049471.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/68049471.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/68049471.jpg"
+    }
+  },
+  {
+    "id": 69572024,
+    "name": "Tongyo",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "This monster captures other fish with its long tongue and sucks the energy out of them.",
+    "atk": 1350,
+    "def": 800,
+    "level": 4,
+    "race": "Fish",
+    "attribute": "WATER",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tongyo-5850",
+    "card_images": {
+      "id": 69572024,
+      "image_url": "https://images.ygoprodeck.com/images/cards/69572024.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69572024.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69572024.jpg"
+    }
+  },
+  {
+    "id": 72842870,
+    "name": "Tyhone",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
+    "atk": 1200,
+    "def": 1400,
+    "level": 4,
+    "race": "Winged Beast",
+    "attribute": "WIND",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/tyhone-6111",
+    "card_images": {
+      "id": 72842870,
+      "image_url": "https://images.ygoprodeck.com/images/cards/72842870.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72842870.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72842870.jpg"
+    }
+  },
+  {
+    "id": 35752363,
+    "name": "Vermillion Sparrow",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+    "atk": 1900,
+    "def": 1500,
+    "level": 5,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/vermillion-sparrow-3026",
+    "card_images": {
+      "id": 35752363,
+      "image_url": "https://images.ygoprodeck.com/images/cards/35752363.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35752363.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35752363.jpg"
+    }
+  },
+  {
+    "id": 56413937,
+    "name": "Warrior of Tradition",
+    "type": "Fusion Monster",
+    "frameType": "fusion",
+    "desc": "\"Sonic Maid\" + \"Beautiful Headhuntress\"",
+    "atk": 1900,
+    "def": 1700,
+    "level": 6,
+    "race": "Warrior",
+    "attribute": "EARTH",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/warrior-of-tradition-4803",
+    "card_images": {
+      "id": 56413937,
+      "image_url": "https://images.ygoprodeck.com/images/cards/56413937.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/56413937.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/56413937.jpg"
+    }
+  },
+  {
+    "id": 92944626,
+    "name": "Wings of Wicked Flame",
+    "type": "Normal Monster",
+    "frameType": "normal",
+    "desc": "Crimson wings of fire make this a very lethal creature.",
+    "atk": 700,
+    "def": 600,
+    "level": 2,
+    "race": "Pyro",
+    "attribute": "FIRE",
+    "ygoprodeck_url": "https://ygoprodeck.com/card/wings-of-wicked-flame-7737",
+    "card_images": {
+      "id": 92944626,
+      "image_url": "https://images.ygoprodeck.com/images/cards/92944626.jpg",
+      "image_url_small": "https://images.ygoprodeck.com/images/cards_small/92944626.jpg",
+      "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/92944626.jpg"
+    }
+  }
+]
