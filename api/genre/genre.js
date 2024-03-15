@@ -1,4 +1,4 @@
-import Genre from '../../models/genre.js' // Asegúrate de tener la ruta correcta al modelo Genre
+import { Genre } from './../../models/index.js' // Asegúrate de tener la ruta correcta al modelo Genre
 
 // Array de datos para crear registros
 const genresData = [

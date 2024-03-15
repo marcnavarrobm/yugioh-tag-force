@@ -1,1951 +1,1951 @@
 {
     "data": [
-    {
-    "id": 59464593,
-    "name": "Armed Dragon LV10",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
-    "atk": 3000,
-    "def": 2000,
-    "level": 10,
-    "race": "Dragon",
-    "attribute": "WIND",
-    "archetype": "Armed Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv10-5054",
-    "card_sets": [
-    {
-    "set_name": "Duel Terminal 5b",
-    "set_code": "DT05-EN058",
-    "set_rarity": "Duel Terminal Rare Parallel Rare",
-    "set_rarity_code": "(DRPR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Chazz Princeton",
-    "set_code": "DP2-EN013",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "26.89"
-    },
-    {
-    "set_name": "Ghosts From the Past",
-    "set_code": "GFTP-EN075",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "2.67"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15",
-    "set_code": "OP15-EN001",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15 (POR)",
-    "set_code": "OP15-PT001",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel GX: Duelists of Shadows",
-    "set_code": "SGX3-ENI27",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel GX: Duelists of Shadows",
-    "set_code": "SGX3-ENI27",
-    "set_rarity": "Secret Rare",
-    "set_rarity_code": "(ScR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 59464593,
-    "image_url": "https://images.ygoprodeck.com/images/cards/59464593.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59464593.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59464593.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.71",
-    "tcgplayer_price": "0.24",
-    "ebay_price": "0.99",
-    "amazon_price": "38.47",
-    "coolstuffinc_price": "0.79"
-    }
+        {
+            "id": 59464593,
+            "name": "Armed Dragon LV10",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
+            "atk": 3000,
+            "def": 2000,
+            "level": 10,
+            "race": "Dragon",
+            "attribute": "WIND",
+            "archetype": "Armed Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv10-5054",
+            "card_sets": [
+                {
+                    "set_name": "Duel Terminal 5b",
+                    "set_code": "DT05-EN058",
+                    "set_rarity": "Duel Terminal Rare Parallel Rare",
+                    "set_rarity_code": "(DRPR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Chazz Princeton",
+                    "set_code": "DP2-EN013",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "26.89"
+                },
+                {
+                    "set_name": "Ghosts From the Past",
+                    "set_code": "GFTP-EN075",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "2.67"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15",
+                    "set_code": "OP15-EN001",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15 (POR)",
+                    "set_code": "OP15-PT001",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel GX: Duelists of Shadows",
+                    "set_code": "SGX3-ENI27",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel GX: Duelists of Shadows",
+                    "set_code": "SGX3-ENI27",
+                    "set_rarity": "Secret Rare",
+                    "set_rarity_code": "(ScR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 59464593,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/59464593.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/59464593.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/59464593.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.71",
+                    "tcgplayer_price": "0.24",
+                    "ebay_price": "0.99",
+                    "amazon_price": "38.47",
+                    "coolstuffinc_price": "0.79"
+                }
+            ]
+        },
+        {
+            "id": 980973,
+            "name": "Armed Dragon LV3",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+            "atk": 1200,
+            "def": 900,
+            "level": 3,
+            "race": "Dragon",
+            "attribute": "WIND",
+            "archetype": "Armed Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv3-84",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN013",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Dragunity Legion Structure Deck",
+                    "set_code": "SDDL-EN018",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Chazz Princeton",
+                    "set_code": "DP2-EN010",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN203",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.57"
+                },
+                {
+                    "set_name": "Legendary Duelists: Ancient Millennium",
+                    "set_code": "LED2-EN025",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15",
+                    "set_code": "OP15-EN016",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.17"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15 (POR)",
+                    "set_code": "OP15-PT016",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN013",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel GX: Duel Academy Box",
+                    "set_code": "SGX1-ENC06",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Dragon's Roar",
+                    "set_code": "SD1-EN005",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.69"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 980973,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/980973.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/980973.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.02",
+                    "tcgplayer_price": "0.10",
+                    "ebay_price": "5.95",
+                    "amazon_price": "0.25",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 46384672,
+            "name": "Armed Dragon LV5",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
+            "atk": 2400,
+            "def": 1700,
+            "level": 5,
+            "race": "Dragon",
+            "attribute": "WIND",
+            "archetype": "Armed Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv5-3956",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN014",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Dragunity Legion Structure Deck",
+                    "set_code": "SDDL-EN019",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Chazz Princeton",
+                    "set_code": "DP2-EN011",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN204",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "2.54"
+                },
+                {
+                    "set_name": "Legendary Duelists: Ancient Millennium",
+                    "set_code": "LED2-EN026",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15",
+                    "set_code": "OP15-EN015",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.59"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15 (POR)",
+                    "set_code": "OP15-PT015",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN014",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN014",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel GX: Duel Academy Box",
+                    "set_code": "SGX1-ENC07",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Dragon's Roar",
+                    "set_code": "SD1-EN006",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.83"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 46384672,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/46384672.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46384672.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46384672.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.06",
+                    "tcgplayer_price": "0.16",
+                    "ebay_price": "5.95",
+                    "amazon_price": "0.25",
+                    "coolstuffinc_price": "0.49"
+                }
+            ]
+        },
+        {
+            "id": 73879377,
+            "name": "Armed Dragon LV7",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
+            "atk": 2800,
+            "def": 1000,
+            "level": 7,
+            "race": "Dragon",
+            "attribute": "WIND",
+            "archetype": "Armed Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv7-6205",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN015",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Chazz Princeton",
+                    "set_code": "DP2-EN012",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN205",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "2.24"
+                },
+                {
+                    "set_name": "Legendary Duelists: Ancient Millennium",
+                    "set_code": "LED2-EN027",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15",
+                    "set_code": "OP15-EN014",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.45"
+                },
+                {
+                    "set_name": "OTS Tournament Pack 15 (POR)",
+                    "set_code": "OP15-PT014",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN015",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN015",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel GX: Duel Academy Box",
+                    "set_code": "SGX1-ENC08",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel GX: Duel Academy Box",
+                    "set_code": "SGX1-ENC08",
+                    "set_rarity": "Secret Rare",
+                    "set_rarity_code": "(ScR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Deluxe Edition",
+                    "set_code": "SD1-ENDE1",
+                    "set_rarity": "Secret Rare",
+                    "set_rarity_code": "(ScR)",
+                    "set_price": "67.75"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 73879377,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/73879377.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73879377.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73879377.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.15",
+                    "tcgplayer_price": "0.17",
+                    "ebay_price": "4.95",
+                    "amazon_price": "0.72",
+                    "coolstuffinc_price": "0.39"
+                }
+            ]
+        },
+        {
+            "id": 74713516,
+            "name": "Dark Mimic LV1",
+            "type": "Flip Effect Monster",
+            "frameType": "effect",
+            "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+            "atk": 100,
+            "def": 1000,
+            "level": 1,
+            "race": "Fiend",
+            "attribute": "DARK",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv1-6285",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN009",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Gold Series: Haunted Mine",
+                    "set_code": "GLD5-EN017",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN009",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+                    "set_code": "SS05-ENA18",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "2.08"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 74713516,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/74713516.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74713516.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.16",
+                    "tcgplayer_price": "0.45",
+                    "ebay_price": "1.49",
+                    "amazon_price": "2.47",
+                    "coolstuffinc_price": "0.79"
+                }
+            ]
+        },
+        {
+            "id": 1102515,
+            "name": "Dark Mimic LV3",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
+            "atk": 1000,
+            "def": 1000,
+            "level": 3,
+            "race": "Fiend",
+            "attribute": "DARK",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv3-100",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN010",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Gold Series: Haunted Mine",
+                    "set_code": "GLD5-EN018",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN010",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN010",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
+                    "set_code": "SS05-ENA17",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.28"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 1102515,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/1102515.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1102515.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1102515.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.22",
+                    "tcgplayer_price": "0.33",
+                    "ebay_price": "5.99",
+                    "amazon_price": "4.99",
+                    "coolstuffinc_price": "0.49"
+                }
+            ]
+        },
+        {
+            "id": 70865988,
+            "name": "Full Salvo",
+            "type": "Trap Card",
+            "frameType": "trap",
+            "desc": "When this card resolves, send your entire hand to the Graveyard. Inflict 200 damage to your opponent for each card you sent to the Graveyard by this effect.",
+            "race": "Normal",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/full-salvo-5951",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 4",
+                    "set_code": "DR04-EN176",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.67"
+                },
+                {
+                    "set_name": "Shadow of Infinity",
+                    "set_code": "SOI-EN056",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 70865988,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/70865988.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70865988.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70865988.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.10",
+                    "tcgplayer_price": "0.10",
+                    "ebay_price": "0.99",
+                    "amazon_price": "0.20",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 75830094,
+            "name": "Horus the Black Flame Dragon LV4",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
+            "atk": 1600,
+            "def": 1000,
+            "level": 4,
+            "race": "Dragon",
+            "attribute": "FIRE",
+            "archetype": "Horus the Black Flame Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv4-6381",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN006",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN197",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "2.44"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN006",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN006",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Starter Deck: Kaiba Reloaded",
+                    "set_code": "YSKR-EN019",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.84"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 75830094,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/75830094.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75830094.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75830094.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.59",
+                    "tcgplayer_price": "0.49",
+                    "ebay_price": "0.01",
+                    "amazon_price": "4.68",
+                    "coolstuffinc_price": "0.99"
+                }
+            ]
+        },
+        {
+            "id": 11224103,
+            "name": "Horus the Black Flame Dragon LV6",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV8\" from your hand or Deck.",
+            "atk": 2300,
+            "def": 1600,
+            "level": 6,
+            "race": "Dragon",
+            "attribute": "FIRE",
+            "archetype": "Horus the Black Flame Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv6-968",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN007",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN198",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "2.72"
+                },
+                {
+                    "set_name": "Rise of the Dragon Lords Structure Deck",
+                    "set_code": "SDRL-EN012",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.72"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN007",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN007",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Starter Deck: Kaiba Reloaded",
+                    "set_code": "YSKR-EN020",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "3.09"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 11224103,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/11224103.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11224103.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11224103.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.25",
+                    "tcgplayer_price": "0.45",
+                    "ebay_price": "39.99",
+                    "amazon_price": "149.99",
+                    "coolstuffinc_price": "0.39"
+                }
+            ]
+        },
+        {
+            "id": 48229808,
+            "name": "Horus the Black Flame Dragon LV8",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
+            "atk": 3000,
+            "def": 1800,
+            "level": 8,
+            "race": "Dragon",
+            "attribute": "FIRE",
+            "archetype": "Horus the Black Flame Dragon",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv8-4119",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN008",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist League 17 participation cards",
+                    "set_code": "DL17-EN002",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "9.41"
+                },
+                {
+                    "set_name": "Elemental Energy: Special Edition",
+                    "set_code": "EEN-ENSE1",
+                    "set_rarity": "Secret Rare",
+                    "set_rarity_code": "(ScR)",
+                    "set_price": "15.43"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN199",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "4.84"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN008",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN008",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 48229808,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/48229808.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48229808.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48229808.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "9.25",
+                    "tcgplayer_price": "3.27",
+                    "ebay_price": "5.99",
+                    "amazon_price": "7.00",
+                    "coolstuffinc_price": "2.99"
+                }
+            ]
+        },
+        {
+            "id": 94940436,
+            "name": "Magnet Circle LV2",
+            "type": "Spell Card",
+            "frameType": "spell",
+            "desc": "Special Summon 1 Level 2 or lower Machine-Type monster from your hand.",
+            "race": "Normal",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-circle-lv2-7902",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 4",
+                    "set_code": "DR04-EN158",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "4.17"
+                },
+                {
+                    "set_name": "Shadow of Infinity",
+                    "set_code": "SOI-EN038",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 94940436,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/94940436.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94940436.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94940436.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.12",
+                    "tcgplayer_price": "0.13",
+                    "ebay_price": "1.50",
+                    "amazon_price": "0.25",
+                    "coolstuffinc_price": "0.99"
+                }
+            ]
+        },
+        {
+            "id": 33114323,
+            "name": "Metalsilver Armor",
+            "type": "Spell Card",
+            "frameType": "spell",
+            "desc": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
+            "race": "Equip",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/metalsilver-armor-2815",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 1",
+                    "set_code": "DR1-EN092",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Magician's Force",
+                    "set_code": "MFC-037",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "3.89"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 33114323,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/33114323.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33114323.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33114323.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "1.59",
+                    "tcgplayer_price": "2.24",
+                    "ebay_price": "1.49",
+                    "amazon_price": "4.49",
+                    "coolstuffinc_price": "1.99"
+                }
+            ]
+        },
+        {
+            "id": 47507260,
+            "name": "Mystic Swordsman LV2",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV4\" from your hand or Deck.",
+            "atk": 900,
+            "def": 0,
+            "level": 2,
+            "race": "Warrior",
+            "attribute": "EARTH",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-swordsman-lv2-4057",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN011",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN200",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "4.17"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN011",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN011",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Warrior's Triumph",
+                    "set_code": "SD5-EN013",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "4.83"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 47507260,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/47507260.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47507260.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47507260.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "1.14",
+                    "tcgplayer_price": "1.30",
+                    "ebay_price": "2.37",
+                    "amazon_price": "3.47",
+                    "coolstuffinc_price": "2.99"
+                }
+            ]
+        },
+        {
+            "id": 74591968,
+            "name": "Mystic Swordsman LV4",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV6\" from your hand or Deck.",
+            "atk": 1900,
+            "def": 1600,
+            "level": 4,
+            "race": "Warrior",
+            "attribute": "EARTH",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-swordsman-lv4-6269",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN012",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN201",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.37"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN012",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN012",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Warrior's Triumph",
+                    "set_code": "SD5-EN014",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.25"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 74591968,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/74591968.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74591968.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74591968.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.12",
+                    "tcgplayer_price": "0.30",
+                    "ebay_price": "19.99",
+                    "amazon_price": "1.69",
+                    "coolstuffinc_price": "0.39"
+                }
+            ]
+        },
+        {
+            "id": 60482781,
+            "name": "Mystic Swordsman LV6",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster, and if you do, you can place it on top of your opponent's Deck instead of sending it to the Graveyard.",
+            "atk": 2300,
+            "def": 1700,
+            "level": 6,
+            "race": "Warrior",
+            "attribute": "EARTH",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-swordsman-lv6-5132",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN068",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN202",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.41"
+                },
+                {
+                    "set_name": "Rise of Destiny",
+                    "set_code": "RDS-EN008",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Rise of Destiny",
+                    "set_code": "RDS-EN008",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 60482781,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/60482781.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60482781.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60482781.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "2.93",
+                    "tcgplayer_price": "0.52",
+                    "ebay_price": "6.99",
+                    "amazon_price": "59.99",
+                    "coolstuffinc_price": "0.49"
+                }
+            ]
+        },
+        {
+            "id": 96947648,
+            "name": "Salvage",
+            "type": "Spell Card",
+            "frameType": "spell",
+            "desc": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+            "race": "Normal",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/salvage-8065",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 2",
+                    "set_code": "DR2-EN097",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist League 3 participation cards",
+                    "set_code": "DL12-EN014",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "7.35"
+                },
+                {
+                    "set_name": "Ghosts From the Past",
+                    "set_code": "GFTP-EN107",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "1.96"
+                },
+                {
+                    "set_name": "Invasion of Chaos",
+                    "set_code": "IOC-096",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "2.12"
+                },
+                {
+                    "set_name": "Invasion of Chaos",
+                    "set_code": "IOC-EN096",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN276",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Realm of the Sea Emperor Structure Deck",
+                    "set_code": "SDRE-EN030",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.83"
+                },
+                {
+                    "set_name": "Speed Duel: Streets of Battle City",
+                    "set_code": "SBC1-ENC12",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Freezing Chains",
+                    "set_code": "SDFC-EN032",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.2"
+                },
+                {
+                    "set_name": "Structure Deck: Fury from the Deep",
+                    "set_code": "SD4-EN023",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.69"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 96947648,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/96947648.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96947648.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96947648.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.08",
+                    "tcgplayer_price": "0.13",
+                    "ebay_price": "0.99",
+                    "amazon_price": "0.99",
+                    "coolstuffinc_price": "0.39"
+                }
+            ]
+        },
+        {
+            "id": 73665146,
+            "name": "Silent Magician LV4",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+            "atk": 1000,
+            "def": 1000,
+            "level": 4,
+            "race": "Spellcaster",
+            "attribute": "LIGHT",
+            "archetype": "Silent Magician",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/silent-magician-lv4-6187",
+            "card_sets": [
+                {
+                    "set_name": "Champion Pack: Game Eight",
+                    "set_code": "CP08-EN007",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Rivals of the Pharaoh",
+                    "set_code": "DPRP-EN019",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN037",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.49"
+                },
+                {
+                    "set_name": "Legendary Decks II",
+                    "set_code": "LDK2-ENY14",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.62"
+                },
+                {
+                    "set_name": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
+                    "set_code": "NTR-EN001",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "9.73"
+                },
+                {
+                    "set_name": "Yugi's Legendary Decks",
+                    "set_code": "YGLD-ENC05",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.51"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 73665146,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/73665146.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73665146.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73665146.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.07",
+                    "tcgplayer_price": "0.24",
+                    "ebay_price": "3.89",
+                    "amazon_price": "0.25",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 72443568,
+            "name": "Silent Magician LV8",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
+            "atk": 3500,
+            "def": 1000,
+            "level": 8,
+            "race": "Spellcaster",
+            "attribute": "LIGHT",
+            "archetype": "Silent Magician",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/silent-magician-lv8-6082",
+            "card_sets": [
+                {
+                    "set_name": "Duelist Pack: Rivals of the Pharaoh",
+                    "set_code": "DPRP-EN020",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN038",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.22"
+                },
+                {
+                    "set_name": "Legendary Decks II",
+                    "set_code": "LDK2-ENY13",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.49"
+                },
+                {
+                    "set_name": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
+                    "set_code": "NTR-EN002",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "10.27"
+                },
+                {
+                    "set_name": "Yugi's Legendary Decks",
+                    "set_code": "YGLD-ENC04",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 72443568,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/72443568.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72443568.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72443568.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.07",
+                    "tcgplayer_price": "0.15",
+                    "ebay_price": "3.95",
+                    "amazon_price": "0.98",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 1995985,
+            "name": "Silent Swordsman LV3",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Negate your opponent's Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV5\" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.",
+            "atk": 1000,
+            "def": 1000,
+            "level": 3,
+            "race": "Warrior",
+            "attribute": "LIGHT",
+            "archetype": "Silent Swordsman",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/silent-swordsman-lv3-176",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN069",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duel Terminal 5a",
+                    "set_code": "DT05-EN009",
+                    "set_rarity": "Duel Terminal Normal Parallel Rare",
+                    "set_rarity_code": "(DNPR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Rivals of the Pharaoh",
+                    "set_code": "DPRP-EN016",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN033",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.42"
+                },
+                {
+                    "set_name": "Rise of Destiny",
+                    "set_code": "RDS-EN009",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Rise of Destiny",
+                    "set_code": "RDS-EN009",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Starter Deck: Yugi Reloaded",
+                    "set_code": "YSYR-EN017",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.52"
+                },
+                {
+                    "set_name": "Yugi's Legendary Decks",
+                    "set_code": "YGLD-ENC08",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.14"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 1995985,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/1995985.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1995985.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1995985.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.07",
+                    "tcgplayer_price": "0.15",
+                    "ebay_price": "4.97",
+                    "amazon_price": "1.08",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 74388798,
+            "name": "Silent Swordsman LV5",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV7\" from your hand or Deck.",
+            "atk": 2300,
+            "def": 1000,
+            "level": 5,
+            "race": "Warrior",
+            "attribute": "LIGHT",
+            "archetype": "Silent Swordsman",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/silent-swordsman-lv5-6252",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN128",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duel Terminal 5b",
+                    "set_code": "DT05-EN056",
+                    "set_rarity": "Duel Terminal Super Parallel Rare",
+                    "set_rarity_code": "(DSPR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist Pack: Rivals of the Pharaoh",
+                    "set_code": "DPRP-EN017",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Elemental Energy: Special Edition",
+                    "set_code": "EEN-ENSE4",
+                    "set_rarity": "Secret Rare",
+                    "set_rarity_code": "(ScR)",
+                    "set_price": "7.18"
+                },
+                {
+                    "set_name": "Flaming Eternity",
+                    "set_code": "FET-EN008",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Flaming Eternity",
+                    "set_code": "FET-EN008",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN034",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.19"
+                },
+                {
+                    "set_name": "Starter Deck: Yugi Reloaded",
+                    "set_code": "YSYR-EN018",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.4"
+                },
+                {
+                    "set_name": "Yugi's Legendary Decks",
+                    "set_code": "YGLD-ENC07",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.04"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 74388798,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.04",
+                    "tcgplayer_price": "0.17",
+                    "ebay_price": "3.49",
+                    "amazon_price": "0.85",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 37267041,
+            "name": "Silent Swordsman LV7",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
+            "atk": 2800,
+            "def": 1000,
+            "level": 7,
+            "race": "Warrior",
+            "attribute": "LIGHT",
+            "archetype": "Silent Swordsman",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/silent-swordsman-lv7-3155",
+            "card_sets": [
+                {
+                    "set_name": "Duel Terminal 6a",
+                    "set_code": "DT06-EN001",
+                    "set_rarity": "Duel Terminal Super Parallel Rare",
+                    "set_rarity_code": "(DSPR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Duelist League 17 participation cards",
+                    "set_code": "DL17-EN003",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "5.6"
+                },
+                {
+                    "set_name": "Duelist Pack: Rivals of the Pharaoh",
+                    "set_code": "DPRP-EN018",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
+                    "set_code": "LCYW-EN035",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "3.19"
+                },
+                {
+                    "set_name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards",
+                    "set_code": "WC5-EN001",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "11.88"
+                },
+                {
+                    "set_name": "Yugi's Legendary Decks",
+                    "set_code": "YGLD-ENC06",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.08"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 37267041,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/37267041.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37267041.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37267041.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.11",
+                    "tcgplayer_price": "0.21",
+                    "ebay_price": "4.97",
+                    "amazon_price": "1.18",
+                    "coolstuffinc_price": "0.25"
+                }
+            ]
+        },
+        {
+            "id": 32619583,
+            "name": "Sillva, Warlord of Dark World",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, your opponent returns exactly 2 cards from their hand to the bottom of their Deck, in any order.",
+            "atk": 2300,
+            "def": 1400,
+            "level": 5,
+            "race": "Fiend",
+            "attribute": "DARK",
+            "archetype": "Dark World",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/sillva-warlord-of-dark-world-2775",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 4",
+                    "set_code": "DR04-EN083",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "707.65"
+                },
+                {
+                    "set_name": "Elemental Energy",
+                    "set_code": "EEN-EN023",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Elemental Energy",
+                    "set_code": "EEN-EN023",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Gates of the Underworld Structure Deck",
+                    "set_code": "SDGU-EN012",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "1.18"
+                },
+                {
+                    "set_name": "Gold Series",
+                    "set_code": "GLD1-EN023",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
+                    "set_code": "LCJW-EN245",
+                    "set_rarity": "Secret Rare",
+                    "set_rarity_code": "(ScR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Structure Deck: Dark World",
+                    "set_code": "SR13-EN008",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 32619583,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/32619583.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32619583.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32619583.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.18",
+                    "tcgplayer_price": "0.14",
+                    "ebay_price": "39.99",
+                    "amazon_price": "0.99",
+                    "coolstuffinc_price": "0.39"
+                }
+            ]
+        },
+        {
+            "id": 49441499,
+            "name": "Ultimate Insect LV1",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "While this card is on the field, it is unaffected by the effects of Spell Cards. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV3\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+            "atk": 0,
+            "def": 0,
+            "level": 1,
+            "race": "Insect",
+            "attribute": "WIND",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv1-4214",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN005",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN005",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Soul of the Duelist",
+                    "set_code": "SOD-EN005",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 49441499,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/49441499.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49441499.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49441499.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "1.93",
+                    "tcgplayer_price": "0.69",
+                    "ebay_price": "18.99",
+                    "amazon_price": "0.79",
+                    "coolstuffinc_price": "1.99"
+                }
+            ]
+        },
+        {
+            "id": 34088136,
+            "name": "Ultimate Insect LV3",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV1\", while it remains on the field all of your opponent's monsters lose 300 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV5\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+            "atk": 1400,
+            "def": 900,
+            "level": 3,
+            "race": "Insect",
+            "attribute": "WIND",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv3-2895",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN067",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Rise of Destiny",
+                    "set_code": "RDS-EN007",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Rise of Destiny",
+                    "set_code": "RDS-EN007",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 34088136,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/34088136.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34088136.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34088136.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "1.86",
+                    "tcgplayer_price": "0.32",
+                    "ebay_price": "2.89",
+                    "amazon_price": "11.98",
+                    "coolstuffinc_price": "2.99"
+                }
+            ]
+        },
+        {
+            "id": 34830502,
+            "name": "Ultimate Insect LV5",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV3\", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV7\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+            "atk": 2300,
+            "def": 900,
+            "level": 5,
+            "race": "Insect",
+            "attribute": "WIND",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv5-2959",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN127",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Flaming Eternity",
+                    "set_code": "FET-EN007",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Flaming Eternity",
+                    "set_code": "FET-EN007",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 34830502,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/34830502.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34830502.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34830502.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "2.31",
+                    "tcgplayer_price": "1.76",
+                    "ebay_price": "10.79",
+                    "amazon_price": "2.40",
+                    "coolstuffinc_price": "5.99"
+                }
+            ]
+        },
+        {
+            "id": 19877898,
+            "name": "Ultimate Insect LV7",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+            "atk": 2600,
+            "def": 1200,
+            "level": 7,
+            "race": "Insect",
+            "attribute": "WIND",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv7-1710",
+            "card_sets": [
+                {
+                    "set_name": "Dark Revelation Volume 3",
+                    "set_code": "DR3-EN190",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "The Lost Millennium",
+                    "set_code": "TLM-EN010",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "The Lost Millennium",
+                    "set_code": "TLM-EN010",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 19877898,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/19877898.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19877898.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19877898.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "3.73",
+                    "tcgplayer_price": "0.67",
+                    "ebay_price": "9.99",
+                    "amazon_price": "4.18",
+                    "coolstuffinc_price": "29.99"
+                }
+            ]
+        },
+        {
+            "id": 98585345,
+            "name": "Winged Kuriboh LV10",
+            "type": "Effect Monster",
+            "frameType": "effect",
+            "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Transcendent Wings\". During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
+            "atk": 300,
+            "def": 200,
+            "level": 10,
+            "race": "Fairy",
+            "attribute": "LIGHT",
+            "archetype": "Kuriboh",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/winged-kuriboh-lv10-8193",
+            "card_sets": [
+                {
+                    "set_name": "Cybernetic Revolution",
+                    "set_code": "CRV-EN005",
+                    "set_rarity": "Ultimate Rare",
+                    "set_rarity_code": "(UtR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Cybernetic Revolution",
+                    "set_code": "CRV-EN005",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Dark Revelation Volume 4",
+                    "set_code": "DR04-EN005",
+                    "set_rarity": "Ultra Rare",
+                    "set_rarity_code": "(UR)",
+                    "set_price": "92.15"
+                },
+                {
+                    "set_name": "Duelist Pack: Jaden Yuki",
+                    "set_code": "DP1-EN006",
+                    "set_rarity": "Rare",
+                    "set_rarity_code": "(R)",
+                    "set_price": "0"
+                },
+                {
+                    "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+                    "set_code": "LCGX-EN010",
+                    "set_rarity": "Common",
+                    "set_rarity_code": "(C)",
+                    "set_price": "5.76"
+                },
+                {
+                    "set_name": "Mattel Action Figure promotional cards: Series 3",
+                    "set_code": "MF03-EN0??",
+                    "set_rarity": "Normal Parallel Rare",
+                    "set_rarity_code": "",
+                    "set_price": "0.00"
+                },
+                {
+                    "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
+                    "set_code": "AC19-EN023",
+                    "set_rarity": "Super Rare",
+                    "set_rarity_code": "(SR)",
+                    "set_price": "5.37"
+                }
+            ],
+            "card_images": [
+                {
+                    "id": 98585345,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/98585345.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98585345.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98585345.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.63",
+                    "tcgplayer_price": "1.29",
+                    "ebay_price": "13.49",
+                    "amazon_price": "13.94",
+                    "coolstuffinc_price": "1.99"
+                }
+            ]
+        }
     ]
-    },
-    {
-    "id": 980973,
-    "name": "Armed Dragon LV3",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "During your Standby Phase: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
-    "atk": 1200,
-    "def": 900,
-    "level": 3,
-    "race": "Dragon",
-    "attribute": "WIND",
-    "archetype": "Armed Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv3-84",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN013",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Dragunity Legion Structure Deck",
-    "set_code": "SDDL-EN018",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Chazz Princeton",
-    "set_code": "DP2-EN010",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN203",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.57"
-    },
-    {
-    "set_name": "Legendary Duelists: Ancient Millennium",
-    "set_code": "LED2-EN025",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15",
-    "set_code": "OP15-EN016",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.17"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15 (POR)",
-    "set_code": "OP15-PT016",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN013",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel GX: Duel Academy Box",
-    "set_code": "SGX1-ENC06",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Dragon's Roar",
-    "set_code": "SD1-EN005",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.69"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 980973,
-    "image_url": "https://images.ygoprodeck.com/images/cards/980973.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/980973.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/980973.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.02",
-    "tcgplayer_price": "0.10",
-    "ebay_price": "5.95",
-    "amazon_price": "0.25",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 46384672,
-    "name": "Armed Dragon LV5",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 \"Armed Dragon LV7\" from your hand or Deck.",
-    "atk": 2400,
-    "def": 1700,
-    "level": 5,
-    "race": "Dragon",
-    "attribute": "WIND",
-    "archetype": "Armed Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv5-3956",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN014",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Dragunity Legion Structure Deck",
-    "set_code": "SDDL-EN019",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Chazz Princeton",
-    "set_code": "DP2-EN011",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN204",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "2.54"
-    },
-    {
-    "set_name": "Legendary Duelists: Ancient Millennium",
-    "set_code": "LED2-EN026",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15",
-    "set_code": "OP15-EN015",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.59"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15 (POR)",
-    "set_code": "OP15-PT015",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN014",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN014",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel GX: Duel Academy Box",
-    "set_code": "SGX1-ENC07",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Dragon's Roar",
-    "set_code": "SD1-EN006",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.83"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 46384672,
-    "image_url": "https://images.ygoprodeck.com/images/cards/46384672.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46384672.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/46384672.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.06",
-    "tcgplayer_price": "0.16",
-    "ebay_price": "5.95",
-    "amazon_price": "0.25",
-    "coolstuffinc_price": "0.49"
-    }
-    ]
-    },
-    {
-    "id": 73879377,
-    "name": "Armed Dragon LV7",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.",
-    "atk": 2800,
-    "def": 1000,
-    "level": 7,
-    "race": "Dragon",
-    "attribute": "WIND",
-    "archetype": "Armed Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/armed-dragon-lv7-6205",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN015",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Chazz Princeton",
-    "set_code": "DP2-EN012",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN205",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "2.24"
-    },
-    {
-    "set_name": "Legendary Duelists: Ancient Millennium",
-    "set_code": "LED2-EN027",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15",
-    "set_code": "OP15-EN014",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.45"
-    },
-    {
-    "set_name": "OTS Tournament Pack 15 (POR)",
-    "set_code": "OP15-PT014",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN015",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN015",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel GX: Duel Academy Box",
-    "set_code": "SGX1-ENC08",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel GX: Duel Academy Box",
-    "set_code": "SGX1-ENC08",
-    "set_rarity": "Secret Rare",
-    "set_rarity_code": "(ScR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Deluxe Edition",
-    "set_code": "SD1-ENDE1",
-    "set_rarity": "Secret Rare",
-    "set_rarity_code": "(ScR)",
-    "set_price": "67.75"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 73879377,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73879377.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73879377.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73879377.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.15",
-    "tcgplayer_price": "0.17",
-    "ebay_price": "4.95",
-    "amazon_price": "0.72",
-    "coolstuffinc_price": "0.39"
-    }
-    ]
-    },
-    {
-    "id": 74713516,
-    "name": "Dark Mimic LV1",
-    "type": "Flip Effect Monster",
-    "frameType": "effect",
-    "desc": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
-    "atk": 100,
-    "def": 1000,
-    "level": 1,
-    "race": "Fiend",
-    "attribute": "DARK",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv1-6285",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN009",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Gold Series: Haunted Mine",
-    "set_code": "GLD5-EN017",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN009",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
-    "set_code": "SS05-ENA18",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "2.08"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 74713516,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74713516.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74713516.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74713516.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.16",
-    "tcgplayer_price": "0.45",
-    "ebay_price": "1.49",
-    "amazon_price": "2.47",
-    "coolstuffinc_price": "0.79"
-    }
-    ]
-    },
-    {
-    "id": 1102515,
-    "name": "Dark Mimic LV3",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of \"Dark Mimic LV1\", draw 2 cards instead.",
-    "atk": 1000,
-    "def": 1000,
-    "level": 3,
-    "race": "Fiend",
-    "attribute": "DARK",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/dark-mimic-lv3-100",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN010",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Gold Series: Haunted Mine",
-    "set_code": "GLD5-EN018",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN010",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN010",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Speed Duel Starter Decks: Twisted Nightmares",
-    "set_code": "SS05-ENA17",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.28"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 1102515,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1102515.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1102515.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1102515.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.22",
-    "tcgplayer_price": "0.33",
-    "ebay_price": "5.99",
-    "amazon_price": "4.99",
-    "coolstuffinc_price": "0.49"
-    }
-    ]
-    },
-    {
-    "id": 70865988,
-    "name": "Full Salvo",
-    "type": "Trap Card",
-    "frameType": "trap",
-    "desc": "When this card resolves, send your entire hand to the Graveyard. Inflict 200 damage to your opponent for each card you sent to the Graveyard by this effect.",
-    "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/full-salvo-5951",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 4",
-    "set_code": "DR04-EN176",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.67"
-    },
-    {
-    "set_name": "Shadow of Infinity",
-    "set_code": "SOI-EN056",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 70865988,
-    "image_url": "https://images.ygoprodeck.com/images/cards/70865988.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/70865988.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/70865988.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.10",
-    "tcgplayer_price": "0.10",
-    "ebay_price": "0.99",
-    "amazon_price": "0.20",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 75830094,
-    "name": "Horus the Black Flame Dragon LV4",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV6\" from your hand or Deck.",
-    "atk": 1600,
-    "def": 1000,
-    "level": 4,
-    "race": "Dragon",
-    "attribute": "FIRE",
-    "archetype": "Horus the Black Flame Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv4-6381",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN006",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN197",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "2.44"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN006",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN006",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Starter Deck: Kaiba Reloaded",
-    "set_code": "YSKR-EN019",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.84"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 75830094,
-    "image_url": "https://images.ygoprodeck.com/images/cards/75830094.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/75830094.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/75830094.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.59",
-    "tcgplayer_price": "0.49",
-    "ebay_price": "0.01",
-    "amazon_price": "4.68",
-    "coolstuffinc_price": "0.99"
-    }
-    ]
-    },
-    {
-    "id": 11224103,
-    "name": "Horus the Black Flame Dragon LV6",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV8\" from your hand or Deck.",
-    "atk": 2300,
-    "def": 1600,
-    "level": 6,
-    "race": "Dragon",
-    "attribute": "FIRE",
-    "archetype": "Horus the Black Flame Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv6-968",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN007",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN198",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "2.72"
-    },
-    {
-    "set_name": "Rise of the Dragon Lords Structure Deck",
-    "set_code": "SDRL-EN012",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.72"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN007",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN007",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Starter Deck: Kaiba Reloaded",
-    "set_code": "YSKR-EN020",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "3.09"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 11224103,
-    "image_url": "https://images.ygoprodeck.com/images/cards/11224103.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11224103.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11224103.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.25",
-    "tcgplayer_price": "0.45",
-    "ebay_price": "39.99",
-    "amazon_price": "149.99",
-    "coolstuffinc_price": "0.39"
-    }
-    ]
-    },
-    {
-    "id": 48229808,
-    "name": "Horus the Black Flame Dragon LV8",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
-    "atk": 3000,
-    "def": 1800,
-    "level": 8,
-    "race": "Dragon",
-    "attribute": "FIRE",
-    "archetype": "Horus the Black Flame Dragon",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/horus-the-black-flame-dragon-lv8-4119",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN008",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist League 17 participation cards",
-    "set_code": "DL17-EN002",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "9.41"
-    },
-    {
-    "set_name": "Elemental Energy: Special Edition",
-    "set_code": "EEN-ENSE1",
-    "set_rarity": "Secret Rare",
-    "set_rarity_code": "(ScR)",
-    "set_price": "15.43"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN199",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "4.84"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN008",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN008",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 48229808,
-    "image_url": "https://images.ygoprodeck.com/images/cards/48229808.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/48229808.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/48229808.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "9.25",
-    "tcgplayer_price": "3.27",
-    "ebay_price": "5.99",
-    "amazon_price": "7.00",
-    "coolstuffinc_price": "2.99"
-    }
-    ]
-    },
-    {
-    "id": 94940436,
-    "name": "Magnet Circle LV2",
-    "type": "Spell Card",
-    "frameType": "spell",
-    "desc": "Special Summon 1 Level 2 or lower Machine-Type monster from your hand.",
-    "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/magnet-circle-lv2-7902",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 4",
-    "set_code": "DR04-EN158",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "4.17"
-    },
-    {
-    "set_name": "Shadow of Infinity",
-    "set_code": "SOI-EN038",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 94940436,
-    "image_url": "https://images.ygoprodeck.com/images/cards/94940436.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/94940436.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/94940436.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.12",
-    "tcgplayer_price": "0.13",
-    "ebay_price": "1.50",
-    "amazon_price": "0.25",
-    "coolstuffinc_price": "0.99"
-    }
-    ]
-    },
-    {
-    "id": 33114323,
-    "name": "Metalsilver Armor",
-    "type": "Spell Card",
-    "frameType": "spell",
-    "desc": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
-    "race": "Equip",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/metalsilver-armor-2815",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 1",
-    "set_code": "DR1-EN092",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Magician's Force",
-    "set_code": "MFC-037",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "3.89"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 33114323,
-    "image_url": "https://images.ygoprodeck.com/images/cards/33114323.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/33114323.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/33114323.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "1.59",
-    "tcgplayer_price": "2.24",
-    "ebay_price": "1.49",
-    "amazon_price": "4.49",
-    "coolstuffinc_price": "1.99"
-    }
-    ]
-    },
-    {
-    "id": 47507260,
-    "name": "Mystic Swordsman LV2",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV4\" from your hand or Deck.",
-    "atk": 900,
-    "def": 0,
-    "level": 2,
-    "race": "Warrior",
-    "attribute": "EARTH",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-swordsman-lv2-4057",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN011",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN200",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "4.17"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN011",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN011",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Warrior's Triumph",
-    "set_code": "SD5-EN013",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "4.83"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 47507260,
-    "image_url": "https://images.ygoprodeck.com/images/cards/47507260.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/47507260.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/47507260.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "1.14",
-    "tcgplayer_price": "1.30",
-    "ebay_price": "2.37",
-    "amazon_price": "3.47",
-    "coolstuffinc_price": "2.99"
-    }
-    ]
-    },
-    {
-    "id": 74591968,
-    "name": "Mystic Swordsman LV4",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV6\" from your hand or Deck.",
-    "atk": 1900,
-    "def": 1600,
-    "level": 4,
-    "race": "Warrior",
-    "attribute": "EARTH",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-swordsman-lv4-6269",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN012",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN201",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.37"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN012",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN012",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Warrior's Triumph",
-    "set_code": "SD5-EN014",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.25"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 74591968,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74591968.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74591968.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74591968.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.12",
-    "tcgplayer_price": "0.30",
-    "ebay_price": "19.99",
-    "amazon_price": "1.69",
-    "coolstuffinc_price": "0.39"
-    }
-    ]
-    },
-    {
-    "id": 60482781,
-    "name": "Mystic Swordsman LV6",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned (but can be Normal Set). At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster, and if you do, you can place it on top of your opponent's Deck instead of sending it to the Graveyard.",
-    "atk": 2300,
-    "def": 1700,
-    "level": 6,
-    "race": "Warrior",
-    "attribute": "EARTH",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/mystic-swordsman-lv6-5132",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN068",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN202",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.41"
-    },
-    {
-    "set_name": "Rise of Destiny",
-    "set_code": "RDS-EN008",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Rise of Destiny",
-    "set_code": "RDS-EN008",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 60482781,
-    "image_url": "https://images.ygoprodeck.com/images/cards/60482781.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60482781.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60482781.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "2.93",
-    "tcgplayer_price": "0.52",
-    "ebay_price": "6.99",
-    "amazon_price": "59.99",
-    "coolstuffinc_price": "0.49"
-    }
-    ]
-    },
-    {
-    "id": 96947648,
-    "name": "Salvage",
-    "type": "Spell Card",
-    "frameType": "spell",
-    "desc": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
-    "race": "Normal",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/salvage-8065",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 2",
-    "set_code": "DR2-EN097",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist League 3 participation cards",
-    "set_code": "DL12-EN014",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "7.35"
-    },
-    {
-    "set_name": "Ghosts From the Past",
-    "set_code": "GFTP-EN107",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "1.96"
-    },
-    {
-    "set_name": "Invasion of Chaos",
-    "set_code": "IOC-096",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "2.12"
-    },
-    {
-    "set_name": "Invasion of Chaos",
-    "set_code": "IOC-EN096",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN276",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Realm of the Sea Emperor Structure Deck",
-    "set_code": "SDRE-EN030",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.83"
-    },
-    {
-    "set_name": "Speed Duel: Streets of Battle City",
-    "set_code": "SBC1-ENC12",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Freezing Chains",
-    "set_code": "SDFC-EN032",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.2"
-    },
-    {
-    "set_name": "Structure Deck: Fury from the Deep",
-    "set_code": "SD4-EN023",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.69"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 96947648,
-    "image_url": "https://images.ygoprodeck.com/images/cards/96947648.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/96947648.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/96947648.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.08",
-    "tcgplayer_price": "0.13",
-    "ebay_price": "0.99",
-    "amazon_price": "0.99",
-    "coolstuffinc_price": "0.39"
-    }
-    ]
-    },
-    {
-    "id": 73665146,
-    "name": "Silent Magician LV4",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
-    "atk": 1000,
-    "def": 1000,
-    "level": 4,
-    "race": "Spellcaster",
-    "attribute": "LIGHT",
-    "archetype": "Silent Magician",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-magician-lv4-6187",
-    "card_sets": [
-    {
-    "set_name": "Champion Pack: Game Eight",
-    "set_code": "CP08-EN007",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Rivals of the Pharaoh",
-    "set_code": "DPRP-EN019",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN037",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.49"
-    },
-    {
-    "set_name": "Legendary Decks II",
-    "set_code": "LDK2-ENY14",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.62"
-    },
-    {
-    "set_name": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
-    "set_code": "NTR-EN001",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "9.73"
-    },
-    {
-    "set_name": "Yugi's Legendary Decks",
-    "set_code": "YGLD-ENC05",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.51"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 73665146,
-    "image_url": "https://images.ygoprodeck.com/images/cards/73665146.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/73665146.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/73665146.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.07",
-    "tcgplayer_price": "0.24",
-    "ebay_price": "3.89",
-    "amazon_price": "0.25",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 72443568,
-    "name": "Silent Magician LV8",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
-    "atk": 3500,
-    "def": 1000,
-    "level": 8,
-    "race": "Spellcaster",
-    "attribute": "LIGHT",
-    "archetype": "Silent Magician",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-magician-lv8-6082",
-    "card_sets": [
-    {
-    "set_name": "Duelist Pack: Rivals of the Pharaoh",
-    "set_code": "DPRP-EN020",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN038",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.22"
-    },
-    {
-    "set_name": "Legendary Decks II",
-    "set_code": "LDK2-ENY13",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.49"
-    },
-    {
-    "set_name": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
-    "set_code": "NTR-EN002",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "10.27"
-    },
-    {
-    "set_name": "Yugi's Legendary Decks",
-    "set_code": "YGLD-ENC04",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 72443568,
-    "image_url": "https://images.ygoprodeck.com/images/cards/72443568.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/72443568.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/72443568.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.07",
-    "tcgplayer_price": "0.15",
-    "ebay_price": "3.95",
-    "amazon_price": "0.98",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 1995985,
-    "name": "Silent Swordsman LV3",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Negate your opponent's Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV5\" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.",
-    "atk": 1000,
-    "def": 1000,
-    "level": 3,
-    "race": "Warrior",
-    "attribute": "LIGHT",
-    "archetype": "Silent Swordsman",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-swordsman-lv3-176",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN069",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duel Terminal 5a",
-    "set_code": "DT05-EN009",
-    "set_rarity": "Duel Terminal Normal Parallel Rare",
-    "set_rarity_code": "(DNPR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Rivals of the Pharaoh",
-    "set_code": "DPRP-EN016",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN033",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.42"
-    },
-    {
-    "set_name": "Rise of Destiny",
-    "set_code": "RDS-EN009",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Rise of Destiny",
-    "set_code": "RDS-EN009",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Starter Deck: Yugi Reloaded",
-    "set_code": "YSYR-EN017",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.52"
-    },
-    {
-    "set_name": "Yugi's Legendary Decks",
-    "set_code": "YGLD-ENC08",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.14"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 1995985,
-    "image_url": "https://images.ygoprodeck.com/images/cards/1995985.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/1995985.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/1995985.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.07",
-    "tcgplayer_price": "0.15",
-    "ebay_price": "4.97",
-    "amazon_price": "1.08",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 74388798,
-    "name": "Silent Swordsman LV5",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV7\" from your hand or Deck.",
-    "atk": 2300,
-    "def": 1000,
-    "level": 5,
-    "race": "Warrior",
-    "attribute": "LIGHT",
-    "archetype": "Silent Swordsman",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-swordsman-lv5-6252",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN128",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duel Terminal 5b",
-    "set_code": "DT05-EN056",
-    "set_rarity": "Duel Terminal Super Parallel Rare",
-    "set_rarity_code": "(DSPR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist Pack: Rivals of the Pharaoh",
-    "set_code": "DPRP-EN017",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Elemental Energy: Special Edition",
-    "set_code": "EEN-ENSE4",
-    "set_rarity": "Secret Rare",
-    "set_rarity_code": "(ScR)",
-    "set_price": "7.18"
-    },
-    {
-    "set_name": "Flaming Eternity",
-    "set_code": "FET-EN008",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Flaming Eternity",
-    "set_code": "FET-EN008",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN034",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.19"
-    },
-    {
-    "set_name": "Starter Deck: Yugi Reloaded",
-    "set_code": "YSYR-EN018",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.4"
-    },
-    {
-    "set_name": "Yugi's Legendary Decks",
-    "set_code": "YGLD-ENC07",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.04"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 74388798,
-    "image_url": "https://images.ygoprodeck.com/images/cards/74388798.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74388798.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74388798.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.04",
-    "tcgplayer_price": "0.17",
-    "ebay_price": "3.49",
-    "amazon_price": "0.85",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 37267041,
-    "name": "Silent Swordsman LV7",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
-    "atk": 2800,
-    "def": 1000,
-    "level": 7,
-    "race": "Warrior",
-    "attribute": "LIGHT",
-    "archetype": "Silent Swordsman",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/silent-swordsman-lv7-3155",
-    "card_sets": [
-    {
-    "set_name": "Duel Terminal 6a",
-    "set_code": "DT06-EN001",
-    "set_rarity": "Duel Terminal Super Parallel Rare",
-    "set_rarity_code": "(DSPR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Duelist League 17 participation cards",
-    "set_code": "DL17-EN003",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "5.6"
-    },
-    {
-    "set_name": "Duelist Pack: Rivals of the Pharaoh",
-    "set_code": "DPRP-EN018",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 3: Yugi's World Mega Pack",
-    "set_code": "LCYW-EN035",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "3.19"
-    },
-    {
-    "set_name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards",
-    "set_code": "WC5-EN001",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "11.88"
-    },
-    {
-    "set_name": "Yugi's Legendary Decks",
-    "set_code": "YGLD-ENC06",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.08"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 37267041,
-    "image_url": "https://images.ygoprodeck.com/images/cards/37267041.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/37267041.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/37267041.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.11",
-    "tcgplayer_price": "0.21",
-    "ebay_price": "4.97",
-    "amazon_price": "1.18",
-    "coolstuffinc_price": "0.25"
-    }
-    ]
-    },
-    {
-    "id": 32619583,
-    "name": "Sillva, Warlord of Dark World",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, your opponent returns exactly 2 cards from their hand to the bottom of their Deck, in any order.",
-    "atk": 2300,
-    "def": 1400,
-    "level": 5,
-    "race": "Fiend",
-    "attribute": "DARK",
-    "archetype": "Dark World",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/sillva-warlord-of-dark-world-2775",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 4",
-    "set_code": "DR04-EN083",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "707.65"
-    },
-    {
-    "set_name": "Elemental Energy",
-    "set_code": "EEN-EN023",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Elemental Energy",
-    "set_code": "EEN-EN023",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Gates of the Underworld Structure Deck",
-    "set_code": "SDGU-EN012",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "1.18"
-    },
-    {
-    "set_name": "Gold Series",
-    "set_code": "GLD1-EN023",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 4: Joey's World Mega Pack",
-    "set_code": "LCJW-EN245",
-    "set_rarity": "Secret Rare",
-    "set_rarity_code": "(ScR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Structure Deck: Dark World",
-    "set_code": "SR13-EN008",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 32619583,
-    "image_url": "https://images.ygoprodeck.com/images/cards/32619583.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/32619583.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/32619583.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.18",
-    "tcgplayer_price": "0.14",
-    "ebay_price": "39.99",
-    "amazon_price": "0.99",
-    "coolstuffinc_price": "0.39"
-    }
-    ]
-    },
-    {
-    "id": 49441499,
-    "name": "Ultimate Insect LV1",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "While this card is on the field, it is unaffected by the effects of Spell Cards. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV3\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
-    "atk": 0,
-    "def": 0,
-    "level": 1,
-    "race": "Insect",
-    "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv1-4214",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN005",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN005",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Soul of the Duelist",
-    "set_code": "SOD-EN005",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 49441499,
-    "image_url": "https://images.ygoprodeck.com/images/cards/49441499.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/49441499.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/49441499.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "1.93",
-    "tcgplayer_price": "0.69",
-    "ebay_price": "18.99",
-    "amazon_price": "0.79",
-    "coolstuffinc_price": "1.99"
-    }
-    ]
-    },
-    {
-    "id": 34088136,
-    "name": "Ultimate Insect LV3",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV1\", while it remains on the field all of your opponent's monsters lose 300 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV5\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
-    "atk": 1400,
-    "def": 900,
-    "level": 3,
-    "race": "Insect",
-    "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv3-2895",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN067",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Rise of Destiny",
-    "set_code": "RDS-EN007",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Rise of Destiny",
-    "set_code": "RDS-EN007",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 34088136,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34088136.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34088136.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34088136.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "1.86",
-    "tcgplayer_price": "0.32",
-    "ebay_price": "2.89",
-    "amazon_price": "11.98",
-    "coolstuffinc_price": "2.99"
-    }
-    ]
-    },
-    {
-    "id": 34830502,
-    "name": "Ultimate Insect LV5",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV3\", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV7\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
-    "atk": 2300,
-    "def": 900,
-    "level": 5,
-    "race": "Insect",
-    "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv5-2959",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN127",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Flaming Eternity",
-    "set_code": "FET-EN007",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Flaming Eternity",
-    "set_code": "FET-EN007",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 34830502,
-    "image_url": "https://images.ygoprodeck.com/images/cards/34830502.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/34830502.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/34830502.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "2.31",
-    "tcgplayer_price": "1.76",
-    "ebay_price": "10.79",
-    "amazon_price": "2.40",
-    "coolstuffinc_price": "5.99"
-    }
-    ]
-    },
-    {
-    "id": 19877898,
-    "name": "Ultimate Insect LV7",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
-    "atk": 2600,
-    "def": 1200,
-    "level": 7,
-    "race": "Insect",
-    "attribute": "WIND",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/ultimate-insect-lv7-1710",
-    "card_sets": [
-    {
-    "set_name": "Dark Revelation Volume 3",
-    "set_code": "DR3-EN190",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "The Lost Millennium",
-    "set_code": "TLM-EN010",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "The Lost Millennium",
-    "set_code": "TLM-EN010",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 19877898,
-    "image_url": "https://images.ygoprodeck.com/images/cards/19877898.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/19877898.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/19877898.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "3.73",
-    "tcgplayer_price": "0.67",
-    "ebay_price": "9.99",
-    "amazon_price": "4.18",
-    "coolstuffinc_price": "29.99"
-    }
-    ]
-    },
-    {
-    "id": 98585345,
-    "name": "Winged Kuriboh LV10",
-    "type": "Effect Monster",
-    "frameType": "effect",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Transcendent Wings\". During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
-    "atk": 300,
-    "def": 200,
-    "level": 10,
-    "race": "Fairy",
-    "attribute": "LIGHT",
-    "archetype": "Kuriboh",
-    "ygoprodeck_url": "https://ygoprodeck.com/card/winged-kuriboh-lv10-8193",
-    "card_sets": [
-    {
-    "set_name": "Cybernetic Revolution",
-    "set_code": "CRV-EN005",
-    "set_rarity": "Ultimate Rare",
-    "set_rarity_code": "(UtR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Cybernetic Revolution",
-    "set_code": "CRV-EN005",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Dark Revelation Volume 4",
-    "set_code": "DR04-EN005",
-    "set_rarity": "Ultra Rare",
-    "set_rarity_code": "(UR)",
-    "set_price": "92.15"
-    },
-    {
-    "set_name": "Duelist Pack: Jaden Yuki",
-    "set_code": "DP1-EN006",
-    "set_rarity": "Rare",
-    "set_rarity_code": "(R)",
-    "set_price": "0"
-    },
-    {
-    "set_name": "Legendary Collection 2: The Duel Academy Years Mega Pack",
-    "set_code": "LCGX-EN010",
-    "set_rarity": "Common",
-    "set_rarity_code": "(C)",
-    "set_price": "5.76"
-    },
-    {
-    "set_name": "Mattel Action Figure promotional cards: Series 3",
-    "set_code": "MF03-EN0??",
-    "set_rarity": "Normal Parallel Rare",
-    "set_rarity_code": "",
-    "set_price": "0.00"
-    },
-    {
-    "set_name": "Yu-Gi-Oh! Advent Calendar (2019)",
-    "set_code": "AC19-EN023",
-    "set_rarity": "Super Rare",
-    "set_rarity_code": "(SR)",
-    "set_price": "5.37"
-    }
-    ],
-    "card_images": [
-    {
-    "id": 98585345,
-    "image_url": "https://images.ygoprodeck.com/images/cards/98585345.jpg",
-    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/98585345.jpg",
-    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/98585345.jpg"
-    }
-    ],
-    "card_prices": [
-    {
-    "cardmarket_price": "0.63",
-    "tcgplayer_price": "1.29",
-    "ebay_price": "13.49",
-    "amazon_price": "13.94",
-    "coolstuffinc_price": "1.99"
-    }
-    ]
-    }
-    ]
-    }
+}
