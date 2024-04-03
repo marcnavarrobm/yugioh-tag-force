@@ -1,0 +1,677 @@
+{
+    "sandwitch": [
+        "Carrot",
+        "Caviar",
+        "Cheese",
+        "Chocolate",
+        "Cook's",
+        "Cream",
+        "Croquette",
+        "Curry",
+        "Destiny",
+        "Dried Mackerel",
+        "Dried sardine",
+        "Durian",
+        "Egg",
+        "Fermented cheese",
+        "Fermented soybean",
+        "Fried noodle",
+        "Fried shrimp",
+        "Garlic",
+        "Golden egg",
+        "Goya",
+        "Grape",
+        "Gyoza",
+        "Hamburger",
+        "Ham",
+        "Hot pepper",
+        "Jam",
+        "Kimchi",
+        "Lettuce",
+        "Lobster",
+        "Melon",
+        "Phantom pepper",
+        "Pine apple",
+        "Plain",
+        "Ramen noodle",
+        "Rice ball",
+        "Salmon",
+        "Sausage",
+        "Soba Noodle",
+        "Spicy Curry",
+        "Spicy fish egg",
+        "Steak",
+        "Sweet bean paste",
+        "Sweet chestnut",
+        "Tangerine",
+        "Tofu",
+        "Tomato",
+        "Top Grade",
+        "Truffle",
+        "Chicken",
+        "Foie Gras"
+    ],
+    "achivements": {
+        "001": "Won 100 or more duels in total.",
+        "002": "Won 10 or more duels against all duelable characters",
+        "003": "Won 10 coin tosses in a row.",
+        "004": "Caused 10,000 or more points of battle damage during a duel.",
+        "005": "Caused 4,000 or more points of deflected battle damage during a duel.",
+        "006": "Caused 20,000 or more points direct damage during a duel.",
+        "007": "Caused 50,000 or more points of damage during a duel.",
+        "008": "Destroyed 20 of your opponent’s monsters in battle during a duel.",
+        "009": "Destroyed 30 of your opponent's monsters using effects during a duel.",
+        "010": "Removed 10 of your opponent’s monsters from play using effects during a duel.",
+        "011": "Normal Summoned 10 monsters during a duel.",
+        "012": "Performed 10 Flip Summons during a duel.",
+        "013": "Performed 10 Fusion Summons during a duel.",
+        "014": "Performed 10 Ritual Summons during a duel.",
+        "015": "Performed 10 Special Summons during a duel.[note 1]",
+        "016": "Special Summoned 10 times from the Graveyard during a duel.[note 2]",
+        "017": "Special Summoned 15 Tokens during a duel.",
+        "018": "Equipped 5 Union monsters during a duel.",
+        "019": "Caused 8,000 or more points of direct damage with Toon monsters during a duel.",
+        "020": "Used Spell Cards 20 times during a duel.",
+        "021": "Used Quick-Play Spell Cards 10 times in your opponent's turn in a duel.",
+        "022": "Activated 10 Trap cards during a duel.",
+        "023": "Countered your opponent's Spells, Traps, effects, Attacks and Summons 10 times during a duel.",
+        "024": "Took control of your opponent's monsters 10 times during a duel.",
+        "025": "Formed a chain of 5 chain links during a duel.",
+        "026": "Used 10 Spell Counters during a duel.",
+        "027": "Made your opponent discard 20 cards from his/her hand.",
+        "028": "Restored 20,000 or more Life Points during a duel.",
+        "029": "Won the Match.",
+        "030": "Ended the duel in a draw.",
+        "031": "Won the duel without taking any damage.",
+        "032": "Caused 8,000 points or more of damage during a turn and won the duel.",
+        "033": "Caused 8,000 points or more of damage with a single attack or effect and won the duel.",
+        "034": "Made your opponent run out of cards and won the duel.",
+        "035": "Won within 7 turns.",
+        "036": "Won within 5 turns.",
+        "037": "Won within 3 turns.",
+        "038": "Won during your opponent’s turn.",
+        "039": "Won the duel using the effects of “Exodia the Forbidden One”.",
+        "040": "Won the duel using the effects of “Destiny Board”.",
+        "041": "Won the duel using the effects of “Final Countdown”.",
+        "042": "Won using a card with a match-winning effect.",
+        "043": "Won with the “Yata-Garasu” lock.",
+        "044": "Summoned every card in the XYZ Series and won the duel.",
+        "045": "Successfully Summoned “VWXYZ-Dragon Catapult Cannon” and won the duel.",
+        "046": "Successfully Summoned “Uria, Lord of Searing Flames” and won the duel.",
+        "047": "Successfully Summoned “Hamon, Lord of Striking Thunder” and won the duel.",
+        "048": "Successfully Summoned “Raviel, Lord of Phantasms” and won the duel.",
+        "049": "Summoned all the Sacred Beast Cards and won the duel.",
+        "050": "Successfully activated and maintained the effect of \"Ojama Delta Hurricane!!\" and won the duel.",
+        "051": "Successfully activated and maintained the effect of “Huge Revolution” and won the duel.",
+        "052": "Successfully Summoned “Perfectly Ultimate Great Moth” and won the duel.",
+        "053": "Successfully Summoned “Gate Guardian” and won the duel.",
+        "054": "Successfully Summoned “Valkyrion the Magna Warrior” and won the duel.",
+        "055": "Successfully Summoned “Dark Sage” and won the duel.",
+        "056": "Successfully activated and maintained the effect of \"Dark Scorpion Combination\" and won the duel.",
+        "057": "Used \"Dark Scorpion Retreat\" and won the Duel.",
+        "058": "Defeated your opponent with an attack from \"Skull Servant”.",
+        "059": "Won with a Deck that didn’t contain any Flip Effect monsters.",
+        "060": "Won with a Deck that didn’t contain any monsters Level 4 or lower.",
+        "061": "Won with a Deck that didn’t contain any monsters Level 5 or higher.",
+        "062": "Won with a Deck that didn’t contain any monsters Level 2 or higher.",
+        "063": "Won with a deck that contained monsters of every Level.",
+        "064": "Won with a Deck that didn’t contain any monsters with an ATK of 1500 or less.",
+        "065": "Won with a Deck that didn’t contain any monsters with an ATK of 1500 or more.",
+        "066": "Won with a Deck that didn’t contain any monsters with an ATK of 1 or more.",
+        "067": "Won with a Deck that didn’t contain any monsters except LIGHT monsters.",
+        "068": "Won with a Deck that didn’t contain any monsters except DARK monsters.",
+        "069": "Won with a Deck that didn’t contain any monsters except WATER monsters.",
+        "070": "Won with a Deck that didn’t contain any monsters except FIRE monsters.",
+        "071": "Won with a Deck that didn’t contain any monsters except EARTH monsters.",
+        "072": "Won with a Deck that didn’t contain any monsters except WIND monsters.",
+        "073": "Won with a Deck that didn’t contain any monsters except Dragon-Type monsters.",
+        "074": "Won with a Deck that didn’t contain any monsters except Zombie-Type monsters.",
+        "075": "Won with a Deck that didn’t contain any monsters except Fiend-Type monsters.",
+        "076": "Won with a Deck that didn’t contain any monsters except Pyro-Type monsters.",
+        "077": "Won with a Deck that didn’t contain any monsters except Sea Serpent-Type monsters.",
+        "078": "Won with a Deck that didn’t contain any monsters except Rock-Type monsters.",
+        "079": "Won with a Deck that didn’t contain any monsters except Machine-Type monsters.",
+        "080": "Won with a Deck that didn’t contain any monsters except Fish-Type monsters.",
+        "081": "Won with a Deck that didn’t contain any monsters except Dinosaur-Type monsters.",
+        "082": "Won with a Deck that didn’t contain any monsters except Insect-Type monsters.",
+        "083": "Won with a Deck that didn’t contain any monsters except Beast-Type monsters.",
+        "084": "Won with a Deck that didn’t contain any monsters except Beast-Warrior-Type monsters.",
+        "085": "Won with a Deck that didn’t contain any monsters except Plant-Type monsters.",
+        "086": "Won with a Deck that didn’t contain any monsters except Aqua-Type monsters.",
+        "087": "Won with a Deck that didn’t contain any monsters except Warrior-Type monsters.",
+        "088": "Won with a Deck that didn’t contain any monsters except Winged Beast-Type monsters.",
+        "089": "Won with a Deck that didn’t contain any monsters except Fairy-Type monsters.",
+        "090": "Won with a Deck that didn’t contain any monsters except Spellcaster-Type monsters.",
+        "091": "Won with a Deck that didn’t contain any monsters except Thunder-Type monsters.",
+        "092": "Won with a Deck that didn’t contain any monsters except Reptile-Type monsters.",
+        "093": "Won with a Deck that didn’t contain any monsters except ones whose names contain “LV”.",
+        "094": "Won with a Deck that didn’t contain any monsters except ones whose names begin with “Elemental Hero”.",
+        "095": "Won with a Deck that didn’t contain any monsters except Spirit monsters.",
+        "096": "Won with a Deck that didn’t contain any monsters except Toon monsters.",
+        "097": "Won with a Deck that didn’t contain any monsters (not including Fusion Deck).",
+        "098": "Won with a Deck that didn’t contain any monsters (including Fusion Deck).",
+        "099": "Won with a Deck that didn’t contain any Trap Cards.",
+        "100": "Won with a Deck that didn’t contain any Spell Cards.",
+        "101": "Won with a Deck that didn’t contain any Spell or Trap Cards.",
+        "102": "Won with a Deck that had 80 cards in it.",
+        "103": "Won with a Deck that didn’t contain any Forbidden, Limited, or Semi-Limited Cards.",
+        "104": "Won with a Deck that only contained one copy of each card.",
+        "105": "Won without Tributing any monsters.",
+        "106": "Won without performing a Special Summon.",
+        "107": "Won without performing a Normal Summon.",
+        "108": "Made all the characters appear in the database.",
+        "109": "Acquired all Sandwich types.",
+        "110": "Acquired the “Golden Egg Sandwich”.",
+        "111": "Cleared Story mode for all main characters.",
+        "112": "Clear story mode with ALL characters.",
+        "113": "Card completion became 30% or higher.",
+        "114": "Card completion became 50% or higher.",
+        "115": "Card Completion became 100%.",
+        "116": "Purchase all packs.",
+        "117": "Watch all the movies."
+    },
+    "bonus": [
+        {
+            "number": "01",
+            "name": "Clear Bonus",
+            "desc": "Clear Bonus (# times you finish part 3)",
+            "reward": "2DP x times"
+        },
+        {
+            "number": "02",
+            "name": "Level Bonus",
+            "desc": "Level Bonus - Automatic",
+            "reward": "2DP x player level"
+        },
+        {
+            "number": "03",
+            "name": "Challenge Bonus",
+            "desc": "Challenge Bonus",
+            "reward": "2DP x each Challenge completed"
+        },
+        {
+            "number": "04",
+            "name": "Lose",
+            "desc": "Lose - Lose a duel",
+            "reward": "10DP"
+        },
+        {
+            "number": "05",
+            "name": "Draw Game Bonus",
+            "desc": "Draw Game Bonus - End the duel in a draw",
+            "reward": "50DP"
+        },
+        {
+            "number": "06",
+            "name": "Turn Bonus",
+            "desc": "Turn Bonus - Automatic",
+            "reward": "2DP/turn (1 DP/turn if you lose a duel in a Match or if you get a draw in any duel)"
+        },
+        {
+            "number": "07",
+            "name": "Tag Duel Victory Bonus",
+            "desc": "Tag Duel Victory Bonus - Play a tag duel and win",
+            "reward": "50DP"
+        },
+        {
+            "number": "08",
+            "name": "Network Duel Victory Bonus",
+            "desc": "Network Duel Victory Bonus - Duel against another person"
+        },
+        {
+            "number": "09",
+            "name": "Match Game Bonus",
+            "desc": "Match Game Bonus - Play and win a match game",
+            "reward": "50DP"
+        },
+        {
+            "number": "10",
+            "name": "Level Up Bonus",
+            "desc": "Level Up Bonus - Given when you level up",
+            "reward": "400DP"
+        },
+        {
+            "number": "11",
+            "name": "Duelist Bonus",
+            "desc": "Duelist Bonus - Automatic upon win, amount depending on opponent",
+            "reward": "Between 25 and 250DP"
+        },
+        {
+            "number": "12",
+            "name": "No More Cards Bonus",
+            "desc": "No More Cards Bonus - Win when opponent must draw but has no more cards",
+            "reward": "20 DP"
+        },
+        {
+            "number": "13",
+            "name": "Quick Finish Bonus",
+            "desc": "Quick Finish Bonus - Win within 5 Turns",
+            "reward": "10DP"
+        },
+        {
+            "number": "14",
+            "name": "Reversal Finish Bonus",
+            "desc": "Reversal Finish Bonus - Win within a turn where you started with lower LP",
+            "reward": "20 DP"
+        },
+        {
+            "number": "15",
+            "name": "Opponent's Turn Finish Bonus",
+            "desc": "Opponent's Turn Finish Bonus - Win during opponent's turn",
+            "reward": "20 DP"
+        },
+        {
+            "number": "16",
+            "name": "Partner Victory Bonus",
+            "desc": "Partner Victory Bonus - Win during your partner's turn in a tag duel",
+            "reward": "10 DP"
+        },
+        {
+            "number": "17",
+            "name": "Low LP Bonus",
+            "desc": "Low LP Bonus - Win when your LP is below 1000",
+            "reward": "20 DP"
+        },
+        {
+            "number": "18",
+            "name": "Extremely Low LP Bonus",
+            "desc": "Extremely Low LP Bonus - Win when your LP is below 100",
+            "reward": "100 DP"
+        },
+        {
+            "number": "19",
+            "name": "LP Keep Bonus",
+            "desc": "LP Keep Bonus - Win without taking any damage",
+            "reward": "10 DP"
+        },
+        {
+            "number": "20",
+            "name": "Over 20,000 LP Bonus",
+            "desc": "Over 20,000 LP Bonus - Win with LP over 20,000",
+            "reward": "100 DP"
+        },
+        {
+            "number": "21",
+            "name": "Konami Bonus",
+            "desc": "Konami Bonus - Win having 5730 LP",
+            "reward": "573DP"
+        },
+        {
+            "number": "22",
+            "name": "Low Deck Bonus",
+            "desc": "Low Deck Bonus - Win with less than 10 cards left in the deck",
+            "reward": "20 DP"
+        },
+        {
+            "number": "23",
+            "name": "Extremely Low Deck Bonus",
+            "desc": "Extremely Low Deck Bonus - Win with no more cards in the deck",
+            "reward": "100 DP"
+        },
+        {
+            "number": "24",
+            "name": "Spell Card Bonus",
+            "desc": "Spell Card Bonus - Win with more than 10 spells used",
+            "reward": "2DP/Spell"
+        },
+        {
+            "number": "25",
+            "name": "Trap Card Bonus",
+            "desc": "Trap Card Bonus - Win with more than 10 traps used",
+            "reward": "2DP/Trap"
+        },
+        {
+            "number": "26",
+            "name": "No Spell Cards Bonus",
+            "desc": "No Spell Cards Bonus - Win without activating a single spell",
+            "reward": "15 DP"
+        },
+        {
+            "number": "27",
+            "name": "No Trap Cards Bonus",
+            "desc": "No Trap Cards Bonus - Win without activating a single trap",
+            "reward": "15 DP"
+        },
+        {
+            "number": "28",
+            "name": "Fusion Summon Bonus",
+            "desc": "Fusion Summon Bonus - Perform a fusion summon",
+            "reward": "4 DP per Fusion Summon"
+        },
+        {
+            "number": "29",
+            "name": "Ritual Summon Bonus",
+            "desc": "Ritual Summon Bonus - Perform a ritual summon",
+            "reward": "4 DP per Ritual Summon"
+        },
+        {
+            "number": "30",
+            "name": "Tribute Summon Bonus",
+            "desc": "Tribute Summon Bonus - Perform a tribute summon",
+            "reward": "4 DP per Tribute Summon"
+        },
+        {
+            "number": "31",
+            "name": "No Special Summon Bonus",
+            "desc": "No Special Summon Bonus - Win without performing any special summon",
+            "reward": "10 DP"
+        },
+        {
+            "number": "32",
+            "name": "Chain Bonus",
+            "desc": "Chain Bonus - Perform a chain of Chain Level 3 or 4",
+            "reward": "6 or 8 DP"
+        },
+        {
+            "number": "33",
+            "name": "Max ATK Bonus",
+            "desc": "Max ATK Bonus - Have a monster with ATK 2500 or more",
+            "reward": "((ATK Total of monster - 2500) / 100) DP"
+        },
+        {
+            "number": "34",
+            "name": "Max Damage Bonus",
+            "desc": "Max Damage Bonus - Inflict a 2500 or more damage to your opponent with a single monster",
+            "reward": "((ATK Total of monster - 2500) / 100) DP"
+        },
+        {
+            "number": "35",
+            "name": "LP Differential Bonus",
+            "desc": "LP Differential Bonus - No idea how this is calculated yet"
+        },
+        {
+            "number": "36",
+            "name": "Max Reflected Damage Bonus",
+            "desc": "Max Reflected Damage Bonus - Make your opponent damage when he/she attacks (Higher ATK/DEF)",
+            "reward": "1 DP per 100 damage reflected"
+        },
+        {
+            "number": "37",
+            "name": "Exactly 0 LP Bonus",
+            "desc": "Exactly 0 LP Bonus - Win by inflicting damage equal to opponent's remaining LP",
+            "reward": "10 DP"
+        },
+        {
+            "number": "38",
+            "name": "Battle Damage only Bonus",
+            "desc": "Battle Damage only Bonus - Win without inflicting effect damage",
+            "reward": "10 DP"
+        },
+        {
+            "number": "39",
+            "name": "Effect Damage only Bonus",
+            "desc": "Effect Damage only Bonus - Win without inflicting battle damage",
+            "reward": "30 DP"
+        },
+        {
+            "number": "40",
+            "name": "Destroy in Battle Bonus",
+            "desc": "Destroy in Battle Bonus - Destroy 10 cards through battle",
+            "reward": "4 DP per monster"
+        },
+        {
+            "number": "41",
+            "name": "Destroy by Effect Bonus",
+            "desc": "Destroy by Effect Bonus - Destroy 10 cards through effects",
+            "reward": "4 DP per monster"
+        },
+        {
+            "number": "42",
+            "name": "Removed from Play Bonus",
+            "desc": "Removed from Play Bonus - Remove 10 opponent's cards from play",
+            "reward": "4 DP per card"
+        },
+        {
+            "number": "43",
+            "name": "Hand Destruction Bonus",
+            "desc": "Hand Destruction Bonus - Discard 10 opponent's cards from hand",
+            "reward": "4 DP per card"
+        },
+        {
+            "number": "44",
+            "name": "Deck Destruction Bonus",
+            "desc": "Deck Destruction Bonus - Discard 10 opponent's cards from deck",
+            "reward": "4 DP per card"
+        },
+        {
+            "number": "45",
+            "name": "Return to Hand Bonus",
+            "desc": "Return to Hand Bonus - Retrieve 10 cards from field or graveyard",
+            "reward": "4 DP per card"
+        },
+        {
+            "number": "46",
+            "name": "Luck Bonus",
+            "desc": "Luck Bonus - Win coin toss or dice rolls consecutively",
+            "reward": "2/consecutive win"
+        },
+        {
+            "number": "47",
+            "name": "Counter Bonus",
+            "desc": "Counter Bonus - Use counter traps"
+        },
+        {
+            "number": "48",
+            "name": "Union Bonus",
+            "desc": "Union Bonus - Perform a union"
+        },
+        {
+            "number": "49",
+            "name": "Same Card Bonus",
+            "desc": "Same Card Bonus - Having 2 or 3 of the same cards on your field",
+            "reward": "5 X number of cards"
+        },
+        {
+            "number": "50",
+            "name": "All Monster Card Zone Bonus",
+            "desc": "All Monster Card Zone Bonus - Occupy all your monster slots on the field",
+            "reward": "10 DP"
+        },
+        {
+            "number": "51",
+            "name": "No Monster Card Zone Bonus",
+            "desc": "No Monster Card Zone Bonus - Block all 5 of your opponent's zones (Ojama King, Ground Collapse)",
+            "reward": "60 DP"
+        },
+        {
+            "number": "52",
+            "name": "Key card destruction Bonus",
+            "desc": "Key card destruction Bonus - Destroy or remove the main cards of your opponent (You'll know when it is a Key Card when he/she gasps)",
+            "reward": "20DP x card destroyed"
+        },
+        {
+            "number": "53",
+            "name": "Exodia Finish Bonus",
+            "desc": "Exodia Finish Bonus - Won by the effect of \"Exodia the Forbidden One\"",
+            "reward": "50 DP"
+        },
+        {
+            "number": "54",
+            "name": "Destiny Board Finish Bonus",
+            "desc": "Destiny Board Finish Bonus - Won by the effect of \"Destiny Board\"",
+            "reward": "100 DP"
+        },
+        {
+            "number": "55",
+            "name": "Final Countdown Finish Bonus",
+            "desc": "Final Countdown Finish Bonus - Won by the effect of \"Final Countdown\"",
+            "reward": "50 DP"
+        },
+        {
+            "number": "56",
+            "name": "Last Turn Finish Bonus",
+            "desc": "Last Turn Finish Bonus - Won by the effect of \"Last Turn\""
+        },
+        {
+            "number": "57",
+            "name": "Skull Servant Finish Bonus",
+            "desc": "Skull Servant Finish Bonus - Won by an attack from \"Skull Servant\"",
+            "reward": "1 DP"
+        },
+        {
+            "number": "58",
+            "name": "Summoned \"Perfectly Ultimate Great Moth\"",
+            "reward": "30 DP"
+        },
+        {
+            "number": "59",
+            "name": "Summoned \"Wall Shadow\""
+        },
+        {
+            "number": "60",
+            "name": "Summoned \"Gate Guardian\"",
+            "reward": "30 DP"
+        },
+        {
+            "number": "61",
+            "name": "Summoned \"Blue-Eyes Ultimate Dragon\"",
+            "reward": "20 DP"
+        },
+        {
+            "number": "62",
+            "name": "Summoned \"Metalzoa\""
+        },
+        {
+            "number": "63",
+            "name": "Summoned \"Red-Eyes Black Metal Dragon\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "64",
+            "name": "Summoned \"Valkyrion the Magna Warrior\"",
+            "reward": "30 DP"
+        },
+        {
+            "number": "65",
+            "name": "Summoned \"Dark Sage\""
+        },
+        {
+            "number": "66",
+            "name": "Summoned \"XYZ-Dragon Cannon\"",
+            "reward": "20 DP"
+        },
+        {
+            "number": "67",
+            "name": "Summoned \"Exodia Necross\""
+        },
+        {
+            "number": "68",
+            "name": "Summoned \"Ojama King\"",
+            "reward": "20 DP"
+        },
+        {
+            "number": "69",
+            "name": "Summoned \"Mokey Mokey King\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "70",
+            "name": "Summoned \"Dark Dreadroute\"",
+            "reward": "20 DP"
+        },
+        {
+            "number": "71",
+            "name": "Summoned \"Chimeratech Overdragon\"",
+            "reward": "30 DP"
+        },
+        {
+            "number": "72",
+            "name": "Used \"Mega Ton Magical Cannon\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "73",
+            "name": "Used \"Yu-Jo Friendship\""
+        },
+        {
+            "number": "74",
+            "name": "Used \"Dark Scorpion Combination\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "75",
+            "name": "Used \"Ojama Delta Hurricane\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "76",
+            "name": "Used \"Blasting the Ruins\""
+        },
+        {
+            "number": "77",
+            "name": "Used \"The Law of the Normal\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "78",
+            "name": "Used \"Inferno Tempest\""
+        },
+        {
+            "number": "79",
+            "name": "Used \"Fuh-Rin-Ka-Zan\"",
+            "reward": "5 DP"
+        },
+        {
+            "number": "80",
+            "name": "Used \"Elemental Burst\"",
+            "reward": "20 DP"
+        },
+        {
+            "number": "81",
+            "name": "Used \"Dark Scorpion Retreat\"",
+            "reward": "30 DP"
+        },
+        {
+            "number": "82",
+            "name": "Used \"Illusion Gate\"",
+            "reward": "10 DP"
+        },
+        {
+            "number": "83",
+            "name": "New Bonus",
+            "desc": "New Bonus",
+            "reward": "30 DP"
+        }
+    ],
+    "score": {
+        "001": "Maximum LP",
+        "002": "LP Difference",
+        "003": "Max DP Acquired",
+        "004": "Total Spell counters",
+        "005": "Spell counter cost used",
+        "006": "Total damage",
+        "007": "Total battle damage",
+        "008": "Total deflected damage",
+        "009": "Total direct damage",
+        "010": "Maximum damage",
+        "011": "Number of opponent's monsters destroyed",
+        "012": "Number of opponent's monsters destroyed in battle",
+        "013": "Number of opponent's monsters destroyed by effects",
+        "014": "Number of opponent's monsters removed from play by effects",
+        "015": "Number of times monsters summoned",
+        "016": "Number of Normal Summons",
+        "017": "Number of Flip Summons",
+        "018": "Number of Tribute Summons",
+        "019": "Number of Fusion Summons",
+        "020": "Number of Ritual Summons",
+        "021": "Number of Special Summons",
+        "022": "Number of Tokens Special Summoned",
+        "023": "Maximum monster ATK",
+        "024": "Number of Union monsters equipped",
+        "025": "Number of times Spells used",
+        "026": "Number of Traps activated",
+        "027": "Number of times countered opponent's move",
+        "028": "Number of times controlled opponent's monsters",
+        "029": "Direct damage caused with Toon monsters",
+        "030": "Number of coin tosses won in a row",
+        "031": "Total number of chains",
+        "032": "Number of cards removed from play",
+        "033": "Number of cards discarded from hand",
+        "034": "Number of opponents cards removed from Deck",
+        "035": "Number of cards returned to hand",
+        "036": "Key Cards Destroyed",
+        "037": "Duel victory: Shortest duel",
+        "038": "Duel victory: Shortest turn",
+        "039": "Duel victory: Longest turn"
+    }
+}

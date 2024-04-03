@@ -23,5 +23,5 @@ async function convertirDirectorioPNGaWebP(directorio) {
     }
 }
 
-const directorioDeImagenesPNG = path.join(__dirname, 'public/images/races')
+const directorioDeImagenesPNG = path.join(__dirname, 'public/images/characters')
 convertirDirectorioPNGaWebP(directorioDeImagenesPNG)

@@ -8,6 +8,9 @@ import Pack from './pack.js'
 import Genre from './genre.js'
 import DeckCard from './deckCard.js'
 import User from './user.js'
+import Character from './character.js'
+import Food from './food.js'
+import CharacterFood from './characterFood.js'
 import db from '../config/connection.js' // Asegúrate de importar tu conexión a la base de datos
 
 // Aquí definirías las relaciones
@@ -32,6 +35,9 @@ Card.belongsTo(Pack, { foreignKey: 'pack_id' })
 // Relaciones para Card y Genre (muchos a muchos)
 Card.belongsToMany(Genre, { through: 'card_genre', foreignKey: 'card_id' })
 Genre.belongsToMany(Card, { through: 'card_genre', foreignKey: 'genre_id' })
+
+Character.belongsToMany(Food, { through: CharacterFood, foreignKey: 'character_id' })
+Food.belongsToMany(Character, { through: CharacterFood, foreignKey: 'food_id' })
 
 // Relaciones para BoosterPack y Card (uno a muchos)
 User.hasMany(Deck, { foreignKey: 'user_id' })
