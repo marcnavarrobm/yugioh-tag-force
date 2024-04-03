@@ -1,3 +1,5 @@
+import Character from './models/character'
+
 const charactersData = [
     {
         name: 'Jaden Yuki',
