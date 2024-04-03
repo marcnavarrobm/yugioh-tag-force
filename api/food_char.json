@@ -1,0 +1,467 @@
+{
+    "Jaden Yuki": {
+        "5": [
+            "Golden Egg"
+        ],
+        "4": [
+            "Dried Mackerel",
+            "Durian",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Garlic",
+            "Gyoza",
+            "Kimchi",
+            "Lobster",
+            "Phantom Pepper",
+            "Steak"
+        ],
+        "3": [
+            "Caviar",
+            "Cook's",
+            "Foie Gras",
+            "Fried Shrimp",
+            "Hot Pepper",
+            "Spicy Curry",
+            "Spicy Fish Egg",
+            "Truffle"
+        ],
+        "2": [
+            "Carrot",
+            "Cheese",
+            "Chicken",
+            "Chocolate",
+            "Cream",
+            "Croquette",
+            "Curry",
+            "Dried Sardine",
+            "Fried Noodle",
+            "Goya",
+            "Grape",
+            "Ham",
+            "Hamburger",
+            "Jam",
+            "Lettuce",
+            "Melon",
+            "Normal Egg",
+            "Pineapple",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Salmon",
+            "Sausage",
+            "Soba Noodle",
+            "Sweet Bean Paste",
+            "Sweet Chestnut",
+            "Tangerine",
+            "Tofu",
+            "Tomato",
+            "Top-grade Salad"
+        ],
+        "1": [
+            "Plain"
+        ],
+        "-1": [],
+        "-2": [],
+        "-3": [],
+        "-4": [],
+        "-5": []
+    },
+    "Syrus Truesdale": {
+        "5": [
+            "Golden Egg"
+        ],
+        "4": [
+            "Fried Shrimp",
+            "Lobster"
+        ],
+        "3": [
+            "Caviar",
+            "Cheese",
+            "Chocolate",
+            "Cook's",
+            "Croquette",
+            "Curry",
+            "Durian",
+            "Foie Gras",
+            "Fried Noodle",
+            "Normal Egg",
+            "Steak",
+            "Top-grade Salad",
+            "Truffle"
+        ],
+        "2": [
+            "Carrot",
+            "Chicken",
+            "Cream",
+            "Dried Mackerel",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Garlic",
+            "Goya",
+            "Grape",
+            "Gyoza",
+            "Ham",
+            "Hamburger",
+            "Jam",
+            "Lettuce",
+            "Melon",
+            "Pineapple",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Salmon",
+            "Sausage",
+            "Soba Noodle",
+            "Sweet Bean Paste",
+            "Sweet Chestnut",
+            "Tangerine",
+            "Tofu",
+            "Tomato"
+        ],
+        "1": [
+            "Plain"
+        ],
+        "-1": [],
+        "-2": [],
+        "-3": [],
+        "-4": [
+            "Dried Sardine",
+            "Hot Pepper",
+            "Kimchi",
+            "Phantom Pepper",
+            "Spicy Curry",
+            "Spicy Fish Egg"
+        ],
+        "-5": []
+    },
+    "Chumley Huffington": {
+        "5": [
+            "Golden Egg"
+        ],
+        "4": [
+            "Dried Mackerel",
+            "Fried Shrimp",
+            "Lobster",
+            "Salmon"
+        ],
+        "3": [
+            "Caviar",
+            "Cook's",
+            "Foie Gras",
+            "Truffle"
+        ],
+        "2": [
+            "Carrot",
+            "Cheese",
+            "Chocolate",
+            "Cream",
+            "Croquette",
+            "Curry",
+            "Durian",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Fried Noodle",
+            "Garlic",
+            "Goya",
+            "Grape",
+            "Gyoza",
+            "Hot Pepper",
+            "Jam",
+            "Kimchi",
+            "Lettuce",
+            "Melon",
+            "Normal Egg",
+            "Phantom Pepper",
+            "Pineapple",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Soba Noodle",
+            "Spicy Curry",
+            "Spicy Fish Egg",
+            "Sweet Bean Paste",
+            "Sweet Chestnut",
+            "Tangerine",
+            "Tofu",
+            "Tomato",
+            "Top-grade Salad"
+        ],
+        "1": [
+            "Plain"
+        ],
+        "-1": [],
+        "-2": [
+            "Chicken",
+            "Dried Sardine",
+            "Ham",
+            "Hamburger",
+            "Sausage",
+            "Steak"
+        ],
+        "-3": [],
+        "-4": [],
+        "-5": []
+    },
+    "Alexis Rhodes": {
+        "5": [
+            "Golden Egg"
+        ],
+        "4": [
+            "Chocolate",
+            "Melon"
+        ],
+        "3": [
+            "Caviar",
+            "Cook's",
+            "Cream",
+            "Foie Gras",
+            "Grape",
+            "Jam",
+            "Pineapple",
+            "Sweet Bean Paste",
+            "Sweet Chestnut",
+            "Tangerine",
+            "Top-grade Salad",
+            "Truffle"
+        ],
+        "2": [
+            "Carrot",
+            "Goya",
+            "Lettuce",
+            "Lobster",
+            "Tomato"
+        ],
+        "1": [
+            "Cheese",
+            "Chicken",
+            "Croquette",
+            "Curry",
+            "Dried Sardine",
+            "Durian",
+            "Fried Noodle",
+            "Fried Shrimp",
+            "Ham",
+            "Hamburger",
+            "Hot Pepper",
+            "Normal Egg",
+            "Phantom Pepper",
+            "Plain",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Salmon",
+            "Sausage",
+            "Soba Noodle",
+            "Spicy Curry",
+            "Spicy Fish Egg",
+            "Steak",
+            "Tofu"
+        ],
+        "-1": [],
+        "-2": [],
+        "-3": [],
+        "-4": [
+            "Dried Mackerel",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Garlic",
+            "Gyoza",
+            "Kimchi"
+        ],
+        "-5": []
+    },
+    "Chazz Princeton": {
+        "5": [
+            "Golden Egg"
+        ],
+        "4": [
+            "Caviar",
+            "Foie Gras",
+            "Steak",
+            "Truffle"
+        ],
+        "3": [
+            "Chicken",
+            "Chocolate",
+            "Cook's",
+            "Durian",
+            "Ham",
+            "Hamburger",
+            "Lobster",
+            "Phantom Pepper",
+            "Sausage"
+        ],
+        "2": [],
+        "1": [
+            "Cheese",
+            "Cream",
+            "Croquette",
+            "Curry",
+            "Dried Mackerel",
+            "Dried Sardine",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Fried Noodle",
+            "Fried Shrimp",
+            "Garlic",
+            "Grape",
+            "Gyoza",
+            "Hot Pepper",
+            "Jam",
+            "Kimchi",
+            "Melon",
+            "Normal Egg",
+            "Pineapple",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Salmon",
+            "Soba Noodle",
+            "Spicy Curry",
+            "Spicy Fish Egg",
+            "Sweet Bean Paste",
+            "Sweet Chestnut",
+            "Tangerine",
+            "Tofu",
+            "Top-grade Salad"
+        ],
+        "-1": [],
+        "-2": [],
+        "-3": [],
+        "-4": [
+            "Carrot",
+            "Goya",
+            "Lettuce",
+            "Plain",
+            "Tomato"
+        ],
+        "-5": []
+    },
+    "Bastion Misawa": {
+        "5": [
+            "Golden Egg"
+        ],
+        "4": [
+            "Top-grade Salad"
+        ],
+        "3": [
+            "Carrot",
+            "Caviar",
+            "Cook's",
+            "Foie Gras",
+            "Goya",
+            "Lettuce",
+            "Tomato",
+            "Truffle"
+        ],
+        "2": [
+            "Dried Mackerel",
+            "Dried Sardine",
+            "Fried Shrimp",
+            "Lobster",
+            "Salmon"
+        ],
+        "1": [
+            "Cheese",
+            "Chicken",
+            "Croquette",
+            "Curry",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Fried Noodle",
+            "Garlic",
+            "Gyoza",
+            "Ham",
+            "Hamburger",
+            "Hot Pepper",
+            "Kimchi",
+            "Normal Egg",
+            "Phantom Pepper",
+            "Plain",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Sausage",
+            "Soba Noodle",
+            "Spicy Curry",
+            "Spicy Fish Egg",
+            "Steak",
+            "Tofu"
+        ],
+        "-1": [],
+        "-2": [],
+        "-3": [
+            "Durian",
+            "Grape",
+            "Melon",
+            "Pineapple",
+            "Tangerine"
+        ],
+        "-4": [
+            "Chocolate",
+            "Cream",
+            "Jam",
+            "Sweet Bean Paste",
+            "Sweet Chestnut"
+        ],
+        "-5": []
+    },
+    "Zane Truesdale": {
+        "5": [
+            "Golden Egg",
+            "Plain"
+        ],
+        "4": [],
+        "3": [
+            "Cook's"
+        ],
+        "2": [],
+        "1": [
+            "Carrot",
+            "Caviar",
+            "Cheese",
+            "Chicken",
+            "Chocolate",
+            "Cream",
+            "Croquette",
+            "Curry",
+            "Dried Mackerel",
+            "Dried Sardine",
+            "Durian",
+            "Fermented Cheese",
+            "Fermented Soybean",
+            "Foie Gras",
+            "Fried Noodle",
+            "Fried Shrimp",
+            "Garlic",
+            "Goya",
+            "Grape",
+            "Gyoza",
+            "Ham",
+            "Hamburger",
+            "Hot Pepper",
+            "Jam",
+            "Kimchi",
+            "Lettuce",
+            "Lobster",
+            "Melon",
+            "Normal Egg",
+            "Phantom Pepper",
+            "Pineapple",
+            "Ramen Noodle",
+            "Rice Ball",
+            "Salmon",
+            "Sausage",
+            "Soba Noodle",
+            "Spicy Curry",
+            "Spicy Fish Egg",
+            "Steak",
+            "Sweet Bean Paste",
+            "Sweet Chestnut",
+            "Tangerine",
+            "Tofu",
+            "Tomato",
+            "Top-grade Salad",
+            "Truffle"
+        ],
+        "-1": [],
+        "-2": [],
+        "-3": [],
+        "-4": [],
+        "-5": []
+    }
+}
